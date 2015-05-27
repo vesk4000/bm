@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<p>Mining pools are a way for miners to pool their resources together and share their hashing power while splitting the reward equally according to the amount of shares they contributed to solving a block. A "share" is awarded to members of the mining pool who present a valid proof of work that their miner solved. Mining in pools began when the difficulty for mining increased to the point where it could take years for slower miners to generate a block. The solution to this problem was for miners to pool their resources so they could generate blocks quicker and therefore receive a portion of the block reward on a consistent basis, rather than randomly once every few years.</p>
+
+<h2><em><i class="fa fa-group"></i>Mining Pools</em></h2>
+<div class="content-divider"></div>
+<p>There are many good mining pools to choose from. Although it's tempting to pick the most popular one, it's better for the health of the network to mine with smaller pools so as to avoid potentially harmful concentration of hashing power. To see the relative size of any given pool, check blockchain.info's <a rel="nofollow" target="_blank" href="https://blockchain.info/pools">pool pie chart</a>.</p>
+		
+<p>For a fully decentralized pool, we recommend <a rel="nofollow" target="_blank" href="http://p2pool.in">p2pool</a>.</p>
+
+<p>A comparison list of all mining pools can be found <a rel="nofollow" target="_blank" href="https://en.bitcoin.it/wiki/Comparison_of_mining_pools">here</a>.</p>
+
+<h2><em><i class="fa fa-code-fork fa-flip-vertical"></i>Pool Payment Methods</em></h2>
+<div class="content-divider"></div>
+
+<p>Calculating your share of the coins mined can be complex. In an ongoing effort to come up with the fairest method and prevent gaming of the system, many calculation schemes have been invented. The two most popular types are PPS and DGM. PPS, or 'pay per share' shifts the risk to the pool while they guarantee payment for every share you contribute. PPS payment schemes require a very large reserve of 10,000 BTC in order to ensure they have the means of enduring a streak of bad luck. For this reason, most pools no longer support it. One of the few remaining PPS pools is <a target="_blank" href="https://eclipsemc.com/">EclipseMC</a>. DGM is a popular payment scheme because it offers a nice balance between short round and long round blocks.  However, end users must wait for full round confirmations long after the blocks are processed.</p>
+		
+		<p><strong>PPS:</strong> The Pay-per-Share (PPS) approach offers an instant, guaranteed payout for each share that is solved by a miner. Miners are paid out from the pools existing balance and can withdraw their payout immediately. This model allows for the least possible variance in payment for miners while also transferring much of the risk to the pool's operator.</p>
+        
+        <p><strong>PROP:</strong> The Proportional approach offers a proportional distribution of the reward when a block is found amongst all workers, based off of the number of shares they have each found.</p>
+		
+        <p><strong>PPLNS:</strong> The Pay Per Last N Shares (PPLN) approach is similar to the proportional method, but instead of counting the number of shares in the round, it instead looks at the last N shares, no matter the boundaries of the round.</p>
+        
+        <p><strong>DGM:</strong> The Double Geometric Method (DGM) is a hybrid approach that enables the operator to absorb some of the risk. The operator receives a portion of payouts during short rounds and returns it during longer rounds to normalize payments.</p>
+        
+        <p><strong>SMPPS:</strong> The Shared Maximum Pay Per Share (SMPPS) uses a similar approach to PPS but never pays more than the pool has earned.</p>
+        
+        <p><strong>ESMPPS:</strong> The Equalized Shared Maximum Pay Per Share (ESMPPS) is similar to SMPPS, but distributes payments equally among all miners in the pool.</p>
+        
+        <p><strong>RSMPPS:</strong> The Recent Shared Maximum Pay Per Share (RSMPPS) is also similar to SMPPS, but the system prioritizes the most recent miners first.</p>
+         
+        <p><strong>CPPSRB:</strong> The Capped Pay Per Share with Recent Backpay uses a Maximum Pay Per Share (MPPS) reward system that will pay miners as much as possible using the income from finding blocks, but will never go bankrupt.</p>
+        
+        <p><strong>BPM:</strong> Bitcoin Pooled mining (BPM), also known as "slush's pool", uses a system where older shares from the beginning of a block round are given less weight than more recent shares. This reduces the ability to cheat the mining pool system by switching pools during a round.</p>
+        
+        <p><strong>POT:</strong> The Pay on Target (POT) approach is a high variance PPS that pays out in accordance with the difficulty of work returned to the pool by a miner, rather than the difficulty of work done by the pool itself.</p>
+        
+        <p><strong>SCORE:</strong> The SCORE based approach uses a system whereby a proportional reward is distributed and weighed by the time the work was submitted. This process makes later shares worth more than earlier shares and scored by time, thus rewards are calculated in proportion to the scores and not shares submitted.</p>
+        
+        <p><strong>ELIGIUS:</strong> Eligius was designed by Luke Jr., creator of BFGMiner, to incorporate the strengths of PPS and BPM pools, as miners submit proofs-of-work to earn shares and the pool pays out immediately. When the block rewards are distributed, they are divided equally among all shares since the last valid block and the shares contributed to stale blocks are cycled into the next block's shares. Rewards are only paid out if a miner earns at least. 67108864 and if the amount owed is less than that it will be rolled over to the next block until the limit is achieved. However, if a miner does not submit a share for over a period of a week, then the pool will send any remaining balance, regardless of its size.</p>
+        
+        <p><strong>Triplemining:</strong> Triplemining brings together medium-sized pools with no fees and redistributes 1% of every block found, which allows your share to grow faster than any other pool approach. The administrators of these pools use some of the Bitcoins generated when a block is found to add to a jackpot that is triggered and paid out to the member of the pool who found the block. In this way, everyone in the pool has a better chance to make additional Bitcoins, regardless of their processing power.</p>
