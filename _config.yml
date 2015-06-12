@@ -6,7 +6,7 @@
 name: What is Bitcoin Mining? | How to become the best bitcoin miner
 
 # Short bio or description (displayed in the header)
-description:  Are you a good problem solver? Well, then you may be a good candidate to get involved with bitcoin mining, because that is what the process is all.
+description:  Learn how to mine Bitcoins with the best Bitcoin mining hardware, software, pools and cloud mining to help you make money Bitcoin mining.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/logo-bitcoin-mining.png
@@ -39,7 +39,7 @@ google_analytics: UA-36351995-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.bitcoinmining.com
+url: https://www.bitcoinmining.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
