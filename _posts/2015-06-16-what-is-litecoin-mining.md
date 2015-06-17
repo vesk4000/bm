@@ -2,7 +2,7 @@
 layout: post
 title: What is Litecoin mining?
 author: Litecoin Mining
-authorurl: /how-to-litecoin-mining/
+authorurl: /what-is-litecoin-mining/
 published: true
 ---
 
