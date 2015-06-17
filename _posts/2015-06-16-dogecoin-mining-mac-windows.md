@@ -15,5 +15,7 @@ published: true
 <iframe width="700" height="394" src="https://www.youtube.com/embed/zOqZ_sHfJ_U" frameborder="0" allowfullscreen></iframe>
 
 ### Transcript - Dogecoin Mining on Mac
+<p>Add the transcript here.
 
 ### Transcript - Dogecoin Mining on Windows
+<p>Add the transcript here.

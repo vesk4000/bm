@@ -15,5 +15,7 @@ published: true
 <iframe width="700" height="394" src="https://www.youtube.com/embed/gASgyuXUoF8" frameborder="0" allowfullscreen></iframe>
 
 ### Transcript - Litecoin Mining on Mac
+<p>Add the transcript here.
 
 ### Transcript - Litecoin Mining on Windows
+<p>Add the transcript here.
