@@ -11,9 +11,14 @@ published: true
 <iframe width="700" height="394" src="https://www.youtube.com/embed/tf3s-zBTNoQ" frameborder="0" allowfullscreen></iframe>
 <p>To get started mining litecoins you could get a <a href="http://www.runtogold.com/70khslitecoinminer">70KHs litecoin miner</a> for about $100 or a <a href="http://www.runtogold.com/30mhslitecoinminer">30MHs litecoin miner</a> for about $285.
 
+### 
+<iframe width="700" height="394" src="https://www.youtube.com/embed/cKjiw7nAZYc" frameborder="0" allowfullscreen></iframe>
+<p>Learn how to buy Litecoin with USD; with EUR; with RUR; and with BTC or practically every currency in the world.
+<p>Finding the easiest way to buy LiteCoin, minding the nature of cryptocurrencies and methods of converting them. If you exchange your currency into cryptocurrency then it becomes extremely easy to then diversify and trade other forms of cryptocurrency.
+
 ### Want to learn how to mine Litecoins on Mac?
 <iframe width="700" height="394" src="https://www.youtube.com/embed/NRSZT2emHw4" frameborder="0" allowfullscreen></iframe>
-<p>To get started mining dogecoins you could get a <a href="http://www.runtogold.com/70khsdogecoinminer">70KHs litecoin miner</a> for about $100.
+<p>To get started mining litecoins you could get a <a href="http://www.runtogold.com/70khsdogecoinminer">70KHs litecoin miner</a> for about $100.
 
 ### Want to learn how to mine Litecoins on Windows?
 <iframe width="700" height="394" src="https://www.youtube.com/embed/gASgyuXUoF8" frameborder="0" allowfullscreen></iframe>
@@ -47,8 +52,10 @@ published: true
 <p>And the only number that really changed was this number here and my intensity.  So if we increase our threat concurrency, and this is in kilobytes, we can increase our speed.  So I'm going to bump the intensity up two-twenty.  And I'm going to bump this up to nine thousand.  And I'm going to click on start.  And I bet it's higher than two hundred kilohertz's per second.  But you will want to be careful, because if you go too high, you know, if you bump this intensity up to a hundred, it probably won't make a difference over twenty or twenty-five.
 <p>But it's going to really slow down your computer and it's -- it might be bad for your graphics processors.  It could potentially burn them out, overheat them.  All in all, these are good numbers to go with, to start off and to see what your speed is for mining.  And then you can increase the intensity or increase the thread concurrency a little bit as you see fit, to see if you get better results.  Now if you let this run, let's just say, overnight.  And you mine Litecoin all night, all of your statistics are going to be kept in your WeMineLTC profile.
 <p>So if I click on stats, I can get to my stats here and my dashboard here on the left-hand side.  So that's it.  That's the easiest way to mine Litecoin.  I hope you enjoy part one of the Litecoin For Beginners video series.  Please rate, comment and subscribe.  In part two, I'll be going over where do we exchange our money into Litecoin.  In case, we're having problems mining or maybe our computer isn't fast enough to mine, whatever the reason maybe.
-<p>
-So thank you so much for watching.  And I'll see you in part two.
+<p>So thank you so much for watching.  And I'll see you in part two.
+
+### Transcript - LiteCoin For Beginners - How To Buy LiteCoin & Exchange Reviews
+Add transcript here.
 
 ### Transcript - Litecoin Mining on Mac
 <p>All right.  I'm going to walk you through how to start mining Litecoin on your Mac computer.  The first thing you need to do is join a Litecoin pool using CoinHunter.  It's a popular one right now.  It doesn't really matter.  You can find tons online.  When you get to one of these sites, first thing you need to do is create an account for the site.  You can click that button down there.  There's a lot of fields you have to sign out, or you have to fill out to sign up.  I'm not going to do it for you because I already have an account, I'm just going to go back to the home page and login directly.
