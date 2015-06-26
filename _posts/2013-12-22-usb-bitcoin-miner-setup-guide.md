@@ -21,7 +21,7 @@ published: true
 <li><a href="http://www.runtogold.com/2ghsbitfuryusbbitcoinminer">2.5 GHs Bitfury USB</a></li>
 <li><a href="http://www.runtogold.com/36avalonusbbitcoinminer">3.6 GHs USB Avalon</a></li></ul>
 <p>
-{% include bitcoin-mining-hardware-comparison.html %}
+{% include bitcoin-mining-usb-hardware-comparison.html %}
 <p>
 ### Transcript - USB - Bitcoin Mining Setup Guide
 <p>Add transcript here.
