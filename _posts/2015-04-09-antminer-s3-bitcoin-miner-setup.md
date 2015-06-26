@@ -17,5 +17,6 @@ published: true
 {% include bitcoin-mining-hardware-comparison.html %}
 <p>
 ### Transcript - Antminer S3 - Bitcoin Mining Setup
-
+<p>Add transcript here.
 ### Transcript - How to Setup a Raspberry Pi 2 Bitcoin Mining Rig w/ Bitmain AntMiner U3
+<p>Add transcript here.
