@@ -16,10 +16,6 @@ published: true
 <li><a href="http://www.runtogold.com/usbfan">USB Fan</a></li>
 <li><a href="http://www.runtogold.com/microusbcable">Micro USB Cable</a></li> 
 <li><a href="http://www.runtogold.com/ethernetcable">Ethernet Cable</a></li></ul>
-<p>The Bitcoin miners themselves. You will want to choose the best based on cost and power efficiency.
-<ul><li><a href="http://www.runtogold.com/2ghsantminerusb">2.0 GHs USB Antminer</a></li>
-<li><a href="http://www.runtogold.com/2ghsbitfuryusbbitcoinminer">2.5 GHs Bitfury USB</a></li>
-<li><a href="http://www.runtogold.com/36avalonusbbitcoinminer">3.6 GHs USB Avalon</a></li></ul>
 <p>
 {% include bitcoin-mining-usb-hardware-comparison.html %}
 <p>
