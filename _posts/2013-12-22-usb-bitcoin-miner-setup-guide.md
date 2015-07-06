@@ -20,7 +20,7 @@ published: true
 {% include bitcoin-mining-usb-hardware-comparison.html %}
 <p>
 ### Transcript - USB - Bitcoin Mining Setup Guide
-<p>What's going on every one?  This is Fred, fredyen.com, and today we're going to build a Bitcoin miner.  All right.  So, if you're unfamiliar with Bitcoin I do have another video that has all the 10 things that you need to know about Bitcoin.  So, give that a watch, get caught up, come back and we'll get started.
+<p>What's going on every one?  This is Fred and today we're going to build a Bitcoin miner.  All right.  So, if you're unfamiliar with Bitcoin I do have another video that has all the 10 things that you need to know about Bitcoin.  So, give that a watch, get caught up, come back and we'll get started.
 
 So, here’s all the pieces that you need to start building your own Bitcoin miner.  I will place some links to all the parts down below so that you can get started on your project.  Now, the first item that you want to pick up is called a Raspberry Pi.  Now, this is basically just a credit card sized computer.  Now, the nice thing about having one of these is that this is a completely separate unit from your personal computer, which means you can mine for Bitcoins 24x7 without affecting your daily computer usage.  Now, when you're picking up one of these you want to make sure that you get the version B.  Now, due to its size it's very efficient on power consumption.  This entire computer can be powered by USB cable.
 
