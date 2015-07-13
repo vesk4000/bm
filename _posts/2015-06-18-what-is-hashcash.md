@@ -1,13 +1,12 @@
 ---
 layout: post
-title: What is Hashcash
+title: What is Hashcash?
 author: Bitcoin Mining
 authorurl: /
 published: true
 ---
 
 
-<h3>What is Hashcash?</h3>
 <p>Bitcoin uses the hashcash <a href="/what-is-proof-of-work/>Proof of Work</a> function as the Bitcoin mining core. All bitcoin miners whether CPU, GPU, FPGA or ASICs are expending their effort creating hashcash proofs-of-work which act as a vote in the blockchain evolution and validate the blockchain transaction log.
 <p>Like many cryptographic algorithms hashcash uses a hash function as a building block, in the same way that HMAC, or RSA signatures are defined on a pluggable hash-function (commonly denoted by the naming convention of algorithm-hash: HMAC-SHA1, HMAC-MD5, HMAC-SHA256, RSA-SHA1, etc), hashcash can be instantiated with different functions, hashcash-SHA1 (original), hashcash-SHA256^2 (bitcoin), hashcash-Scrypt(iter=1) (litecoin).
 <h3>History</h3>
