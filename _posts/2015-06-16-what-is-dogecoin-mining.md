@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Dogecoin mining?
+title: What is Dogecoin mining? Learn all you need to get started.
 author: Dogecoin Mining
 authorurl: /what-is-dogecoin-mining/
 published: true

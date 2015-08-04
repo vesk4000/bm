@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Litecoin mining?
+title: What is Litecoin mining? Learn all you need to get started.
 author: Litecoin Mining
 authorurl: /what-is-litecoin-mining/
 published: true
