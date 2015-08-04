@@ -40,7 +40,7 @@ published: true
 <h2 id="is-bitgold-safe">Is Bitgold safe?</h2>
 <center><img src="https://www.weusecoins.com/images/bitgold-going-public.jpg"></center>
 <p>Bitgold is new, unproven and appears to be in a regulatory grey area. The company itself does not appear to state what regulator has jurisdiction and oversees their trade practices such as ensuring that customer funds are kept safe. Additionally, the CEO has endorsed the use of the system with online gambling.
-<p>According to <a href="/bitgold-filing.pdf">page 20 of their initial public filing</a> they conclude that:
+<p>According to <a href="https://www.weusecoins.com/bitgold-filing.pdf">page 20 of their initial public filing</a> they conclude that:
 <blockquote cite="https://www.weusecoins.com/bitgold-filing.pdf">"neither company is eligible to be registered with the Financial Transactions and Reports Analysis Centre of Canada ... There can be no assurance that BitGold’s services or Internet platform will be acceptable to foreign regulatory bodies. Foreign governments may seek to restrict access to BitGold’s services, block BitGold’s website, or impose other restrictions that may affect BitGold’s ability to offer service to new or existing users in those for an extended period of time or indefinitely.</blockquote>
 <center><img src="https://www.weusecoins.com/images/paul-tustain.jpg"></center>
 <h2 id="is-bitgold-financially-solid">Is Bitgold financially solid?</h2>
