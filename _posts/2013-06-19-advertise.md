@@ -11,9 +11,9 @@ published: true
 <p><h2>TRAFFIC</h2>
 <p>Traffic can <b>vary greatly</b> depending on the news cycle around Bitcoin. Therefore, to compensate we remove the bottom 20% and top 20%.
 <p>As a result, daily traffic for WeUseCoins is about 5,830 and for Bitcoin Mining is about 6,150.
-<p>Bitcoin Mining traffic from Oct 31, 2013-Nov 30, 2015.
+<p><b>Bitcoin Mining</b> traffic from Oct 31, 2013-Nov 30, 2015.
 <p><img src="/images/sponsor/bitcoin-mining-traffic.png" alt="bitcoin mining traffic" align="center">
-<p>WeUseCoins traffic from Oct 31, 2013-Nov 30, 2015.
+<p><b>WeUseCoins</b> traffic from Oct 31, 2013-Nov 30, 2015.
 <p><img src="/images/sponsor/weusecoins-traffic.png" alt="weusecoins traffic" align="center">
 <p><h2>RATES</h2>
 <p>We can be very flexible with whatever type of campaign you want to run. Almost all legal business will be considered although some niches will not. The site needs to be family friendly and professional. All advertising sponsorships must be paid in advance via Bitcoin.
