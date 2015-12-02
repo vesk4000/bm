@@ -26,5 +26,5 @@ published: true
 <p><b>LARGE</b>If a large site-wide campaign were wanted then for the footer slot above the black email box on both sites would generate about 360,000 impressions per month and cost about $9,000.
 <p><b>LARGE and LONG</b>If you wanted to buy out the header banner (directly beneath the navigation bar) for a 6 month period on both sites then we would probably do a deal for around $60,000. Talk about great exposure for your business!
 <p><h2>CONTACT</h2>
-<p>If you are serious about sponsoring with some advertising then please send an email with (1) what type of campaign you want to run, (2) where you would like the banners to appear and (3) your suggested rate. We are easy to work with and commercially reasonable.
+<p>If you are serious about sponsoring with some advertising then please send an email with <b>(1)</b> what type of campaign you want to run, <b>(2)</b> where you would like the banners to appear and <b>(3)</b> your suggested rate. We are easy to work with and commercially reasonable.
 <p><img src="/images/sponsor/advertise-contact-info.png" alt="advertise contact info" align="center">
