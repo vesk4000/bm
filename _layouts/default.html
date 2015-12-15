@@ -38,7 +38,7 @@
             <a href="{{ site.baseurl }}/bitcoin-mining-software/">Mining Software</a> 
             <a href="{{ site.baseurl }}/bitcoin-mining-hardware/">Mining Hardware</a>
             <p>
-            <center>{% include social-shares.html %} <div id="btc-quote"></div>
+            <center><div id="btc-quote"></div>
     <script type="text/javascript" src="https://www.weusecoins.com/embed.js"></script> <a href="https://www.weusecoins.com/en/embed/">Embed and get free bitcoins!</a>
     </center>
           </nav>
@@ -46,7 +46,8 @@
       </div>
     </div>
       
-    <div id="main" role="main" class="container">     
+    <div id="main" role="main" class="container">
+    {% include social-shares.html %}     
       {{ content }}
     </div>
 
