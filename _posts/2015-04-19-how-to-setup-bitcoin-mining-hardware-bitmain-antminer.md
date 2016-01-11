@@ -23,7 +23,28 @@ published: true
 {% include bitcoin-mining-hardware-comparison.html %}
 <p>
 ### Transcript - Bitmain Antminer S7 - Bitcoin Mining Hardware Setup
-<p>Add Transcript here.
+<p>All right, this video has been a long time coming.  I got the Antminer S7 batch 1 on right now.  Basically the reason it took so long I had to get this.  This is a 250-watt outlet.  And then you can see I have this APW3, 1,600-watt power supply.  It's on.  It's running.  The Antminer is charging up.  It's going to get a little louder than this so before that happens I'm going to do some videos.
+
+So I have my guy run this 250-watt dedicated cable right to my box.  It's even got a dedicated breaker.  So we're not fooling around.  Directly to the main.  This is 120 watts.  I have the Wi-Fi because I'm not interested in wiring at this moment. My basement is unfinished.  So I'll save the wiring for another day, but I have this a little 80211 AC bridge right here like in the description.  It's going to start that up so get that going too and pretty much this is the first boot up, by the way.
+
+Literally, we had some hiccups with voltage concerns.  We had initially just had one of those regular PSU cables.  This is rated 16A, 300-watt, heavy gauge.  This is super thick.  The heat alone is, it definitely can handle.  As you can see I got a big table here.  I'm going to get like a better table, but it definitely suits my needs as you can see.
+
+So I definitely have the dedicated 120 right here for the router, for the bridge and I have a dedicated 250 volts dedicated power directly to the breaker.  We're not messing around with electricity.  It's the U.S.  Anybody wants to know it's 4 cents a watt here.  So it's pretty cheap.  I live in the woods.  So it's going.
+
+I wonder if this is as loud as it's going to be.  This isn't that loud.  This is the sound you're hearing is coming from the PSU.  So that's the sound.  And this is the sound from the Antminer.  So it hasn't really switched on yet.  I could feel the heat coming off of right here.  It's going this way being sucked in that way going this way which for this table, for everything the way it's set up I think it works for me.
+
+I actually don't mind the table at all.  So I might just keep the table.  This is some sort of like poly resin glass.  It's not really glass.  It's something weird but it will shatter though.  So the problem was that I had a first 120-watt outlet in here.  I told my electrician I need 200 volts minimum dedicated circuit to the main and everything and he just was like, oh, what you really want is just to dedicate its circuit to a 120.
+
+I'm like no, because nobody in the US uses 205 plus volts of electricity on any appliance unless it's a washer or a dryer.  So he didn't quite understand.  So we have to have him come back out and throw this 250-volt outlet and this cable right here.  Linking the description as well.  So I have to do that.  I just finished that today.  I'm going to be setting up the Antminer on the Antpool very soon and my router is way over there.
+
+I have the Apple AirPort Extreme Time Capsule 80211 AC.  So connecting to this bridge by Western Digital 80211 AC Bridge.  So you got to have the AC on both ends for it to connect.  So I really wonder the Antminer is going to be as loud as this, which I doubt.  If it is then that's awesome.  Because it's definitely running.  It's getting even hotter.  I have an ambient temperature thing upstairs, but I don't have it down here yet but I'm going to put it up and see how hot this thing gets.
+
+Right here, this is just a voltage checker.  It just checks the voltage because I wanted to confirm.  This guy was like you definitely have what you wanted.  I'm like, no, I don't.  I checked the voltage coming out of my outlet from the previous one he put in it was a 120.  I checked this down earlier when he was putting it in.  It was 240 plus volts.  So this outlet is rated for 250 max Antminer 250 max voltage, minimum 205 volts to run this beast.  If no lights come on, you do not have enough voltage.  Nothing will happen except for this.  We'll start.
+
+I like the clean set up, APW1600 power watt supply.  It's clean.  It's efficient and it gets the job done.  This basement; no cobwebs.  I try to keep it pretty clean.  It's pretty high off the ground so there is a humidifier it's going to be set up on this table and everything is going to be on here on the table pretty neatly.  We just got this done. 
+
+I'm excited to connect to the network and see and so it has some code and getting some bitcoin before the block has and right now it's the first week of November, second week of November.  So I definitely want to get this copy up in running.  I got to connect this bad boy.  Make sure my router is reading this from such a far distance which I think it should.  All right.  So stay tune for the part 3 of this Antminer S7 review. 
+
 <p>
 ### Transcript - Antminer S5 - Bitcoin Mining Setup
 <p>Hello.  We got a power supply here.  I just got it from Newegg.  That’s my power supply to my miner here.  I’ll show you how to jump it real quick.  Alright, so take a paper clip and you connect the green and the black wire there.
