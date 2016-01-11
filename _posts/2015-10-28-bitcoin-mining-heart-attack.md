@@ -100,7 +100,7 @@ Because an average is just a single number, it necessarily contains less total i
 
 <h4 id="details">Details</h4>
 
-<p>I did some <a href="/images/impact-of-reward-change.xlsx">preliminary Excel math</a> to take a first look at the potential issuance schedule and its effect on miners. This analysis is oversimplified (a year spans just a single row, instead of 6*24*365 = 52,560 rows), and I would (obviously) improve it before making a formal proposal. The specific numbers are, of course, irrelevant; only the concepts are relevant.</p>
+<p>To take a first look at the potential issuance schedule and its effect on miners. This analysis is oversimplified (a year spans just a single row, instead of 6*24*365 = 52,560 rows), and I would (obviously) improve it before making a formal proposal. The specific numbers are, of course, irrelevant; only the concepts are relevant.</p>
 
 <table>
   <thead>
