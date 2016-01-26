@@ -7,7 +7,7 @@ published: true
 ---
 
 
-<p>The AntMiner S5 is about four times more powerful than the AntMiner S3 but otherwise they are very similiar. Have you purchased an <A href="http://www.runtogold.com/1155ghsantminerbitcoinminer">Antminer S3</a> Bitcoin miner and need to learn how to set it up?
+<p>The AntMiner S5 is about four times more powerful than the AntMiner S3 but otherwise they are very similiar. You can also check out the latest [Antminer S7](/how-to-setup-bitcoin-mining-hardware-bitmain-antminer/). Have you purchased an <A href="http://www.runtogold.com/1155ghsantminerbitcoinminer">Antminer S3</a> Bitcoin miner and need to learn how to set it up?
 ### AntMiner S5 - Unboxing Bitcoin Miner Setup with Power Supply
 <iframe width="700" height="394" src="https://www.youtube.com/embed/uNbaZwqdPAc" frameborder="0" allowfullscreen></iframe>
 <p>Most Bitcoin miners will need power supplies to run and they can be expensive.
@@ -47,7 +47,7 @@ So now, if you do get into Bitcoin mining, the first thing that you're going to 
 
 Here's an example of my coinbase account.  Now one thing you need to be made aware of when dealing with Bitcoins is the market for Bitcoins is very volatile.  It is always -- there's lots of ups and downs so that's one thing you need to take into consideration if you want to start mining Bitcoins.  Alright guys, so one last thing with the coinbase account is if you ever want to sell your Bitcoins and convert those into US dollars you can easily do so by just linking your bank account information clicking the sell button and you'll have US currency in your account a day or two later.
 
-Alright guys, a little bit more on my Bitcoin miners.  I do have them working in a mining pool.  And a mining pool is thousands of people that are working together to mine together to find a block, and a block consists of 25 bitcoins and if you find that one block the profits are split between all the people that are mining for that pool, I mean mining for that block.
+Alright guys, a little bit more on my Bitcoin miners.  I do [have them working in a mining pool](/bitcoin-mining-pools/).  And a mining pool is thousands of people that are working together to mine together to find a block, and a block consists of 25 bitcoins and if you find that one block the profits are split between all the people that are mining for that pool, I mean mining for that block.
 
 So the site that I use is btcguild.com.  It works out very well for me.  As you can see I'm getting regular payouts of .01 Bitcoins almost daily.  Some of the days where I have lapses in my Bitcoins I was swapping over to a different pool like Slush’s pool or Bitcoin Affiliate Network.  And I just went back to btcguild and I'm sticking with it.  Now, in closing probably one of the final questions I'm going to get is why am I Bitcoin mining -- mining for Bitcoins?  And why did I choose to go this route and spend this type of money?
 

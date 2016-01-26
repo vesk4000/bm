@@ -61,7 +61,7 @@ From an interview with the <a href="http://business.financialpost.com/investing/
 <p>“I’m seeing friends who signed up sending payments to each other,” Sebag said. “I know they bet on football, and now they’re paying each other.”</blockquote>
 <h2 id="bitgold-nick-szabo">Bit Gold - Confusion with Nick Szabo's mid-2000's Project</h2>
 <p>Bitgold Inc. should not be confused with Nick Szabo's Bit Gold project. Nor does Bitgold Inc. have anything to do with Bitcoin.
-<p>The <a href="http://unenumerated.blogspot.com/2005/12/bit-gold.html">Bit Gold proposal</a>, by Nick Szabo, describes a system for the decentralized creation of unforgeable chains of proofs of work, with each one being attributed to its discoverer's public key, using timestamps and digital signatures.
+<p>The <a href="http://unenumerated.blogspot.com/2005/12/bit-gold.html">Bit Gold proposal</a>, by Nick Szabo, describes a system for the decentralized creation of <a href="/what-is-proof-of-work/">unforgeable chains of proofs of work</a>, with each one being attributed to its discoverer's public key, using timestamps and digital signatures.
 <p>It is said that these proofs of work would have value because they would be scarce, difficult to produce, and securely stored and transferred.
 <p>Szabo's theory of the economics of such money is described in the linked article on the origins of money.
 <p>Transfer with prevention of double-spending, via a Byzantine-resilient peer-to-peer method, is described in another linked article which calls the method secure property titles and proposes also applying it to other kinds of digital property, such as domain names.

@@ -16,7 +16,7 @@ published: true
 
 <h3 id="subproblem-1-the-blockreward-halving-instantly-cuts-miner-revenues-by-a-huge-fraction">SubProblem 1: The blockreward halving instantly cuts miner revenues by a huge fraction.</h3>
 
-<p>Of course, this assumes [1] that transaction fees are negligible and [2] the Bitcoin exchange rate never increases in response to the difficulty halving.</p>
+<p>Of course, this assumes [1] that transaction fees are negligible and [2] the Bitcoin exchange rate never increases in response to the <a href="/what-is-bitcoin-mining-difficulty/">difficulty halving</a>.</p>
 
 <p>Transaction fees are currently around 1% of miner-revenues, and no one expects this proportion to significantly increase anytime soon. Even if transaction fees were 50% of revenues (wildly optimistic), the reward-halving would still cut total revenues by (1/4), a sizable proportion.</p>
 
@@ -66,7 +66,7 @@ Because an average is just a single number, it necessarily contains less total i
 
 <p>We might hope that miners, out of the kindness of their hearts, would simply keep mining (at a loss) to prevent Bitcoin from dying (and prevent their specialized hardware from depreciating to zero).</p>
 
-<p>This isn’t acceptable to me - in equilibrium, miners consume all of their BTC revenues (which are all spent on operating or capital costs), and it is easy to imagine miners who plan their capital investments to align with the 4 year Bitcoin halving cycle (“we’re going to run these into the ground until the reward halves, and then replan from there”). Mining hardware itself rarely lasts longer than 2 years, anyway.</p>
+<p>This isn’t acceptable to me - in equilibrium, miners consume all of their BTC revenues (which are all spent on operating or capital costs), and it is easy to imagine miners who plan their capital investments to align with the 4 year Bitcoin halving cycle (“we’re going to run these into the ground until the reward halves, and then replan from there”). [Mining hardware](/bitcoin-mining-hardware/) itself rarely lasts longer than 2 years, anyway.</p>
 
 <p>The cost of altruistic mining can be roughly estimated. Currently, miners collectively earn 2016*25*300 = over $15 million dollars in revenue each difficulty cycle. These inputs might all change, of course, but, if they didn’t, the 2016 halving would slash this revenue by over $7,000,000. If miners were already running at cost, this 7M figure is the cost of keeping 10 minute blocks. Worse still, such altruism would <em>prevent</em> the subsequent difficulty adjustment from being representative; miners would only keep themselves trapped in Altruism Prison, losing money the whole time.</p>
 
