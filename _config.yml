@@ -54,7 +54,7 @@ baseurl: ""
 
 markdown: redcarpet
 highlighter: pygments
-permalink: /:title/
+permalink: /:categories/:title/
 
 # The release of Jekyll Now that you're using
 version: v1.1.0
@@ -81,6 +81,11 @@ defaults:
     values:
       layout: "default"
       lang: en
+  -
+    scope:
+      path: "_posts/en"
+    values:
+      lang: en
   - # German
     scope:
       path: "de"
@@ -91,7 +96,6 @@ defaults:
       path: "_posts/de"
     values:
       lang: "de"
-      permalink: /de/:title
   - # French
     scope:
       path: "fr"
@@ -102,4 +106,3 @@ defaults:
       path: "_posts/fr"
     values:
       lang: "fr"
-      permalink: /fr/:title
