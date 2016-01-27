@@ -214,7 +214,7 @@ img {
   }
 }
 
-nav {
+nav.site-navigation {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
@@ -392,3 +392,4 @@ pre {
 @import "highlights";
 @import "svg-icons";
 @import "social-shares";
+@import 'footer';

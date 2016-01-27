@@ -73,3 +73,33 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+
+defaults:
+  - # English
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+      lang: en
+  - # German
+    scope:
+      path: "de"
+    values:
+      lang: "de"
+  -
+    scope:
+      path: "_posts/de"
+    values:
+      lang: "de"
+      permalink: /de/:title
+  - # French
+    scope:
+      path: "fr"
+    values:
+      lang: "fr"
+  -
+    scope:
+      path: "_posts/fr"
+    values:
+      lang: "fr"
+      permalink: /fr/:title

@@ -1,0 +1,37 @@
+en:
+  native: English
+  navigation:
+    - text: Start
+      link: getting-started
+    - text: News
+      link: bitcoin-mining-news
+    - text: Pool
+      link: bitcoin-mining-pools
+    - text: Cloud
+      link: best-bitcoin-cloud-mining-contract-reviews
+    - text: Software
+      link: bitcoin-mining-software
+    - text: Hardware
+      link: bitcoin-mining-hardware
+  footer:
+    contribute: Contribute
+    links:
+      - text: Advertise
+        link: advertise
+      - text: FAQ
+        link: faq
+      - text: About Us
+        link: about-us
+  post:
+    written-by: 'Written by <a href="%authorurl%">%author%</a> on %date%.'
+de:
+  native: Deutsch
+  footer:
+    contribute: Beitragen
+    links:
+      - text: Werben
+        link: werben
+  post:
+    written-by: 'Geschrieben von <a href="%authorurl%">%author%</a> am %date%.'
+fr:
+  native: Francais
