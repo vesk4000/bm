@@ -35,3 +35,6 @@ de:
     written-by: 'Geschrieben von <a href="%authorurl%">%author%</a> am %date%.'
 fr:
   native: Francais
+  contribute: Contribuer
+  post:
+    written-by: 'Écrit par <a href="%authorurl">%author%</a> le %date%.'
