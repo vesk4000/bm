@@ -38,3 +38,5 @@ fr:
   contribute: Contribuer
   post:
     written-by: 'Écrit par <a href="%authorurl">%author%</a> le %date%.'
+nl:
+  native: Nederlands
