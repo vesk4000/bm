@@ -107,3 +107,12 @@ defaults:
       path: "_posts/fr"
     values:
       lang: "fr"
+  - # Dutch
+    scope:
+      path: "nl"
+    values:
+      lang: "nl"
+  -
+    scope:
+      path: "_posts/nl"
+      lang: "nl"
