@@ -115,4 +115,5 @@ defaults:
   -
     scope:
       path: "_posts/nl"
+    values:
       lang: "nl"
