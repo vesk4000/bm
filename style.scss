@@ -451,6 +451,26 @@ pre {
   }
 }
 
+.mining-hardware-list {
+	width: 100%;
+	text-align: center;
+}
+
+.mining-hardware-list th {
+    font-weight: bold;
+    text-align: center;
+}
+
+.mining-hardware-list tr:nth-child(2n+1) {
+    background: #f2f1f1 none repeat scroll 0 0;
+}
+
+@media screen and (max-width: 748px) {
+    .miner-pe {
+	    display: none;
+    }
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";

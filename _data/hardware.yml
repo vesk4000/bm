@@ -104,13 +104,14 @@
     product: AntMiner S7 
     advertised_mhashs: 4,860,000
     advertised_ghashs: 4,860
+    advertised_thashs: 4.73
     mhashJ: 4000
     ghashJ: 4
     mhash_s_usd: 2666
     ghash_s_usd: 2.666
     watts: 1,210
     powerefficiencywgh: 0.25
-    priceusd: 1823.00
+    priceusd: 1,498.74
     currently_shipping: No
     comm_ports: Ethernet
     dev_friendly: GPL infringement
@@ -119,7 +120,7 @@
     btcpm: 0.9153
     img: bitcoin-miner-antminer-s7.jpg
     cat: featured
-    weight: 8.8
+    weight: 8.8 pounds
 -
     product: AntMiner U1 
     advertised_mhashs: 1,600
@@ -138,7 +139,7 @@
     buy: 
     btcpm: 
 -
-    product: AntMiner U2+
+    product: AntMiner U2
     advertised_mhashs: 2,000
     advertised_ghashs: 2
     mhashJ: 1,000
@@ -147,13 +148,16 @@
     ghash_s_usd: 0.115
     watts: 2
     powerefficiencywgh: 1.00
-    priceusd: 17.00
+    priceusd: 32.99
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: code
-    gsg: 
-    buy: 
+    gsg: /usb-bitcoin-miner-setup-guide/
+    buy: http://www.runtogold.com/2ghsantminerusb
     btcpm: 
+    weight: 0.8 ounces
+    cat: usbminer
+    img: usb-bitcoin-miner-antminer-u2.jpg
 -
     product: AntMiner U3 
     advertised_mhashs: 63,000
@@ -937,24 +941,25 @@
     buy: 
     btcpm: 
 -
-    product: Red/BlueFury
+    product: BPMC Red Fury USB
     advertised_mhashs: 2,600
-    advertised_ghashs: 3
+    advertised_ghashs: 2.5
     mhashJ: 1040
     ghashJ: 1.04
     mhash_s_usd: 4
     ghash_s_usd: 0.004
     watts: 2.5
     powerefficiencywgh: 0.96
-    priceusd: 640.00
+    priceusd: 
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: code, samples
     gsg: https://www.bitcoinmining.com/usb-bitcoin-miner-setup-guide/
     buy: http://www.runtogold.com/2ghsbitfuryusbbitcoinminer
-    btcpm: 
+    btcpm: 0.00077463
     img: bitcoin-miner-bitfury-usb.jpg
-    cat: featured
+    cat: featured, usbminer
+    weight: 1.6 ounces
 -
     product: ROCKMINER R3-BOX
     advertised_mhashs: 450,000
@@ -1073,18 +1078,19 @@
     dev_friendly: code, samples
     gsg: 
     buy: 
-    btcpm: 
+    btcpm: 0.2902
 -
     product: Spondooliestech SP20 Jackson
     advertised_mhashs: 1,700,000
     advertised_ghashs: 1,700
+    advertised_thashs: 1.3-1.7
     mhashJ: 1545
     ghashJ: 1.545
     mhash_s_usd: 1299
     ghash_s_usd: 1.299
     watts: 1100
     powerefficiencywgh: 0.65
-    priceusd: 1309.00
+    priceusd: 359.33
     currently_shipping: Discontinued
     comm_ports: Ethernet
     dev_friendly: code, samples
@@ -1093,6 +1099,7 @@
     btcpm: 
     img: bitcoin-miner-spondoolies.jpg
     cat: featured
+    weight: 20 pounds
 -
     product: Spondooliestech SP30 Yukon
     advertised_mhashs: 4,500,000
@@ -1229,20 +1236,24 @@
     gsg: 
     buy: 
     btcpm: 
+    
 -
-    product: 
-    advertised_mhashs: 
-    advertised_ghashs: 
-    mhashJ: 
-    ghashJ: 
-    mhash_s_usd: 
-    ghash_s_usd: 
-    watts: 
-    powerefficiencywgh: 
-    priceusd: 
-    currently_shipping: 
-    comm_ports: 
-    dev_friendly: 
-    gsg: 
-    buy: 
-    btcpm: 
+    product: Avalon USB Nano3
+    advertised_mhashs: 3,600
+    advertised_ghashs: 3.6
+    mhashJ: 1174
+    ghashJ: 1.174
+    mhash_s_usd: 20
+    ghash_s_usd: 0.02
+    watts: 3.83
+    powerefficiencywgh: 0.85
+    priceusd: 55.0
+    currently_shipping: Yes
+    comm_ports: USB
+    dev_friendly: code, samples
+    gsg: /usb-bitcoin-miner-setup-guide/
+    buy: http://www.runtogold.com/36avalonusbbitcoinminer
+    btcpm:     
+    weight: 0.8 ounces
+    cat: usbminer
+    img: usb-bitcoin-miner-avalon-nano3.jpg

@@ -11,8 +11,16 @@ title: Learn about Bitcoin mining hardware
 <p>FPGA miners used much less power than CPU's or GPU's and made concentrated mining farms possible for the first time.</p>
 <h3><em>Today's modern and best bitcoin mining hardware</em></h3>
 <p><strong>Application-specific integrated circuit</strong> (ASIC) miners have taken over completely. These ASIC machines mine at unprecedented speeds while consuming much less power than FPGA or GPU mining rigs. Several reputable companies have established themselves with excellent products.</p>
-{% include bitcoin-mining-hardware-comparison.html %}
-<p>For a comprehensive comparison of <a href="https://en.bitcoin.it/wiki/Mining_hardware_comparison">bitcoin mining hardware</a>.
+
+<div class="hardware-comparison">
+{% for miner in site.data.hardware %}
+{% if miner.cat contains 'featured' %}
+{% include hardware-compare.html %}
+{% endif %}
+{% endfor %}
+</div>
+
+<p>For a comprehensive comparison of bitcoin mining hardware</a>.
 <h2>Best Bitcoin Mining Hardware</h2>
 <img src="/images/bitcoin-mining-chip-sheet.jpg" alt="bitcoin mining chip sheet" width="700" height="247"/>
 <p>Two major factors go into determining the best bitcoin mining hardware: <b>(1)</b> cost and <b>(2)</b> electricity efficiency.
@@ -21,13 +29,25 @@ title: Learn about Bitcoin mining hardware
 <p>Application-specific integrated circuit chips (ASICs) are bitcoin mining hardware created solely to solve Bitcoin blocks. They have only minimal requirements for other normal computer applications. Consequently, ASIC Bitcoin mining systems can solve Bitcoin blocks much quicker and use less less electricity or power than older bitcoin mining hardware like CPUs, GPUs or FPGAs.
 <p>As Bitcoin mining increases in popularity and the Bitcoin price rises so does the value of ASIC Bitcoin mining hardware. As more Bitcoin mining hardware is deployed to secure the Bitcoin network the Bitcoin difficulty rises. This makes it impossible to profitably compete without a Bitcoin ASIC system. Furthermore, Bitcoin ASIC technology keeps getting faster, more efficient and more productive so it keeps pushing the limits of what makes the best Bitcoin mining hardware.
 <p>Some models of Bitcoin miners include Antminer S5, Antminer U3, ASICMiner BE Tube, ASICMiner BE Prisma, Avalon 2, Avalon 3, BTC Garden AM-V1 616 GH/s, VMC PLATINUM 6 MODULE, and <a href="/usb-bitcoin-miner-setup-guide/">USB miners</a>.
-{% include bitcoin-mining-usb-hardware-comparison.html %}
 
 <div class="hardware-comparison">
-{% assign hardware = site.data.hardware %}
-{% for miner in hardware %}
-{% if miner.cat contains 'featured' %}
-{% include hardware-compare.html %}
+{% for miner in site.data.hardware %}
+{% if miner.cat contains 'usbminer' %}
+{% include hardware-compare-usb.html %}
 {% endif %}
 {% endfor %}
 </div>
+
+
+<h2>Full List of Mining Hardware</h2>
+<table class="mining-hardware-list">
+	<tr>
+	<th>Miner</th>
+	<th>Capacity</th>
+	<th class="miner-pe">Efficiency</th>
+	<th>Price</th>
+	</tr>
+{% for miner in site.data.hardware %}
+{% include hardware-compare-table.html %}
+{% endfor %}
+</table>
