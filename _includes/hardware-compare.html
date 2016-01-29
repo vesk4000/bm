@@ -1,0 +1,20 @@
+ <div>
+    <h3>{% miner.product %}</h3>
+    <a href="{% miner.buy %}">
+      <img src="/images/{% miner.img %}" alt="{% miner.product %} Bitcoin Miner">
+    </a>
+    <ul>
+      <li class="capacity">{% miner.advertised_ghashs %} Gh/s</li>
+      <li class="power">{% miner.powerefficiencywgh %} W/Gh</li>
+      <li class="weight">{% miner.weight %} pounds</li>
+      <li class="guide"><a href="{% miner.gsg %}">Yes</a></li>
+      <li class="price">${% miner.priceusd %}</li>
+      <li class="buyfrom">
+        <a href="{% miner.buy %}">
+          <img border="0" alt="{% miner.product %} Bitcoin Miner" src="/images/buy-from-amazon.png" width="120" height="28">
+        </a>
+      </li>
+      <li class="approx">{% miner.btcpm %}</li>
+    </ul>
+  </div>
+ 
