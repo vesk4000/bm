@@ -1,8 +1,9 @@
+{% if t.contribute-notif %}
 <div id="contribute-notification">
   <div class="close">x</div>
-  <h4>Contribute and translate!</h4>
-  <p>We want to spread knowledge about Bitcoin everywhere, do you think you can help us increase our content or translate for those who don't speak English?</p>
-  <p>Visit us on <a href="{{ site.github }}">GitHub</a> and learn how to contribute.</p>
+  <h4>{{ t.contribute-notif.heading }}</h4>
+  {{ t.contribute-notif.text| replace: "%github-url%", site.github }}
 </div>
 
 <script src="{{ site.baseurl }}/js/contribute-notif.js"></script>
+{% endif %}

@@ -22,6 +22,11 @@ en:
         link: faq
       - text: About Us
         link: about-us
+  contribute-notif:
+    heading: Contribute and translate!
+    text: >
+          <p>We want to spread knowledge about Bitcoin everywhere, do you think you can help us increase our content or translate for those who don't speak English?</p>
+          <p>Visit us on <a href="%github-url%">GitHub</a> and learn how to contribute.</p>
   post:
     written-by: 'Written by <a href="%authorurl%">%author%</a> on %date%.'
 de:
@@ -31,6 +36,11 @@ de:
     links:
       - text: Werben
         link: werben
+  contribute-notif:
+    heading: Hilf uns und übersetze!
+    text: >
+          <p>Wir wollen Wissen über Bitcoin weltweit verbreiten, meinst du, du kannst uns helfen oder Inhalt für die, die eine andere Sprache sprechen übersetzen?</p>
+          <p>Schau vorbei auf <a href="%github-url%">GitHub</a> und lerne wie du beitragen kannst.</p>
   post:
     written-by: 'Geschrieben von <a href="%authorurl%">%author%</a> am %date%.'
 fr:
