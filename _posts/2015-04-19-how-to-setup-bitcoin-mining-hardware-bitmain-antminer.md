@@ -4,25 +4,35 @@ title: How To Setup Bitcoin Mining Hardware Bitmain Antminer S7 S5 and S3
 author: Bitcoin Mining
 authorurl: /
 published: true
+toc: 
+  ht: AntMiner S7 - How To Setup A Bitmain Antminer S7
+  s5: AntMiner S5 - Unboxing Bitcoin Miner Setup with Power Supply
+  s3: Antminer S3 - Bitcoin Mining Setup
+  rp: How to Setup a Raspberry Pi 2 Bitcoin Mining Rig w/ Bitmain AntMiner U3
+  tr: Bitmain Antminer S7 - Bitcoin Mining Hardware Setup
 ---
 
+{% include page-toc.html %}
 
-### AntMiner S7 - How To Setup A Bitmain Antminer S7
+<h3 id="ht"> AntMiner S7 - How To Setup A Bitmain Antminer S7</h3>
 <p>The Bitmain Antminer S7 is the best bitcoin miner on the market with 4.73GH/s using 0.25 J/GHA. Have you purchased a <A href="http://www.runtogold.com/1155ghsantminerbitcoinminer">Bitmain Antminer S7</a> Bitcoin miner and need to learn how to set it up?
+
+<br />
+
 <iframe width="700" height="394" src="https://www.youtube.com/embed/lKumS6PS-Fg" frameborder="0" allowfullscreen></iframe>
 <p>The AntMiner S5 is about four times more powerful than the AntMiner S3 but otherwise they are very similiar. Have you purchased an <A href="http://www.runtogold.com/1155ghsantminerbitcoinminer">Antminer S3</a> Bitcoin miner and need to learn how to set it up?
-### AntMiner S5 - Unboxing Bitcoin Miner Setup with Power Supply
+<h3 id="s5"> AntMiner S5 - Unboxing Bitcoin Miner Setup with Power Supply</h3>
 <iframe width="700" height="394" src="https://www.youtube.com/embed/uNbaZwqdPAc" frameborder="0" allowfullscreen></iframe>
 <p>Most Bitcoin miners will need power supplies to run and they can be expensive.
-### Antminer S3 - Bitcoin Mining Setup
+<h3 id="s3"> Antminer S3 - Bitcoin Mining Setup</h3>
 <iframe width="700" height="394" src="https://www.youtube.com/embed/4RBt2LPMEZY" frameborder="0" allowfullscreen></iframe>
 <p>It should be pretty easy to setup your Bitcoin miner.
-### How to Setup a Raspberry Pi 2 Bitcoin Mining Rig w/ Bitmain AntMiner U3
+<h3 id="rp"> How to Setup a Raspberry Pi 2 Bitcoin Mining Rig w/ Bitmain AntMiner U3</h3>
 <iframe width="700" height="394" src="https://www.youtube.com/embed/dPWTSytzN7g" frameborder="0" allowfullscreen></iframe>
 <p>
 {% include bitcoin-mining-hardware-comparison.html %}
 <p>
-### Transcript - Bitmain Antminer S7 - [Bitcoin Mining Hardware](/bitcoin-mining-hardware/) Setup
+<h3 id="tr"> Transcript - Bitmain Antminer S7 - <a href="/bitcoin-mining-hardware/">Bitcoin Mining Hardware Setup</a></h3>
 <p>All right, this video has been a long time coming.  I got the Antminer S7 batch 1 on right now.  Basically the reason it took so long I had to get this.  This is a 250-watt outlet.  And then you can see I have this APW3, 1,600-watt power supply.  It's on.  It's running.  The Antminer is charging up.  It's going to get a little louder than this so before that happens I'm going to do some videos.
 
 So I have my guy run this 250-watt dedicated cable right to my box.  It's even got a dedicated breaker.  So we're not fooling around.  Directly to the main.  This is 120 watts.  I have the Wi-Fi because I'm not interested in wiring at this moment. My basement is unfinished.  So I'll save the wiring for another day, but I have this a little 80211 AC bridge right here like in the description.  It's going to start that up so get that going too and pretty much this is the first boot up, by the way.
@@ -46,7 +56,7 @@ I like the clean set up, APW1600 power watt supply.  It's clean.  It's efficient
 I'm excited to connect to the network and see and so it has some code and getting some bitcoin before the block has and right now it's the first week of November, second week of November.  So I definitely want to get this copy up in running.  I got to connect this bad boy.  Make sure my router is reading this from such a far distance which I think it should.  All right.  So stay tune for the part 3 of this Antminer S7 review. 
 
 <p>
-### Transcript - Antminer S5 - Bitcoin Mining Setup
+<h3 id="ub"> Transcript - Antminer S5 - Bitcoin Mining Setup
 <p>Hello.  We got a power supply here.  I just got it from Newegg.  That’s my power supply to my miner here.  I’ll show you how to jump it real quick.  Alright, so take a paper clip and you connect the green and the black wire there.
 
 It's pretty simple.  You shove it in there -- just like so and make sure it's the green and the black and then you can take some duct tape, wrap it up, good to go -- or electrical tape.  And then we got the miner here, BitMiner.  The pack is pretty good.  So, there’s that.
@@ -59,7 +69,7 @@ Alright, so this is the miner, it's going about 2 hours 10 minutes, 2 hours 16 m
 
 So, there is that one and here's the second one.  It's going 4 days 9 minutes and it's probably little longer 15 minutes.  There’s the average speed over that time frame.  And here's temperature, you see they’re right next to each other so here we go.
 
-### Transcript - Antminer S3 - Bitcoin Mining Setup
+<h3 id="ub"> Transcript - Antminer S3 - Bitcoin Mining Setup
 <p>Hey what’s up guys, this is Randall with Off The Grid Survival.  This is going to be a quick video on my Bitcoin mining set up.  I'm currently running three AntMiner S3 Bitcoin miners which are powered by two 750 watt power supplies.  A little information on these Bitcoin miners each AntMiner S3 is generating around 450 gigahash per second which gives me a grand total of 1.35 terahashes per second.
 
 Alright guys, so here's the overview of the AntMiner setup.  I got this set up in my spare bedroom of my house.  I have it hooked up to a five-port switch, that's seen off to the left of the screen there’s a little network switch.  Three AntMiners are powered by two Corsair CX750M power supplies.  And like I said right now they are just hashing away as you can hear they're a little bit on the noisy side, but that's expected with Bitcoin mining.
@@ -82,7 +92,7 @@ Well, I really didn't have that much money invested, like I said, $330 I got las
 
 Pretty much anything that I do with Bitcoins can be off the record.  I can also take that Bitcoins, convert it into US currency and purchase silver or any type of precious metal that I want.  So that's pretty much why I mine for Bitcoins.  It's just something cool that I wanted to do.  I just want to dabble in it.  I really don’t have to defend the matter on why I'm doing it.  I'm just doing it.  So, alright guys, I hope you enjoy the video.  This is Randall with Off The Grid Survival.  I'm out.
 
-### Transcript - How to Setup a Raspberry Pi 2 Bitcoin Mining Rig w/ Bitmain AntMiner U3
+<h3 id="ub"> Transcript - How to Setup a Raspberry Pi 2 Bitcoin Mining Rig w/ Bitmain AntMiner U3
 <p>What's up guys?  I’m Rasim from Rasmurtech.com and today I'm going to show you guys how to use a Raspberry Pi 2 to mine Bitcoin with our AntMiner U3.  This is the Bitmain AntMiner U3 and this is a 60 gigahash miner this is ASIC miner.  And again, we're going to use our Raspberry Pi as the node and it's going to control our AntMiner and we're going to mine Bitcoin.
 
 So, the first thing you're going to need is a Raspberry Pi.  It can be any Raspberry Pi but I'm using the Raspberry Pi 2.  Now I know you guys are wondering what the hell is going on.  This is a stackable case and I have four Raspberry Pis here.  Now I set this up because I'm working on another video where I -- where I cluster these into a cluster computer and I compare them to my other Raspberry Pi B cluster and we do speed test to compare the two so I obviously took that deal.
