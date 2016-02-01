@@ -387,6 +387,121 @@ pre {
   }
 }
 
+.hardware-comparison {
+  & > div {
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+
+    &:nth-child(2){
+      margin: 0px 1.5%;
+    }
+
+    @include mobile() {
+        display: block;
+        width: 100%;
+        margin: 25px 0;
+        text-align: center;
+    }
+
+    & > img {
+      width: 100%;
+      height: auto;
+      max-height: 120px;
+    }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+
+      li {
+        padding: 5px 0;
+
+        &:before {
+          font-weight: bold;
+          display: block;
+        }
+
+        &.capacity:before {
+          content: 'Advertised Capacity: ';
+        }
+
+        &.power:before {
+          content: 'Power Efficiency: ';
+        }
+
+        &.guide:before {
+          content: 'Guide: ';
+        }
+
+        &.weight:before {
+          content: 'Weight: ';
+        }
+
+        &.price:before {
+          content: 'Price: ';
+        }
+
+        &.approx:before {
+          content: 'Appx. BTC Earned Per Month: '
+        }
+      }
+    }
+  }
+}
+
+.mining-hardware-list {
+	width: 100%;
+	text-align: center;
+}
+
+.mining-hardware-list th {
+    font-weight: bold;
+    text-align: center;
+}
+
+.mining-hardware-list tr:nth-child(2n+1) {
+    background: #f2f1f1 none repeat scroll 0 0;
+}
+
+@media screen and (max-width: 748px) {
+    .miner-pe {
+	    display: none;
+    }
+}
+
+.page-toc {
+  float: right;
+  list-style-type: none;
+  background-color: $lightGray;
+  font-size: 0.8em;
+  padding: 0;
+  margin: 15px;
+  margin-top: 0;
+
+  li {
+    padding: 2px 5px;
+    border-bottom: 1px solid $white;
+    transition: background-color 0.5s;
+
+    &.page-toc-title {
+      font-weight: bold;
+      background-color: $gray;
+      color: $white;
+    }
+
+    a {
+      display: block;
+      color: $darkerGray;
+    }
+
+    &:hover {
+      background-color: lighten($gray, 25%);
+    }
+  }
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
