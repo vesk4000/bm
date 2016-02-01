@@ -12,4 +12,5 @@ Some things you may not have known about bitcoin mining:
 <p>The more people that are working on solving problems, or more specifically, the more computing power that is being used in that pursuit, the more difficult it is for each individual or entity to solve the bitcoin “puzzle.” In essence, this becomes a very competitive process.
 <p>Not everybody has to be a computer genius to engage in bitcoin mining. Groups of folks have become [involved in bitcoin “pools”](/bitcoin-mining-pools/) that combine resources to mine for coins, and they participate in a limited way in the whole process.
 <p>When people mine for bitcoins, they are really running very complicated mathematical problems on their computer. This takes up a lot of power and will take its toll on a system and run up a utility bill, if it is done with a certain amount of sophistication.
+
 <p>The process of bitcoin mining is about to become a lot more advanced with the introduction of the new BitForce SC line from Butterfly Labs. Based on ASIC technology, it will speed up the entire process exponentially and allow people who are serious to compete with the best.

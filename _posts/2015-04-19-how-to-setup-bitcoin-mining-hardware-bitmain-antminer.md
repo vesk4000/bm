@@ -4,7 +4,7 @@ title: How To Setup Bitcoin Mining Hardware Bitmain Antminer S7 S5 and S3
 author: Bitcoin Mining
 authorurl: /
 published: true
-toc: 
+toc:
   ht: AntMiner S7 - How To Setup A Bitmain Antminer S7
   s5: AntMiner S5 - Unboxing Bitcoin Miner Setup with Power Supply
   s3: Antminer S3 - Bitcoin Mining Setup
@@ -51,9 +51,9 @@ I have the Apple AirPort Extreme Time Capsule 80211 AC.  So connecting to this b
 
 Right here, this is just a voltage checker.  It just checks the voltage because I wanted to confirm.  This guy was like you definitely have what you wanted.  I'm like, no, I don't.  I checked the voltage coming out of my outlet from the previous one he put in it was a 120.  I checked this down earlier when he was putting it in.  It was 240 plus volts.  So this outlet is rated for 250 max Antminer 250 max voltage, minimum 205 volts to run this beast.  If no lights come on, you do not have enough voltage.  Nothing will happen except for this.  We'll start.
 
-I like the clean set up, APW1600 power watt supply.  It's clean.  It's efficient and it gets the job done.  This basement; no cobwebs.  I try to keep it pretty clean.  It's pretty high off the ground so there is a humidifier it's going to be set up on this table and everything is going to be on here on the table pretty neatly.  We just got this done. 
+I like the clean set up, APW1600 power watt supply.  It's clean.  It's efficient and it gets the job done.  This basement; no cobwebs.  I try to keep it pretty clean.  It's pretty high off the ground so there is a humidifier it's going to be set up on this table and everything is going to be on here on the table pretty neatly.  We just got this done.
 
-I'm excited to connect to the network and see and so it has some code and getting some bitcoin before the block has and right now it's the first week of November, second week of November.  So I definitely want to get this copy up in running.  I got to connect this bad boy.  Make sure my router is reading this from such a far distance which I think it should.  All right.  So stay tune for the part 3 of this Antminer S7 review. 
+I'm excited to connect to the network and see and so it has some code and getting some bitcoin before the block has and right now it's the first week of November, second week of November.  So I definitely want to get this copy up in running.  I got to connect this bad boy.  Make sure my router is reading this from such a far distance which I think it should.  All right.  So stay tune for the part 3 of this Antminer S7 review.
 
 <p>
 <h3 id="ub"> Transcript - Antminer S5 - Bitcoin Mining Setup

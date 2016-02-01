@@ -54,7 +54,7 @@ baseurl: ""
 
 markdown: redcarpet
 highlighter: pygments
-permalink: /:title/
+permalink: /:categories/:title/
 
 # The release of Jekyll Now that you're using
 version: v1.1.0
@@ -73,3 +73,47 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+
+defaults:
+  # Languages
+  - # English
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+      lang: en
+  -
+    scope:
+      path: "_posts/en"
+    values:
+      lang: en
+  - # German
+    scope:
+      path: "de"
+    values:
+      lang: "de"
+  -
+    scope:
+      path: "_posts/de"
+    values:
+      lang: "de"
+  - # French
+    scope:
+      path: "fr"
+    values:
+      lang: "fr"
+  -
+    scope:
+      path: "_posts/fr"
+    values:
+      lang: "fr"
+  - # Dutch
+    scope:
+      path: "nl"
+    values:
+      lang: "nl"
+  -
+    scope:
+      path: "_posts/nl"
+    values:
+      lang: "nl"

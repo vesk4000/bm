@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html>{% assign lang = page.lang %}{% assign t = site.data.translations[lang] %}
+<html lang="{{ lang }}">
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
@@ -27,23 +27,20 @@
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" width="210" height="70"/></a>
-          
-          <nav>
-            <a href="{{ site.baseurl }}/getting-started/">Start</a>
-            <a href="{{ site.baseurl }}/bitcoin-mining-news/">News</a>
-            <a href="{{ site.baseurl }}/bitcoin-mining-pools/">Pool</a>
-            <a href="{{ site.baseurl }}/best-bitcoin-cloud-mining-contract-reviews/">Cloud</a>
-            <a href="{{ site.baseurl }}/bitcoin-mining-software/">Software</a> 
-            <a href="{{ site.baseurl }}/bitcoin-mining-hardware/">Hardware</a>
+          <a href="{{ site.baseurl }}/{% if lang != 'en' %}{{ lang }}/{% endif %}" class="site-avatar"><img src="{{ site.avatar }}" width="210" height="70"/></a>
+
+          <nav class="site-navigation">
+            {% for url in t.navigation %}
+              <a href="{{ site.baseurl }}/{% if lang != 'en' %}{{ lang }}/{% endif %}{{ url.link }}/">{{ url.text }}</a>
+            {% endfor %}
           </nav>
         </header>
       </div>
     </div>
-      
+
     <div id="main" role="main" class="container">
     {% include social-shares.html %}
-    {% include header-banner.html %} 
+    {% include header-banner.html %}
       {{ content }}
     </div>
 
@@ -53,27 +50,31 @@
           {% include ad-footer.html %}
           {% include email-form.html %}
           <p>
-          {% include svg-icons.html %}    
+          {% include svg-icons.html %}
           <p>
-          | <a href="https://github.com/sunnankar/bm/">Contribute</a> |
-          <a href="{{ site.baseurl }}/advertise">Advertise</a> | 
-          <a href="{{ site.baseurl }}/faq/">FAQ</a> | 
-          <a href="{{ site.baseurl }}/about-us/">About Us</a> | 
-          <p>
-          | <a href="{{ site.baseurl }}/de/">Deutsch</a> | 
-          <a href="{{ site.baseurl }}/es/">Español</a> | 
-          <a href="{{ site.baseurl }}/fr/">Français</a> | 
-          <a href="{{ site.baseurl }}/nl/">Nederlands</a> |
-          <a href="{{ site.baseurl }}/pt/">Portugese</a> |
-           <a href="{{ site.baseurl }}/ru/">русский</a> |
-          <a href="{{ site.baseurl }}/ja/">日本語</a> |  
-          <p>
+
+          <nav class="footer">
+            <a href="https://github.com/sunnankar/bm/">{{ t.footer.contribute }}</a>
+            {% for flink in t.footer.links %}
+            <a href="{{ site.baseurl }}/{% if lang != 'en' %}{{ lang }}/{% endif %}{{ flink.link }}">{{ flink.text }}</a>
+            {% endfor %}
+          </nav>
+
+          <nav class="languages">
+            {% for language in site.data.translations %}
+              {% if language[0] == lang %}
+                {% continue %}
+              {% endif %}
+              <a href="{{ site.baseurl }}/{% if language[0] != 'en' %}{{ language[0] }}/{% endif %}">{{ language[1].native }}</a>
+            {% endfor %}
+          </nav>
           © 2011-2016 Hesiod Services LLC | <a href="{{ site.baseurl }}/terms/">Terms</a> |  <a href="{{ site.baseurl }}/privacy/">Privacy</a>
           <p>
         </footer>
       </div>
     </div>
 
+    {% include contribute-notif.html t=t %}
     {% include analytics.html %}
   </body>
 </html>

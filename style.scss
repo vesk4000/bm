@@ -214,7 +214,7 @@ img {
   }
 }
 
-nav {
+nav.site-navigation {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
@@ -484,7 +484,7 @@ pre {
     padding: 2px 5px;
     border-bottom: 1px solid $white;
     transition: background-color 0.5s;
-    
+
     &.page-toc-title {
       font-weight: bold;
       background-color: $gray;
@@ -507,3 +507,5 @@ pre {
 @import "highlights";
 @import "svg-icons";
 @import "social-shares";
+@import 'footer';
+@import 'contribute-notif';
