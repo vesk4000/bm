@@ -38,7 +38,7 @@ First things first: [get an AWS account here](http://aws.amazon.com).
 Amazon Web Services (AWS) is a cloud computing service provided by Amazon, the well known e-commerce giant. 
 
 Click on the top-right button:
-![create an aws account](https://github.com/angelomilan/ethereum-guides/blob/master/images/gpu-cloud-mining/1-create-aws-account__top-right-button.png)
+![create an aws account](/images/gpu-cloud-mining/1-create-aws-account__top-right-button.png)
 
 As you can see, the registration process is very handy, since you can sign-in with **your existing Amazon account**.
 You may notice that AWS offers the EC2 service free for 750 hrs/month, for 12 months. However, that is for the Linux _t2.micro instance_. That is good for testing, but not for mining Ethereum. I will tell you later what instance to select to maximize the GPU power.
@@ -46,7 +46,7 @@ You may notice that AWS offers the EC2 service free for 750 hrs/month, for 12 mo
 Once you have registered on [AWS](http://aws.amazon.com), you will be presented with a big list of the services offered by Amazon. 
 
 
-![amazon web services ec2](https://github.com/angelomilan/ethereum-guides/blob/master/images/gpu-cloud-mining/2-amazon-web-services_offered-by-amazon.jpeg)
+![amazon web services ec2](/images/gpu-cloud-mining/2-amazon-web-services_offered-by-amazon.jpeg)
 
 Click on **EC2** (stands for, Elastic Compute Cloud), that will give you GPU horsepower for mining the Ethereum blockchain.
 
@@ -100,7 +100,7 @@ _Note: At this point, if you want you can play with the **t2.micro free** instan
 
 You will now be prompted to create your access key aka “Key pair”. To use a virtual machine we first need an access key (keep it private!). Amazon AWS access keys consist of a public key and a private key.
 
-![key pair aws](https://github.com/angelomilan/ethereum-guides/blob/master/images/gpu-cloud-mining/6-key-pairs_aws-cloud.png)
+![key pair aws](/images/gpu-cloud-mining/6-key-pairs_aws-cloud.png)
 
 * Scroll the dropdown menu to **“Create new key pair”**
 * Type a name for the access key
@@ -113,7 +113,7 @@ Your instance should be pre-selected. Wait about 5 minutes for the Initializing 
 
 ###Step 5 - Connect your machine
 
-![connect to instance](https://github.com/angelomilan/ethereum-guides/blob/master/images/gpu-cloud-mining/7-connect-to-instance_connecting-aws.jpeg)
+![connect to instance](/images/gpu-cloud-mining/7-connect-to-instance_connecting-aws.jpeg)
 
 **On your Mac:**
 
