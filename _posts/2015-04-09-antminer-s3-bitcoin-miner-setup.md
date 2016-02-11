@@ -8,9 +8,9 @@ toc:
   ub: AntMiner S5 - Unboxing Bitcoin Miner Setup with Power Supply
   s3: Antminer S3 - Bitcoin Mining Setup
   rp: How to Setup a Raspberry Pi 2 Bitcoin Mining Rig w/ Bitmain AntMiner U3
-  s5s: Transcript: How to Setup an Antminer S5
-  s3s: Transcript: How to Setup an Antminer S3
-  rps: Transcript: How to Setup a Raspberry Pi
+  s5s: Transcript - How to Setup an Antminer S5
+  s3s: Transcript - How to Setup an Antminer S3
+  rps: Transcript - How to Setup a Raspberry Pi
 ---
 {% include page-toc.html %}
 
