@@ -8,7 +8,9 @@ toc:
   ub: AntMiner S5 - Unboxing Bitcoin Miner Setup with Power Supply
   s3: Antminer S3 - Bitcoin Mining Setup
   rp: How to Setup a Raspberry Pi 2 Bitcoin Mining Rig w/ Bitmain AntMiner U3
-  s5s: Antminer S5 - Bitcoin Mining Setup
+  s5s: Transcript: How to Setup an Antminer S5
+  s3s: Transcript: How to Setup an Antminer S3
+  rps: Transcript: How to Setup a Raspberry Pi
 ---
 {% include page-toc.html %}
 
@@ -45,7 +47,7 @@ Alright, so this is the miner, it's going about 2 hours 10 minutes, 2 hours 16 m
 
 So, there is that one and here's the second one.  It's going 4 days 9 minutes and it's probably little longer 15 minutes.  There’s the average speed over that time frame.  And here's temperature, you see they’re right next to each other so here we go.
 
-<h3 id="ub"> Transcript - Antminer S3 - Bitcoin Mining Setup
+<h3 id="s3s"> Transcript - Antminer S3 - Bitcoin Mining Setup</h3>
 <p>Hey what’s up guys, this is Randall with Off The Grid Survival.  This is going to be a quick video on my Bitcoin mining set up.  I'm currently running three AntMiner S3 Bitcoin miners which are powered by two 750 watt power supplies.  A little information on these Bitcoin miners each AntMiner S3 is generating around 450 gigahash per second which gives me a grand total of 1.35 terahashes per second.
 
 Alright guys, so here's the overview of the AntMiner setup.  I got this set up in my spare bedroom of my house.  I have it hooked up to a five-port switch, that's seen off to the left of the screen there’s a little network switch.  Three AntMiners are powered by two Corsair CX750M power supplies.  And like I said right now they are just hashing away as you can hear they're a little bit on the noisy side, but that's expected with Bitcoin mining.
