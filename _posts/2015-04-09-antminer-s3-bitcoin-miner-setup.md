@@ -37,7 +37,7 @@ toc:
 
 <p>Hello.  We got a power supply here.  I just got it from Newegg.  That’s my power supply to my miner here.  I’ll show you how to jump it real quick.  Alright, so take a paper clip and you connect the green and the black wire there.
 
-It's pretty simple.  You shove it in there -- just like so and make sure it's the green and the black and then you can take some duct tape, wrap it up, good to go -- or electrical tape.  And then we got the miner here, BitMiner.  The pack is pretty good.  So, there’s that.
+<p>It's pretty simple.  You shove it in there -- just like so and make sure it's the green and the black and then you can take some duct tape, wrap it up, good to go -- or electrical tape.  And then we got the miner here, BitMiner.  The pack is pretty good.  So, there’s that.
 
 Using that cord -- goes in here and this then obviously goes to your modem or router whatever you’re using.  And then each board here gets one cord.  Not like this -- like this.  It's plugged into the PCIe slots on the power supply.  I’m just going to unplug this for the moment.  And it's going, got lights.  It just needs to be hooked up to the internet and it’ll start running away.  Done deal -- that easy.
 
