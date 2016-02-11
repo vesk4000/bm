@@ -70,7 +70,7 @@ Well, I really didn't have that much money invested, like I said, $330 I got las
 
 Pretty much anything that I do with Bitcoins can be off the record.  I can also take that Bitcoins, convert it into US currency and purchase silver or any type of precious metal that I want.  So that's pretty much why I mine for Bitcoins.  It's just something cool that I wanted to do.  I just want to dabble in it.  I really don’t have to defend the matter on why I'm doing it.  I'm just doing it.  So, alright guys, I hope you enjoy the video.  This is Randall with Off The Grid Survival.  I'm out.
 
-<h3 id="ub"> Transcript - How to Setup a Raspberry Pi 2 Bitcoin Mining Rig w/ Bitmain AntMiner U3
+<h3 id="rps"> Transcript - How to Setup a Raspberry Pi 2 Bitcoin Mining Rig w/ Bitmain AntMiner U3
 <p>What's up guys?  I’m Rasim from Rasmurtech.com and today I'm going to show you guys how to use a Raspberry Pi 2 to mine Bitcoin with our AntMiner U3.  This is the Bitmain AntMiner U3 and this is a 60 gigahash miner this is ASIC miner.  And again, we're going to use our Raspberry Pi as the node and it's going to control our AntMiner and we're going to mine Bitcoin.
 
 So, the first thing you're going to need is a Raspberry Pi.  It can be any Raspberry Pi but I'm using the Raspberry Pi 2.  Now I know you guys are wondering what the hell is going on.  This is a stackable case and I have four Raspberry Pis here.  Now I set this up because I'm working on another video where I -- where I cluster these into a cluster computer and I compare them to my other Raspberry Pi B cluster and we do speed test to compare the two so I obviously took that deal.
