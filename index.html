@@ -43,7 +43,19 @@ toc:
   </tr>
 </table>
 <hr id="hwc" style="width: 100%; margin: 20px 0; color: #eee;" />
-{% include bitcoin-mining-hardware-comparison.html %}
+
+<h2>Bitcoin Mining Hardware Comparison</h2>
+
+<p>Currently, based on <b>(1)</b> price per hash and <b>(2)</b> electrical efficiency the best Bitcoin miner options are:</p>
+
+<div class="hardware-comparison">
+{% for miner in site.data.hardware %}
+{% if miner.cat contains 'featured' %}
+{% include hardware-compare.html %}
+{% endif %}
+{% endfor %}
+</div>
+
 <hr style="width: 100%; margin: 20px 0; color: #eee;" />
 <h2 id="wibm">What is Bitcoin Mining?</h2>
 <center><img src="/images/what-is-bitcoin-mining.png" width="700" height="auto">

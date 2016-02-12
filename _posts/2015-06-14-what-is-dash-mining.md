@@ -5,14 +5,15 @@ author: DASH Mining
 authorurl: /what-is-dash-mining/
 published: true
 ---
+<a href="https://www.weusecoins.com/what-is-dashcoin/">What is DASH?</a> Darkcoin was rebranded as DASH. Want to learn how to mine DASH? First, mining DASH is done via scrypt instead of SHA256.
 
-
-<p><a href="https://www.weusecoins.com/what-is-dashcoin/">What is DASH?</a> Darkcoin was rebranded as DASH. Want to learn how to mine DASH? First, mining DASH is done via scrypt instead of SHA256.
 <iframe width="700" height="394" src="https://www.youtube.com/embed/tNpEmo3y0VQ" frameborder="0" allowfullscreen></iframe>
-<p>To get started mining DASH you could get a <a href="http://www.runtogold.com/70khsdogecoinminer">70KHs DASH miner</a> for about $100 or a <a href="http://www.runtogold.com/30mhslitecoinminer">30MHs DASH miner</a> for about $285.
+
+To get started mining DASH you could get a <a href="http://www.runtogold.com/70khsdogecoinminer">70KHs DASH miner</a> for about $100 or a <a href="http://www.runtogold.com/30mhslitecoinminer">30MHs DASH miner</a> for about $285.
 
 ### Transcript - How to Mine Darkcoin -- The GUI Friendly Simple way of mining Dark Coin
-<p>Today I'm going to show you how to mine Darkcoins. You are going to go to how to mine Darkcoins.  So, little bit quickly what Darkcoins is, it's an alt cryptocurrency, a lot like bitcoins but it has more kind of anonymous kind of built into the coin itself.  So it's – while bitcoin can be traced very easily where it's going back and forth darkcoin is kind of a little bit more privacy orientated.  So, it's a CPU coin but it can also be graphics card or GPU mined.  So, today I'm going to show you how to CPU coin mine it and GPU coin mine it.
+
+Today I'm going to show you how to mine Darkcoins. You are going to go to how to mine Darkcoins.  So, little bit quickly what Darkcoins is, it's an alt cryptocurrency, a lot like bitcoins but it has more kind of anonymous kind of built into the coin itself.  So it's – while bitcoin can be traced very easily where it's going back and forth darkcoin is kind of a little bit more privacy orientated.  So, it's a CPU coin but it can also be graphics card or GPU mined.  So, today I'm going to show you how to CPU coin mine it and GPU coin mine it.
 
 So, first thing you want to do is disable your antivirus.  Reason for that is if we actually download the Darkcoin wallet or the mining software it’s going to pick it up as a virus.  I’ll just actually show you right here.  I get a link to the wallet and if I go here to download it, Norton comes up saying it's not safe and it automatically deletes it.  So the first thing we’re going to do is just disable Norton whatever your antivirus is.  Let's go for an hour, disable that.  So, now we're going to actually download the wallet.  So, let’s get the latest version and I would just recommend going right to Darkcoin’s website.  Go to download, get your OS and download the wallet.  All right.
 
