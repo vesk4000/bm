@@ -117,7 +117,7 @@
     dev_friendly: GPL infringement
     gsg: https://www.bitcoinmining.com/antminer-s3-bitcoin-miner-setup/
     buy: http://www.runtogold.com/antminers7
-    btcpm: 0.9153
+    btcpm: 0.5024
     img: bitcoin-miner-antminer-s7.jpg
     cat: featured
     weight: 8.8 pounds
@@ -154,7 +154,7 @@
     dev_friendly: code
     gsg: /usb-bitcoin-miner-setup-guide/
     buy: http://www.runtogold.com/2ghsantminerusb
-    btcpm: 
+    btcpm: 0.0002
     weight: 0.8 ounces
     cat: usbminer, featured
     img: usb-bitcoin-miner-antminer-u2.jpg
@@ -1096,7 +1096,7 @@
     dev_friendly: code, samples
     gsg: https://www.bitcoinmining.com/spondoolies-tech-SP20-bitcoin-miner-setup/
     buy: http://www.runtogold.com/17thsspondooliesbitcoinminer
-    btcpm: 
+    btcpm: 0.1593
     img: bitcoin-miner-spondoolies.jpg
     cat: featured
     weight: 20 pounds
