@@ -156,7 +156,7 @@
     buy: http://www.runtogold.com/2ghsantminerusb
     btcpm: 
     weight: 0.8 ounces
-    cat: usbminer
+    cat: usbminer, featured
     img: usb-bitcoin-miner-antminer-u2.jpg
 -
     product: AntMiner U3 
@@ -958,7 +958,7 @@
     buy: http://www.runtogold.com/2ghsbitfuryusbbitcoinminer
     btcpm: 0.00077463
     img: bitcoin-miner-bitfury-usb.jpg
-    cat: featured, usbminer
+    cat: usbminer
     weight: 1.6 ounces
 -
     product: ROCKMINER R3-BOX
