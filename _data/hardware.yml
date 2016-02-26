@@ -111,7 +111,7 @@
     ghash_s_usd: 2.666
     watts: 1,210
     powerefficiencywgh: 0.25
-    priceusd: 1,148.99
+    priceusd: 998.47
     currently_shipping: No
     comm_ports: Ethernet
     dev_friendly: GPL infringement
@@ -156,7 +156,7 @@
     buy: http://www.runtogold.com/2ghsantminerusb
     btcpm: 0.0002
     weight: 0.8 ounces
-    cat: usbminer, featured
+    cat: usbminer
     img: usb-bitcoin-miner-antminer-u2.jpg
 -
     product: AntMiner U3 
@@ -345,6 +345,27 @@
     gsg: 
     buy: 
     btcpm: 
+-
+    product: Avalon6
+    advertised_mhashs: 800,000
+    advertised_ghashs: 800
+    advertised_thashs: 3.5
+    mhashJ: x
+    ghashJ: x
+    mhash_s_usd: x
+    ghash_s_usd: x
+    watts: x
+    powerefficiencywgh: 0.29
+    priceusd: 1,465.46
+    currently_shipping: Yes
+    comm_ports: USB or Ethernet
+    dev_friendly: code, docs, samples
+    gsg: 
+    buy: http://www.runtogold.com/avalon6
+    btcpm: 0.323
+    weight: 9.5 pounds
+    cat: featured
+    img: avalon6.jpg    
 -
     product: bi*fury
     advertised_mhashs: 5,000
