@@ -4,6 +4,7 @@ title: Bitcoin Mining Profitability
 author: Jordan Tuwiner
 authorurl: https://www.jordantuwiner.com/
 published: true
+seotitle: Bitcoin Mining Profitability 2016
 ---
 Most [Bitcoin mining hardware](https://www.bitcoinmining.com/bitcoin-mining-hardware/) appears profitable at first glance. Bitcoin mining, unfortunately, isn’t simple and there are a number of hidden costs and constantly changing factors. This guide will help you understand Bitcoin mining profitability and give you a good estimate of your expenses and earnings.
 
