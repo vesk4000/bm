@@ -6,6 +6,18 @@ authorurl: /what-is-ethereum-cloud-mining/
 published: true
 ---
 
+<h2 id="ether-cloud-mining">Best Ether Cloud Mining Services</h2>
+
+<p>There are limited options for Ether cloud mining contracts. If nothing on the list below meets your needs, you can buy Bitcoin cloud mining contracts (listed above) and simply convert the bitcoins you earn to ether.</p>
+
+{% for service in site.data.cloud %}
+{% if service.desc_eth != null %}
+<p class="cloud-mining-info">
+<b>{% if service.url != null %}<a rel="nofollow" href="{{ service.url }}">{{ service.company }}</a>: {% else %}{{ service.company }}: {% endif %}</b>{{ service.desc_eth }}
+</p>
+{% endif %}
+{% endfor %}
+
 # ETHEREUM CLOUD MINING FOR DUMMIES
 
 +***_For Mac, Windows, and Linux users._***  
