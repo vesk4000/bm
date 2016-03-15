@@ -9,6 +9,7 @@ toc:
   windows: Windows Mining Software
   osx: Mac OSX Mining Software
   asic: ASIC Bitcoin Mining Software
+  cloud: Bitcoin Cloud Mining Software
 ---
 
 <h1>Bitcoin Mining Software Guide</h1>
@@ -85,6 +86,19 @@ toc:
 {% for software in site.data.software %}
 {% if software.cats contains 'asic' %}
 {% include software.html %}
+{% endif %}
+{% endfor %}
+</div>
+
+<h1 id="cloud">Bitcoin Cloud Mining Software</h2>
+<div class="mining-software-wrap">
+<p>Being listed in this section is NOT an endorsement of these services. There have been a tremendous amount of Bitcoin cloud mining scams.</p>
+
+{% for service in site.data.cloud %}
+{% if service.desc_btc != null %}
+<p class="cloud-mining-info">
+<b>{% if service.url != null %}<a rel="nofollow" href="{{ service.url }}">{{ service.company }}</a>: {% else %}{{ service.company }}: {% endif %}</b>{{ service.desc_btc }}
+</p>
 {% endif %}
 {% endfor %}
 </div>

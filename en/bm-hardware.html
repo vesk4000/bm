@@ -44,6 +44,18 @@ seotitle: Best Bitcoin Mining Hardware ASICs Comparison
 {% endfor %}
 </div>
 
+<h1 id="best-bitcoin-cloud-mining-services">Best Bitcoin Cloud Mining Services</h2>
+<div class="mining-software-wrap">
+<p>For those not interested in operating the actual hardware then they can purchase Bitcoin cloud mining contracts. Being listed in this section is NOT an endorsement of these services. There have been a tremendous amount of Bitcoin cloud mining scams.</p>
+
+{% for service in site.data.cloud %}
+{% if service.desc_btc != null %}
+<p class="cloud-mining-info">
+<b>{% if service.url != null %}<a rel="nofollow" href="{{ service.url }}">{{ service.company }}</a>: {% else %}{{ service.company }}: {% endif %}</b>{{ service.desc_btc }}
+</p>
+{% endif %}
+{% endfor %}
+</div>
 
 <h2>Full List of Mining Hardware</h2>
 <table class="mining-hardware-list">
