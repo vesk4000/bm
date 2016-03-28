@@ -9,6 +9,7 @@ toc:
   windows: Windows Mining Software
   osx: Mac OSX Mining Software
   asic: ASIC Bitcoin Mining Software
+  cloud: Bitcoin Cloud Mining Software
 ---
 
 <h1>Bitcoin Mining Software Guide</h1>
@@ -29,57 +30,79 @@ toc:
 <p>Therefore, it is your duty to make sure that any Bitcoin mining power you direct to a mining pool does not attempt to enforce network consensus rules you disagree with.
 <h2 id="bw">Bitcoin Wallet Software</h2>
 <p>The whole point of mining bitcoins is to earn them!
-<p>But once you earn them then where do you keep them safe and secure? For a Bitcoin wallet we <b>highly recommend</b> using one where you hold your own private keys in contrast to to a hosted wallet like Coinbase or Circle.
+<p>But once you earn them then where do you keep them safe and secure? For a <a href="https://www.weusecoins.com/en/find-the-best-bitcoin-wallet/">Bitcoin wallet</a> we <b>highly recommend</b> using one where you hold your own private keys in contrast to to a hosted wallet like Coinbase or Circle.
 <ul><li><a href="http://breadwallet.com/">Breadwallet</a> - easy to use mobile Bitcoin wallet</li>
 <li><a href="https://copay.io/">Copay</a> - easy to use mobile Bitcoin wallet</li>
 <li><a href="https://bitcoinarmory.com/">Armory</a> - highly secure desktop Bitcoin wallet</li></ul>
-<p>You will also need to be able to buy and <a href="https://www.weusecoins.com/how-to-sell-bitcoins/">sell your Bitcoins</a>. For this we recommend:
+<p>You will also need to be able to buy and <a href="https://www.weusecoins.com/how-to-sell-bitcoins/">sell your Bitcoins</a>.
+<p>Once mined Bitcoin becomes like a currency that can be purchased, used in transactions or even traded like with this <a href="http://www.avatrade.com/trading-info/range-of-markets/bitcoin">Bitcoin trading platform</a>.
+<p>For this we recommend:
 <ul>
 <li><a href="https://www.kraken.com/">Kraken</a> - The largest European exchange with same-day SEPA</li>
 <li><a href="http://www.runtogold.com/localbitcoins">Local Bitcoins</a> - This fantastic service allows you to search for people in your community willing to sell bitcoins to you directly. But be careful!</li>
 </ul>
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/MH2i9pudQgk" frameborder="0" allowfullscreen></iframe></center>
 <h2 id="fa"><em>Examples of the best Bitcoin mining software for Windows, Linux and Mac OSX:</em></h2>
-<p><strong><a href="http://sourceforge.net/projects/minepeon/">MINE PEON</a>:</strong> Open source and may need <a href="http://sourceforge.net/projects/win32diskimager/">WinDisk32Imager</a>.
-<p><strong>EASYMINER:</strong> A GUI based miner for Windows, Linux and Android.  EasyMiner acts as a convenient wrapper for the built in CG; BFGminer softwares.  It auto configures your Bitcoin miners and provides performance graphs to for easy visualization of your Bitcoin mining activity.
-<p><strong><a href="https://github.com/luke-jr/bfgminer">BFGMINER</a>:</strong> A modular ASIC, FPGA, GPU and CPU miner written in C, cross platform for Linux, Mac, and Windows including support for OpenWrt-capable routers.
-<p><strong><a href="https://github.com/ckolivas/cgminer">CGMINER</a>:</strong> This is a multi-threaded multi-pool GPU, FPGA and ASIC miner with ATI GPU monitoring, (over)clocking and fanspeed support for bitcoin and derivative coins.
-<p><em>If you want to get a better idea of mining without installing any Bitcoin mining software then try Bitcoin Plus, a browser-based CPU Bitcoin miner. As a CPU miner it's not cost-efficient for serious Bitcoin mining but it helps illustrate the process of Bitcoin pool mining.</em>
+
+<div class="mining-software-wrap">
+{% for software in site.data.software %}
+{% if software.cats contains 'best' %}
+{% include software.html %}
+{% endif %}
+{% endfor %}
+</div>
+
 <h1>Additional Free Bitcoin Mining Applications</h1>
-<ul>
-<li><a title="BFGMiner" href="https://en.bitcoin.it/wiki/BFGMiner">BFGMiner</a> - Modular FPGA/GPU/ASIC miner in C</li>
-<li><a title="CGMINER" href="https://github.com/ckolivas/cgminer">CGMINER</a> - This is a multi-threaded multi-pool GPU, FPGA and ASIC miner with ATI GPU monitoring, (over)clocking and fanspeed support for bitcoin and derivative coins.</li>
-<li><a title="50Miner" href="https://en.bitcoin.it/wiki/50Miner">50Miner</a> - A GUI frontend for Windows(Poclbm, Phoenix, DiabloMiner)</li>
-<li><a title="BTCMiner" href="https://en.bitcoin.it/wiki/BTCMiner">BTCMiner</a> - Bitcoin Miner for ZTEX FPGA Boards</li>
-<li><a title="Bit Moose" href="https://en.bitcoin.it/wiki/Bit_Moose">Bit Moose</a> - Run Miners as a Windows Service.</li>
-<li><a title="Poclbm" href="https://en.bitcoin.it/wiki/Poclbm">Poclbm</a> - Python/OpenCL GPU miner (<a title="Poclbm-gui" href="https://en.bitcoin.it/wiki/Poclbm-gui">GUI(Windows and MacOS X)</a>)</li>
-<li><a title="Poclbm-mod" href="https://en.bitcoin.it/wiki/Poclbm-mod">Poclbm-mod</a> - more efficient version of <a title="Poclbm" href="https://en.bitcoin.it/wiki/Poclbm">Poclbm</a> (<a title="Poclbm-mod-gui" href="https://en.bitcoin.it/wiki/Poclbm-mod-gui">GUI</a>)</li>
-<li><a title="DiabloMiner" href="https://en.bitcoin.it/wiki/DiabloMiner">DiabloMiner</a> - Java/OpenCL GPU miner (<a title="DiabloMiner.app" href="https://en.bitcoin.it/wiki/DiabloMiner.app">MAC OS X GUI</a>)</li>
-<li><a title="RPC Miner" href="https://en.bitcoin.it/wiki/RPC_Miner">RPC Miner</a> - remote RPC miner (<a title="RPCminer.app" href="https://en.bitcoin.it/wiki/RPCminer.app">MAC OS X GUI</a>)</li>
-<li><a title="Phoenix miner" href="https://en.bitcoin.it/wiki/Phoenix_miner">Phoenix miner</a> - miner</li>
-<li><a title="Cpu Miner" href="https://en.bitcoin.it/wiki/Cpu_Miner">Cpu Miner</a> - miner</li>
-<li><a title="Ufasoft miner" href="https://en.bitcoin.it/wiki/Ufasoft_miner">Ufasoft miner</a> - miner</li>
-<li><a title="Pyminer" href="https://en.bitcoin.it/wiki/Pyminer">Pyminer</a> - Python miner, reference implementation</li>
-<li><a title="Remote miner" href="https://en.bitcoin.it/wiki/Remote_miner">Remote miner</a> - mining pool software</li>
-<li><a title="Open Source FGPA Bitcoin Miner" href="https://en.bitcoin.it/wiki/Open_Source_FGPA_Bitcoin_Miner">Open Source FGPA Bitcoin Miner</a> - a miner that makes use of an FPGA Board</li>
-<li><a class="external text" href="https://github.com/mkburza/Flash-Player-Bitcoin-Miner" rel="nofollow">Flash Player Bitcoin Miner</a> - A proof of concept Adobe Flash Player miner</li>
-</ul>
+
+<div class="mining-software-wrap">
+{% for software in site.data.software %}
+{% include software.html %}
+{% endfor %}
+</div>
+
 <h1 id="windows">Best Bitcoin Mining Software Windows</h1>
-<ul>
-<li><a title="50Miner" href="https://en.bitcoin.it/wiki/50Miner">50Miner</a> - A GUI frontend for Windows(Poclbm, Phoenix, DiabloMiner)</li>
-<li><a title="Bit Moose" href="https://en.bitcoin.it/wiki/Bit_Moose">Bit Moose</a> - Run Miners as a Windows Service.</li>
-</ul>
+
+<div class="mining-software-wrap">
+{% for software in site.data.software %}
+{% if software.os contains 'windows' %}
+{% include software.html %}
+{% endif %}
+{% endfor %}
+</div>
+
 <h1 id="osx">Best Bitcoin Mining Software Mac OSX</h1>
-<ul>
-<li><a title="Poclbm" href="https://en.bitcoin.it/wiki/Poclbm">Poclbm</a> - Python/OpenCL GPU miner (<a title="Poclbm-gui" href="https://en.bitcoin.it/wiki/Poclbm-gui">GUI(Windows and MacOS X)</a>)</li>
-<li><a title="DiabloMiner" href="https://en.bitcoin.it/wiki/DiabloMiner">DiabloMiner</a> - Java/OpenCL GPU miner (<a title="DiabloMiner.app" href="https://en.bitcoin.it/wiki/DiabloMiner.app">MAC OS X GUI</a>)</li>
-<li><a title="RPC Miner" href="https://en.bitcoin.it/wiki/RPC_Miner">RPC Miner</a> - remote RPC miner (<a title="RPCminer.app" href="https://en.bitcoin.it/wiki/RPCminer.app">MAC OS X GUI</a>)</li>
-</ul>
+
+<div class="mining-software-wrap">
+{% for software in site.data.software %}
+{% if software.os contains 'mac' %}
+{% include software.html %}
+{% endif %}
+{% endfor %}
+</div>
+
 <h1 id="asic">ASIC Bitcoin Mining Software</h1>
-<ul>
-<li><a title="CGMINER" href="https://github.com/ckolivas/cgminer">CGMINER</a> - This is a multi-threaded multi-pool GPU, FPGA and ASIC miner with ATI GPU monitoring, (over)clocking and fanspeed support for bitcoin and derivative coins.</li>
-<li><a title="BFGMiner" href="https://en.bitcoin.it/wiki/BFGMiner">BFGMiner</a> - Modular FPGA/GPU/ASIC miner in C</li>
-</ul>
+
+<div class="mining-software-wrap">
+{% for software in site.data.software %}
+{% if software.cats contains 'asic' %}
+{% include software.html %}
+{% endif %}
+{% endfor %}
+</div>
+
+<h1 id="cloud">Bitcoin Cloud Mining Software</h2>
+<div class="mining-software-wrap">
+<p>Being listed in this section is NOT an endorsement of these services. There have been a tremendous amount of Bitcoin cloud mining scams.</p>
+
+{% for service in site.data.cloud %}
+{% if service.desc_btc != null %}
+<p class="cloud-mining-info">
+<b>{% if service.url != null %}<a rel="nofollow" href="{{ service.url }}">{{ service.company }}</a>: {% else %}{{ service.company }}: {% endif %}</b>{{ service.desc_btc }}
+</p>
+{% endif %}
+{% endfor %}
+</div>
+
 <h2>TRANSCRIPT - Do it yourself with Bitcoin mining software</h2>
 <p>What's going on every one?  This is Fredand this Part 2 of our DIY Bitcoin Miner.  Today, we're going to take a look at software.
 

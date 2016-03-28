@@ -7,20 +7,31 @@ published: true
 ---
 
 
-<p>Have you purchased an <a href="http://www.runtogold.com/2ghsbitfuryusbbitcoinminer">USB</a> Bitcoin miner and need to learn how to set it up?
+Have you purchased a <a href="http://www.runtogold.com/2ghsbitfuryusbbitcoinminer">USB</a> Bitcoin miner and need to learn how to set it up?
+
 ### USB - Bitcoin Mining Setup Guide
+
 <iframe width="700" height="394" src="https://www.youtube.com/embed/fJSITD0sPVY" frameborder="0" allowfullscreen></iframe>
+
 ### Additional Supplies you will need
+
 <ul><li><a href="http://www.runtogold.com/raspberrypi2">Complete Raspberry Pi Kit</a></li>
 <li><a href="http://www.runtogold.com/10portusbhub">10 Port Powered USB Hub</a></li>
 <li><a href="http://www.runtogold.com/usbfan">USB Fan</a></li>
 <li><a href="http://www.runtogold.com/microusbcable">Micro USB Cable</a></li>
 <li><a href="http://www.runtogold.com/ethernetcable">Ethernet Cable</a></li></ul>
-<p>
-{% include bitcoin-mining-usb-hardware-comparison.html %}
-<p>
+
+<div class="hardware-comparison">
+{% for miner in site.data.hardware %}
+{% if miner.cat contains 'usbminer' %}
+{% include hardware-compare.html %}
+{% endif %}
+{% endfor %}
+</div>
+
 ### Transcript - USB - Bitcoin Mining Setup Guide
-<p>What's going on every one?  This is Fred and today we're going to build a Bitcoin miner.  All right.  So, if you're unfamiliar with Bitcoin I do have another video that has all the 10 things that you need to know about Bitcoin.  So, give that a watch, get caught up, come back and we'll get started.
+
+What's going on every one?  This is Fred and today we're going to build a Bitcoin miner.  All right.  So, if you're unfamiliar with Bitcoin I do have another video that has all the 10 things that you need to know about Bitcoin.  So, give that a watch, get caught up, come back and we'll get started.
 
 So, here’s all the pieces that you need to start building your own Bitcoin miner.  I will place some links to all the parts down below so that you can get started on your project.  Now, the first item that you want to pick up is called a Raspberry Pi.  Now, this is basically just a credit card sized computer.  Now, the nice thing about having one of these is that this is a completely separate unit from your personal computer, which means you can mine for Bitcoins 24x7 without affecting your daily computer usage.  Now, when you're picking up one of these you want to make sure that you get the version B.  Now, due to its size it's very efficient on power consumption.  This entire computer can be powered by USB cable.
 

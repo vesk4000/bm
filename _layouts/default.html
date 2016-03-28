@@ -1,7 +1,7 @@
 <!DOCTYPE html>{% assign lang = page.lang %}{% assign t = site.data.translations[lang] %}
 <html lang="{{ lang }}">
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+   <title>{% if page.seotitle %}{{ page.seotitle }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
     {% if page.description %}
     <meta name="description" content="{{ page.description }}">
@@ -27,7 +27,7 @@
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/{% if lang != 'en' %}{{ lang }}/{% endif %}" class="site-avatar"><img src="{{ site.avatar }}" width="210" height="70"/></a>
+          <a href="{{ site.baseurl }}/{% if lang != 'en' %}{{ lang }}/{% endif %}" class="site-avatar"><img src="{{ site.avatar }}" width="210" height="50"/></a>
 
           <nav class="site-navigation">
             {% for url in t.navigation %}

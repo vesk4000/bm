@@ -111,13 +111,13 @@
     ghash_s_usd: 2.666
     watts: 1,210
     powerefficiencywgh: 0.25
-    priceusd: 1,498.74
+    priceusd: 998.47
     currently_shipping: No
     comm_ports: Ethernet
     dev_friendly: GPL infringement
     gsg: https://www.bitcoinmining.com/antminer-s3-bitcoin-miner-setup/
     buy: http://www.runtogold.com/antminers7
-    btcpm: 0.9153
+    btcpm: 0.5024
     img: bitcoin-miner-antminer-s7.jpg
     cat: featured
     weight: 8.8 pounds
@@ -154,7 +154,7 @@
     dev_friendly: code
     gsg: /usb-bitcoin-miner-setup-guide/
     buy: http://www.runtogold.com/2ghsantminerusb
-    btcpm: 
+    btcpm: 0.0002
     weight: 0.8 ounces
     cat: usbminer
     img: usb-bitcoin-miner-antminer-u2.jpg
@@ -345,6 +345,27 @@
     gsg: 
     buy: 
     btcpm: 
+-
+    product: Avalon6
+    advertised_mhashs: 800,000
+    advertised_ghashs: 800
+    advertised_thashs: 3.5
+    mhashJ: x
+    ghashJ: x
+    mhash_s_usd: x
+    ghash_s_usd: x
+    watts: x
+    powerefficiencywgh: 0.29
+    priceusd: 1,465.46
+    currently_shipping: Yes
+    comm_ports: USB or Ethernet
+    dev_friendly: code, docs, samples
+    gsg: 
+    buy: http://www.runtogold.com/avalon6
+    btcpm: 0.323
+    weight: 9.5 pounds
+    cat: featured
+    img: avalon6.jpg    
 -
     product: bi*fury
     advertised_mhashs: 5,000
@@ -958,7 +979,7 @@
     buy: http://www.runtogold.com/2ghsbitfuryusbbitcoinminer
     btcpm: 0.00077463
     img: bitcoin-miner-bitfury-usb.jpg
-    cat: featured, usbminer
+    cat: usbminer
     weight: 1.6 ounces
 -
     product: ROCKMINER R3-BOX
@@ -1080,7 +1101,7 @@
     buy: 
     btcpm: 0.2902
 -
-    product: Spondooliestech SP20 Jackson
+    product: SP20 Jackson
     advertised_mhashs: 1,700,000
     advertised_ghashs: 1,700
     advertised_thashs: 1.3-1.7
@@ -1096,7 +1117,7 @@
     dev_friendly: code, samples
     gsg: https://www.bitcoinmining.com/spondoolies-tech-SP20-bitcoin-miner-setup/
     buy: http://www.runtogold.com/17thsspondooliesbitcoinminer
-    btcpm: 
+    btcpm: 0.1593
     img: bitcoin-miner-spondoolies.jpg
     cat: featured
     weight: 20 pounds

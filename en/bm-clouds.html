@@ -8,7 +8,11 @@ toc:
   what-are-bitcoin-cloud-mining-disadvantages: What are Bitcoin Cloud Mining Disadvantages?
   best-bitcoin-cloud-mining-services: Best Bitcoin Cloud Mining Services
   best-bitcoin-cloud-mining-contracts: Best Bitcoin Cloud Mining Contracts
+  litecoin-cloud-mining: Best Litecoin Cloud Mining Services
+  dash-cloud-mining: Best Dash Cloud Mining Services
+  ether-cloud-mining: Best Ether Cloud Mining Services
   bitcoin-cloud-mining-scams: Bitcoin Cloud Mining Scams
+  providers: Cryptocurrency Cloud Mining Companies
 ---
 
 <h1>Best Bitcoin Cloud Mining Contract Reviews</h1>
@@ -17,7 +21,7 @@ toc:
 {% include page-toc.html %}
 
 <h2 id="what-is-bitcoin-cloud-mining">What is Bitcoin Cloud Mining?</h2>
-Bitcoin cloud mining enables people to earn Bitcoins without bitcoin mining hardware, bitcoin mining software, electricity, bandwidth or other offline issues.
+<p>Bitcoin cloud mining enables people to earn Bitcoins without bitcoin mining hardware, bitcoin mining software, electricity, bandwidth or other offline issues.
 <p>Bitcoin cloud mining, sometimes called cloud hashing, enables users to buy the output of Bitcoin mining power from Bitcoin mining hardware placed in remote data centres.
 <p>Then all Bitcoin mining is done remotely in the cloud. This enables the owners to not deal with any of the hassles usually encountered when mining bitcoins such as electricity, hosting issues, heat, installation or upkeep trouble.
 <h2 id="what-are-bitcoin-cloud-mining-advantages">What are Bitcoin Cloud Mining Advantages?</h2>
@@ -41,27 +45,94 @@ Bitcoin cloud mining enables people to earn Bitcoins without bitcoin mining hard
 <li>Lack of ability to change the Bitcoin mining software</li>
 </ul>
 <h2 id="best-bitcoin-cloud-mining-services">Best Bitcoin Cloud Mining Services</h2>
-Being listed in this section is NOT an endorsement of these services. There have been a tremendous amount of <a href="#bitcoin-cloud-mining-scams">Bitcoin cloud mining scams</a>.
-<ul><li><b><a href="https://www.genesis-mining.com/a/177546">Genesis Mining</a></b> - is the largest Bitcoin and scrypt cloud mining provider. Use the code <b>mWpwy4</b> to get a 2.5% discount.</li>
-<li><b><a href="https://hashflare.io/r/539A7635">Hashflare</a></b> - An Estonian cloud miner with SHA-256, Scrypt and Scrypt-N options.</li>
-<li><b>Bitcoin Cloud Mining</b> - supposedly has been mining Bitcoin since mid-2013. All Bitcoin miners are located in a state-of-the-art data centre in Australia and they have direct access to high quality equipment and 24/7 support.</li>
-<li><b>NiceHash</b> - claims to bring an innovative easy-to-use and risk-free cloud mining service. You can mine the vast majoritiy of popular coins, based on SHA-256 (Bitcoin, etc.), Scrypt (Litecoin, Dogecoin, etc.), Scrypt-N (Vertcoin, etc.) and X11 (DarkCoin, etc.).</li>
-<li><b>Eobot</b> - claims to be the easiest, cheapest, and best cloud mining solution.  Start with as little as $10 using PayPal and choose between any cryptocurrency including Bitcoin, Litecoin, Peercoin, Namecoin, Feathercoin, Dogecoin, NautilusCoin, and Vertcoin.</li>
-<li><b>CloudHashing</b> - has been featured in The Bitcoin Uprising documentary on CNBC. They have also appeared in the New York Times article “Into the Bitcoin Mines”. At Cloud Hashing, they are dedicated to fast, efficient Bitcoin mining services. Cloudhashing was founded in February 2013 to take all of the hard work and complexities out of Bitcoin Mining.</li>
-<li><b>808 Mining</b> - claims to their customer support team ensures the entire process of renting Bitcoin mining equipment is a pleasant experience and that understanding customer satisfaction is paramount. They also monitor the Bitcoin miners provided by our vendors to ensure you receive the full work that is due your Bitcoin mining contract terms.</li>
-<li><b>MineOnCloud</b> - was launched on November 2013. They offer Bitcoin mining contracts for SHA256 using a very stable ASIC 28nm chip. They have two bitcoin mining contract options: (1) Day pass and (2) Year contract. Customers can choose the Bitcoin mining pool and change every month for free with year contract.</li>
-</ul>
+
+<p>Being listed in this section is NOT an endorsement of these services. There have been a tremendous amount of Bitcoin cloud mining scams.</p>
+
+{% for service in site.data.cloud %}
+{% if service.desc_btc != null %}
+<p class="cloud-mining-info">
+<b>{% if service.url != null %}<a rel="nofollow" href="{{ service.url }}">{{ service.company }}</a>: {% else %}{{ service.company }}: {% endif %}</b>{{ service.desc_btc }}
+</p>
+{% endif %}
+{% endfor %}
+
+
 <h2 id="best-bitcoin-cloud-mining-contracts">Best Bitcoin Cloud Mining Contracts</h2>
-<p>Bitcoin cloud mining contracts are usually sold for bitcoins on a per hash basis for a particular period of time.
-<p>For example, Pay per GHash/s would be 0.0012 BTC / GHs for a 24 month contract.
-<p>Contracts vary from hourly to multiple years. The major factor that is unknown to both parties is the Bitcoin network difficulty and it drastically determines the profitability of the bitcoin cloud hashing contracts.
-<p>Bitcoin network difficulty is a measure of how difficult it is to find a hash below a given target.
-<p>The Bitcoin network has a global block difficulty. Valid blocks must have a hash below this target. Bitcoin mining pools also have a pool-specific share difficulty setting a lower limit for shares.
-<p>The Bitcoin network difficulty changes roughly every two weeks or 2,016 blocks.
+
+<p>Bitcoin cloud mining contracts are usually sold for bitcoins on a per hash basis for a particular period of time.</p>
+
+<p>For example, Pay per GHash/s would be 0.0012 BTC / GHs for a 24 month contract.</p>
+
+<p>Contracts vary from hourly to multiple years. The major factor that is unknown to both parties is the Bitcoin network difficulty and it drastically determines the profitability of the bitcoin cloud hashing contracts.</p>
+
+<p>Bitcoin network difficulty is a measure of how difficult it is to find a hash below a given target.</p>
+
+<p>The Bitcoin network has a global block difficulty. Valid blocks must have a hash below this target. Bitcoin mining pools also have a pool-specific share difficulty setting a lower limit for shares.</p>
+
+<p>The Bitcoin network difficulty changes roughly every two weeks or 2,016 blocks.</p>
+
+
+<h2 id="litecoin-cloud-mining">Best Litecoin Cloud Mining Services</h2>
+
+<p>There are limited options for Litecoin cloud mining contracts. If nothing on the list below meets your needs, you can buy Bitcoin cloud mining contracts (listed above) and simply convert the bitcoins you earn to litecoin.</p>
+
+{% for service in site.data.cloud %}
+{% if service.desc_ltc != null %}
+<p class="cloud-mining-info">
+<b>{% if service.url != null %}<a rel="nofollow" href="{{ service.url }}">{{ service.company }}</a>: {% else %}{{ service.company }}: {% endif %}</b>{{ service.desc_ltc }}
+</p>
+{% endif %}
+{% endfor %}
+
+<h2 id="dash-cloud-mining">Best Dash Cloud Mining Services</h2>
+
+<p>There are limited options for Dash cloud mining contracts. If nothing on the list below meets your needs, you can buy Bitcoin cloud mining contracts (listed above) and simply convert the bitcoins you earn to Dash.</p>
+
+{% for service in site.data.cloud %}
+{% if service.desc_dash != null %}
+<p class="cloud-mining-info">
+<b>{% if service.url != null %}<a rel="nofollow" href="{{ service.url }}">{{ service.company }}</a>: {% else %}{{ service.company }}: {% endif %}</b>{{ service.desc_dash }}
+</p>
+{% endif %}
+{% endfor %}
+
+<h2 id="ether-cloud-mining">Best Ether Cloud Mining Services</h2>
+
+<p>There are limited options for Ether cloud mining contracts. If nothing on the list below meets your needs, you can buy Bitcoin cloud mining contracts (listed above) and simply convert the bitcoins you earn to ether.</p>
+
+{% for service in site.data.cloud %}
+{% if service.desc_eth != null %}
+<p class="cloud-mining-info">
+<b>{% if service.url != null %}<a rel="nofollow" href="{{ service.url }}">{{ service.company }}</a>: {% else %}{{ service.company }}: {% endif %}</b>{{ service.desc_eth }}
+</p>
+{% endif %}
+{% endfor %}
+
+<p>This <a href="/what-is-ethereum-cloud-mining/">Ethereum cloud mining guide</a> will show you how to mine Ethereum using Amazon cloud servers.</p>
+
 <h2 id="bitcoin-cloud-mining-scams">Bitcoin Cloud Mining Scams</h2>
 <p>There have been a tremendous amount of Bitcoin cloud mining scams like the possible $500,000 <a href="https://bitcoinmagazine.com/20702/exclusive-possible-500000-bitcoin-cloud-mining-ponzi-scheme-uncovered/">Bitcoin cloud mining ponzi scheme</a> that was uncovered. Potential buyers should be extremely guarded and careful before purchasing any bitcoin mining contracts.
-<p>Services to beware of:
-<ul></ul><li><b>Scrypt.cc</b> - allows purchase of KHS in a matter of seconds, start mining right away and even be able to trade your KHS in real time with prices based on supply and demand! All KHashes are safely stored and maintained in 2 secured data-centres.</li>
-<li><b>PB Mining</b> - Claims to operate Bitcoin mining ASIC hardware. When customers buy a bitcoin mining contract then they will begin earning Bitcoins instantly. At Piggyback Mining, they cover the electricity costs and all Bitcoin mining pool fees. The Bitcoin mining contract is 100% insured because they want customers to succeed.</li>
-<li><b>Bitcoin Cloud Services (BCS)</b> - Appears to have been a <a href="https://bitcoinmagazine.com/20702/exclusive-possible-500000-bitcoin-cloud-mining-ponzi-scheme-uncovered/">$500,000 Ponzi scam fraud</a>.</li>
-</ul>
+
+Services to beware of:
+
+{% for service in site.data.cloud %}
+{% if service.desc_scam != null %}
+<p class="cloud-mining-info">
+<b>{{ service.company }}: </b>{{ service.desc_scam }}
+</p>
+{% endif %}
+{% endfor %}
+
+<h2 id="providers">Cryptocurrency Cloud Mining Companies</h2>
+
+{% for service in site.data.cloud %}
+{% if service.desc_scam == null %}
+<p class="cloud-mining-info">
+<b>{{ service.company }}: </b>{{ service.desc_general }}
+</p>
+{% elsif service.desc_scam != null %}
+<p class="cloud-mining-info">
+<b>{{ service.company }}: </b>{{ service.desc_scam }}
+</p>
+{% endif %}
+{% endfor %}

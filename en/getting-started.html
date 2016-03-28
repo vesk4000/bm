@@ -6,6 +6,7 @@ toc:
   hbmw: How Bitcoin Mining Works
   gmhw: Get The Best Bitcoin Mining Hardware
   sm: How To Start Bitcoin Mining
+  cloud: Bitcoin Cloud Mining Contracts
   hc: Hardware Comparison
   dms: Download Bitcoin Mining Software
   mp: Join a Bitcoin Mining Pool
@@ -31,8 +32,32 @@ You will learn <b>(1)</b> how bitcoin mining works, <b>(2)</b> how to start mini
 <h2 id="sm">How To Start Bitcoin Mining</h2>
 <p>To <a href="/bitcoin-mining-for-beginners-how-to-mine-bitcoins/">begin mining bitcoins</a>, you'll need to acquire bitcoin mining hardware. In the early days of bitcoin, it was possible to mine with your computer CPU or high speed video processor card. Today that's no longer possible. Custom Bitcoin ASIC chips offer performance up to 100x the capability of older systems have come to dominate the Bitcoin mining industry.
 <p>Bitcoin mining with anything less will consume more in electricity than you are likely to earn. It's essential to mine bitcoins with the best bitcoin mining hardware built specifically for that purpose. Several companies such as Avalon offer excellent systems built specifically for bitcoin mining.
-<h2 id="hc"></h2>
-{% include bitcoin-mining-hardware-comparison.html %}
+
+<h2 id="cloud">Best Bitcoin Cloud Mining Services</h2>
+<div class="mining-software-wrap">
+<p>Another option is to purchase in Bitcoin cloud mining contracts. This greatly simplifies the process but increases risk because you do not control the actual physical hardware.
+<p>Being listed in this section is NOT an endorsement of these services. There have been a tremendous amount of Bitcoin cloud mining scams.</p>
+
+{% for service in site.data.cloud %}
+{% if service.desc_btc != null %}
+<p class="cloud-mining-info">
+<b>{% if service.url != null %}<a rel="nofollow" href="{{ service.url }}">{{ service.company }}</a>: {% else %}{{ service.company }}: {% endif %}</b>{{ service.desc_btc }}
+</p>
+{% endif %}
+{% endfor %}
+</div>
+
+<h2 id="hc">Bitcoin Mining Hardware Comparison</h2>
+
+<p>Currently, based on <b>(1)</b> price per hash and <b>(2)</b> electrical efficiency the best Bitcoin miner options are:</p>
+
+<div class="hardware-comparison">
+{% for miner in site.data.hardware %}
+{% if miner.cat contains 'featured' %}
+{% include hardware-compare.html %}
+{% endif %}
+{% endfor %}
+</div>
 
 <hr style="width: 100%; margin: 20px 0; color: #eee;" />
 <img src="/images/icons/icon-gs-bitcoin-mining-software.png" alt="bitcoin mining software" align="right"><h2 id="dms"><em><b>Step 2</b> - Download Free Bitcoin Mining Software</em></h2>

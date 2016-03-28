@@ -6,27 +6,44 @@ authorurl: /
 published: true
 ---
 
-<p>Have you purchased a <A href="http://www.runtogold.com/17thsspondooliesbitcoinminer">Spondoolies-Tech SP20</a> Bitcoin miner and need to learn how to set it up?
+Have you purchased a <A href="http://www.runtogold.com/17thsspondooliesbitcoinminer">Spondoolies-Tech SP20</a> Bitcoin miner and need to learn how to set it up?
+
 ### Spondoolies-Tech SP20 Quick Start Guide
+
 <iframe width="700" height="394" src="https://www.youtube.com/embed/n6W1cHravKw" frameborder="0" allowfullscreen></iframe>
-<p>It should be pretty easy to setup your Bitcoin miner.
+
+It should be pretty easy to setup your Bitcoin miner.
+
 ### Unboxing BTC Miner 1.7 Th/s Spondoolies SP20 and Setup
+
 <iframe width="700" height="394" src="https://www.youtube.com/embed/HQSXswxruwc" frameborder="0" allowfullscreen></iframe>
-<p>
-{% include bitcoin-mining-hardware-comparison.html %}
-<p>
+
+### Bitcoin Mining Hardware Comparison
+
+Currently, based on (1) price per hash and (2) electrical efficiency the best Bitcoin miner options are: 
+
+<div class="hardware-comparison">
+{% for miner in site.data.hardware %}
+{% if miner.cat contains 'featured' %}
+{% include hardware-compare.html %}
+{% endif %}
+{% endfor %}
+</div>
+
 ### Transcript - Spondoolies-Tech SP20 Quick Start Guide
-<b>Gadi Glikberg:</b>  Hi, my name is Gadi Glikberg.  In this video we'll take a look at the SP20 Jackson.  The SP20 Jackson is a smaller more compact mining unit.  It does 1.7 terahash using only 1.2 kilowatts of power.  Unlike other Spondoolies tech equipment this unit does not come with a built in power supply, we'll talked a little bit letter about how we choose the right parts supply for this unit.  Let's take a look at the different connectors the unit has.  We can see four PCI express six pin connectors, which are used to feed power into the unit.  The other connecter that we have are the serial cable connector, a USB port, an SD card slot and an Ethernet cable connector.  Before connecting the SP20, make sure your placing it in the right location.  The unit should not be obstructed by anything in the front and the back of it.  The SP20 has a powerful fan at the back of it which pushes out the harder.  Obstructions blocking it might cause the unit to overheat.
+
+**Gadi Glikberg:**  Hi, my name is Gadi Glikberg.  In this video we'll take a look at the SP20 Jackson.  The SP20 Jackson is a smaller more compact mining unit.  It does 1.7 terahash using only 1.2 kilowatts of power.  Unlike other Spondoolies tech equipment this unit does not come with a built in power supply, we'll talked a little bit letter about how we choose the right parts supply for this unit.  Let's take a look at the different connectors the unit has.  We can see four PCI express six pin connectors, which are used to feed power into the unit.  The other connecter that we have are the serial cable connector, a USB port, an SD card slot and an Ethernet cable connector.  Before connecting the SP20, make sure your placing it in the right location.  The unit should not be obstructed by anything in the front and the back of it.  The SP20 has a powerful fan at the back of it which pushes out the harder.  Obstructions blocking it might cause the unit to overheat.
 
 When choosing a power supply note that there are two main types of power supplies.  The server grade power supply and the ATX.  The server grade power supply can be identified by its specific form.  If you are getting one of those make sure you're getting the breaker board and the cable included in the package since you'll need them to connect the power supply to the unit.  Each power connector in the unit is separate from the other connectors.  And while the unit as a whole requires 1200 watt to power it, each connector requires a 300 watts.  This allows different configuration to power up the unit.  For example you can used either one big power supply and connect it to all four connectors.  Or you can use two smaller power supplies and connect each of them to two of the connectors.  If you connect a smaller power supply to only two of the connectors you'll get half the hashing power.  So make sure you're connecting enough power to enough of the connector to achieve the maximum hashing power.
 
-<b>Zvi Shteingart:</b>  Once you get your miner, first thing you so is connect the power cables and the Ethernet cable.  You know that your miner has finish booting if you see the yellow light here blinks twice every second.  This should take about one minute.  Once the miner finish booting you got the myminer.io page.  And you see the list of all your miners.  You choose the new miner that you just connected and you go to its main page.  Here first thing you do is go to the settings page.  In the setting page you can configurator your miner to run in the way you want.  You can configure the fan's speed, the starting voltage of its loop, the maximum voltage for the loop and the maximum voltage for each loop.  You can set your miner to run quiet and be efficient or to get more hash rate but to be more loud.  After you done that, you go to the pool page to configure my pool and my address in the pool.  Once I set that up I click on the submit button and that should start the miner to work.  Here we can see that the green light is blinking once the miner started mining the green light will become steady.  This means that the miner is now mining.  Now we can go to the main page to see at which rate the miners working.  The miner starts to work at low rate and then over 10 minutes it will climb to the maximum rate you've set up.
+**Zvi Shteingart:**  Once you get your miner, first thing you so is connect the power cables and the Ethernet cable.  You know that your miner has finish booting if you see the yellow light here blinks twice every second.  This should take about one minute.  Once the miner finish booting you got the myminer.io page.  And you see the list of all your miners.  You choose the new miner that you just connected and you go to its main page.  Here first thing you do is go to the settings page.  In the setting page you can configurator your miner to run in the way you want.  You can configure the fan's speed, the starting voltage of its loop, the maximum voltage for the loop and the maximum voltage for each loop.  You can set your miner to run quiet and be efficient or to get more hash rate but to be more loud.  After you done that, you go to the pool page to configure my pool and my address in the pool.  Once I set that up I click on the submit button and that should start the miner to work.  Here we can see that the green light is blinking once the miner started mining the green light will become steady.  This means that the miner is now mining.  Now we can go to the main page to see at which rate the miners working.  The miner starts to work at low rate and then over 10 minutes it will climb to the maximum rate you've set up.
 
-<b>Gadi Glikberg:</b>  Thank you for watching this video.  To purchase our product and for more information's go to www.spondoolies-tech.com.  For bulk sale or increase write to us, sales@spondoolies-tech.com.
+**Gadi Glikberg:**  Thank you for watching this video.  To purchase our product and for more information's go to www.spondoolies-tech.com.  For bulk sale or increase write to us, sales@spondoolies-tech.com.
 
 
 ### Transcript - Unboxing BTC Miner 1.7 Th/s Spondoolies SP20 and Setup
-<p>Hey, guys.  I just got my second bitcoin miner today.  I got my power supply for it a while back.  I've been waiting for my bitcoin miner to come in.  It just came in today.  I was at school while this was kind of here. I came back and okay I lie, I got it before school but I had to wait to get to open it.  Because I went to school right when I got it.  So this is sort of an unboxing, not sort of, literally.  And I kind of need two hands, but maybe not.  I have no idea what this looks like if even bitcoin miner's in here, you know, anything could be in here.
+
+Hey, guys.  I just got my second bitcoin miner today.  I got my power supply for it a while back.  I've been waiting for my bitcoin miner to come in.  It just came in today.  I was at school while this was kind of here. I came back and okay I lie, I got it before school but I had to wait to get to open it.  Because I went to school right when I got it.  So this is sort of an unboxing, not sort of, literally.  And I kind of need two hands, but maybe not.  I have no idea what this looks like if even bitcoin miner's in here, you know, anything could be in here.
 
 It's like -- kind of like shredding your cat.  It's kind of like that.  I don't really know what's in here.  I'm just assuming that it's a bitcoin miner because well, here that it's a -- from -- it says MinerSource so -- and it's been a shape of a bitcoin miner, the one I got.  I should have got sharper scissors.  I'm not going to make you watch all of these obviously, maybe I will.  It depends.  But this is getting pretty lengthy.  Alright, this is just the bitcoin miner.  I still have to unbox that power supply.
 
