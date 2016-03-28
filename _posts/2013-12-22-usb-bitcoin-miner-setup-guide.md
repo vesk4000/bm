@@ -14,7 +14,7 @@ published: true
 <ul><li><a href="http://www.runtogold.com/raspberrypi2">Complete Raspberry Pi Kit</a></li>
 <li><a href="http://www.runtogold.com/10portusbhub">10 Port Powered USB Hub</a></li>
 <li><a href="http://www.runtogold.com/usbfan">USB Fan</a></li>
-<li><a href="http://www.runtogold.com/microusbcable">Micro USB Cable</a></li> 
+<li><a href="http://www.runtogold.com/microusbcable">Micro USB Cable</a></li>
 <li><a href="http://www.runtogold.com/ethernetcable">Ethernet Cable</a></li></ul>
 <p>
 {% include bitcoin-mining-usb-hardware-comparison.html %}
@@ -30,7 +30,7 @@ Okay, so this is the actual hardware that mines for Bitcoins.  This is called an
 
 Now this will give it an even power across all of the USB ports.  Now you don't want to cheap out on this you definitely want to get a good quality hub.  Now because your Bitcoin miner will be running 24x7, those Block Erupters tend to get pretty warm.  Now what you can do is just get one of these USB fans, plug it into the USB port and this is a very good inexpensive way to keep things cool.  Okay.  Lastly, all you need is an Ethernet cable.  Now this is what’s going to get your Bitcoin miner connected to the internet.  Okay, so that's all the hardware that you will need for this project.  Let's start putting everything together starting with the Raspberry Pi.
 
-Okay, so the first thing you do is take apart the case and place your Raspberry Pi on the bottom piece.  Now just go ahead and line everything up and it should snap together, like so.  Then just go ahead and put the cover over just like that.  Okay, so as you can see your Raspberry Pi will have two USB ports.  A spot for your Ethernet connection it's going to have some audio and video outputs.  This slot is for the SD card.  Here is a micro USB to power the unit.  And then finally you'll also have an HDMI output so that you could connect this to a screen. 
+Okay, so the first thing you do is take apart the case and place your Raspberry Pi on the bottom piece.  Now just go ahead and line everything up and it should snap together, like so.  Then just go ahead and put the cover over just like that.  Okay, so as you can see your Raspberry Pi will have two USB ports.  A spot for your Ethernet connection it's going to have some audio and video outputs.  This slot is for the SD card.  Here is a micro USB to power the unit.  And then finally you'll also have an HDMI output so that you could connect this to a screen.
 
 The next step is to insert your SD card into your Raspberry Pi.  Now this SD card is already loaded with my mining software.  Right now I'm using an operating system called MinePeon.  Now if you’re not familiar with how to load up the software onto your SD card, I will be making another video going through the step by step instructions on how to do that.  But until then just take your Raspberry Pi and insert the card into its SD slot, like so.  Okay, now let's take a look at the USB hub.  Now this is not plugged in yet.  I just want to get everything installed prior to powering it up.  The first thing that I'm going to do is install the power cord for the Raspberry Pi.  I'm going to put it in the first slot right here and then move this off to the side for later use.
 

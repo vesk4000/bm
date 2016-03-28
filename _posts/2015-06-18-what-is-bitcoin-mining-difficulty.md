@@ -4,7 +4,7 @@ title: What is Bitcoin Mining Difficulty
 author: Bitcoin Mining
 authorurl: /
 published: true
-toc: 
+toc:
   what-is: What is Bitcoin Mining Difficulty?
   cdp: The Computationally-Difficult Problem
   dm: The Bitcoin Network Difficulty Metric

@@ -4,7 +4,7 @@ title: Antminer S5 and S3 - Bitcoin Mining Setup
 author: Bitcoin Mining
 authorurl: /
 published: true
-toc: 
+toc:
   ub: AntMiner S5 - Unboxing Bitcoin Miner Setup with Power Supply
   s3: Antminer S3 - Bitcoin Mining Setup
   rp: How to Setup a Raspberry Pi 2 Bitcoin Mining Rig w/ Bitmain AntMiner U3

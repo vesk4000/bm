@@ -4,7 +4,7 @@ title: What is Hashcash?
 author: Bitcoin Mining
 authorurl: /
 published: true
-toc: 
+toc:
   history: History
   hfc: Hash function choices
   dh: Double Hash
@@ -73,7 +73,3 @@ toc:
 <p>In theory therefore it would be possible though more computation expensive to implement Scrypt(iter=1, mem=128kB) with minimal memory, just with more work. In hardware the time-memory tradeoff would be optimized to find the optimal amount of memory to use, and it is quite possible the optimal amount would be less than 128kB.
 <p>Hashcash-Scrypt(1) also has a disadvantage relative to hashcash-SHA256^2 in that it is significantly slower to verify, as the verification cost of one iteration of Scrypt(mem=128kB) is far higher than a two SHA256 hashes. This makes validating the litecoin blockchain more CPU and memory intensive for all full nodes.
 <p>Note however that the dominating CPU work of validation is the verification of the per transaction ECDSA signatures of the multiple transactions in a block. Even one ECDSA signature is slower than one Scrypt(1) verification which is done once per block, and there are many transactions (and so ECDSA signature verifications) to verify within a block.
-
-
-
-
