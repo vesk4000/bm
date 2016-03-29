@@ -39,8 +39,8 @@
     </div>
 
     <div id="main" role="main" class="container">
-    {% include social-shares.html %}
-    {% include header-banner.html %}
+      {% include social-shares.html %}
+      {% include header-banner.html %}
       {{ content }}
     </div>
 
@@ -49,9 +49,10 @@
         <footer class="footer">
           {% include ad-footer.html %}
           {% include email-form.html %}
+
           <p>
-          {% include svg-icons.html %}
-          <p>
+            {% include svg-icons.html %}
+          </p>
 
           <nav class="footer">
             <a href="https://github.com/sunnankar/bm/">{{ t.footer.contribute }}</a>
@@ -74,6 +75,15 @@
       </div>
     </div>
 
+    {% if page.charts %}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/bitcoin-charts.js"></script>
+    <script>
+      {% for chart in page.charts %}
+      BitcoinCharts.initChart('{{ chart }}');
+      {% endfor %}
+    </script>
+    {% endif %}
     {% include contribute-notif.html t=t %}
     {% include analytics.html %}
   </body>

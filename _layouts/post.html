@@ -15,5 +15,6 @@ layout: default
   	{{ t.post.written-by | replace: '%author%', page.author | replace: '%authorurl%', page.authorurl | replace: '%date%', date }}
   </div>
 
+  {% include recommendedposts.html %}
   {% include disqus.html %}
 </article>
