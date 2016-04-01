@@ -1,30 +1,36 @@
+ - company: Hashflare
+   url: https://hashflare.io/r/539A7635
+   desc_general: An Estonian cloud miner with SHA-256, Scrypt and Scrypt-N options and currently appears to be the <b>best value</b>.
+   desc_btc: Hashflare offers SHA-256 mining contracts for $3.30/10 GH/s. More profitable SHA-256 coins can be mined while automatic payouts are still in BTC. Customers must purchase at least 10 GH/s. 
+   desc_ltc: Hashflare offers scrypt mining contracts at $6.60 per 1 MH/s with a minimum purchase of 1 MH/s. 
+
  - company: Genesis Mining
    url: https://www.genesis-mining.com/a/177546
    desc_btc: "Genesis Mining is the largest Bitcoin and scrypt cloud mining provider. Use the code mWpwy4 to get a 2.5% discount. GM offers three Bitcoin cloud mining plans: 100 GH/s ($26/Lifetime Contract), 2,000 GH/s ($499/Lifetime Contract), and 10,000 GH/s ($2,400/Lifetime Contract). These plans cost $0.26, $0.25, and $0.24 per GH/s, respectively."
    desc_dash: "Genesis Mining is the largest X11 cloud mining provider. Use the code mWpwy4 to get a 2.5% discount and no maintenance fees. GM offers three Dash X11 cloud mining plans: 1 MH/s ($24 per MH/s per year), 20 MH/s ($420 per 20 MH/s per year), and 100 MH/s ($1,900 per 100 MH/s per year). These plans cost $24, $21, and $19 per MH/s, respectively."
-   ## desc_ltc: Genesis Mining offers Litecoin cloud mining contracts ----- could not fine scrypt mining on their website
+   desc_ltc: Genesis Mining offers Litecoin cloud mining contracts.
    desc_eth: "Genesis Mining is the largest Ether cloud mining provider. Ethereum cloud mining contracts cost 1MH/s = $44 (1 Year Ether Mining), 25 MH/s= $1100  (1 Year Ether Mining) and 100 MH/s= $4400 (1 Year Ether Mining)."
    desc_general: <a href="https://www.genesis-mining.com/a/177546">Genesis Mining</a> is the largest Bitcoin and scrypt cloud mining provider. Use the code mWpwy4 to get a 2.5% discount.
    
- - company: Hashflare
-   url: https://hashflare.io/r/539A7635
-   desc_general: An Estonian cloud miner with SHA-256, Scrypt and Scrypt-N options.
-   desc_btc: Hashflare offers SHA-256 mining contracts for $3.30/10 GH/s. More profitable SHA-256 coins can be mined while automatic payouts are still in BTC. Customers must purchase at least 10 GH/s. 
-   desc_ltc: Hashflare offers scrypt mining contracts at $6.60 per 1 MH/s with a minimum purchase of 1 MH/s. 
-
+ - company: Minergate
+   url: https://minergate.com/a/59307dbcea288017
+   desc_general: MinerGate is a mining pool created by a group of cryptocoin enthusiasts. It is the first pool which provides service for merged mining. This means that while mining on our pool you can mine different coins simultaniously without decrease of hashrate for major coin.
+   desc_btc: Offers both pool, merged mining and cloud mining services for Bitcoin.
+   desc_ltc: Offers both pool, merged mining and cloud mining services for Litecoin.
+ 
  - company: Hashnest
    url: https://www.hashnest.com/
    desc_general: Hashnest is operated by Bitmain, producer of the Antminer line of miners. HashNest currently has over 600 Antminer S7s for rent. You can view the most up-to-date pricing and availability on Hashnest's website. 
    desc_btc: Hashnest is operated by Bitmain, the producer of the Antminer line of Bitcoin miners. HashNest currently has over 600 Antminer S7s for rent. You can view the most up-to-date pricing and availability on Hashnest's website. At the time of writing one Antminer S7's hash rate can be rented for $1,200.   
    
  - company: Bitcoin Cloud Mining
-   url: http://www.bitcoincloudmining.com/
+   url:
    desc_btc: Currently all Bitcoin Cloud Mining contracts are sold out. 
    desc_general: Supposedly has been mining Bitcoin since mid-2013. All Bitcoin miners are located in a state-of-the-art data centre in Australia and they have direct access to high quality equipment and 24/7 support.
    
  - company: NiceHash
-   url: https://www.nicehash.com/
-   desc_general: Claims to bring an innovative easy-to-use and risk-free cloud mining service. You can mine the vast majority of popular coins, based on SHA-256 (Bitcoin, etc.), Scrypt (Litecoin, Dogecoin, etc.), Scrypt-N (Vertcoin, etc.) and X11 (DarkCoin, etc.).
+   url:
+   desc_general: NiceHash offers you to sell and buy hashing power. Selling hashing power is as simple as connecting your miner to our stratum mining pools while buyers can buy hashing power on demand, on pay-as-you-go basis. Claims to bring an innovative easy-to-use and risk-free cloud mining service. You can mine the vast majority of popular coins, based on SHA-256 (Bitcoin, etc.), Scrypt (Litecoin, Dogecoin, etc.), Scrypt-N (Vertcoin, etc.) and X11 (DarkCoin, etc.).
    desc_btc: NiceHash is unique in that it uses an orderbook to match mining contract buyers and sellers. Check its website for up-to-date prices.
    
  - company: Eobot
@@ -35,8 +41,8 @@
    desc_eth: Eobot offers Ethereum cloud mining contracts with 0.0060 ETH monthly payouts. 
    
  - company: MineOnCloud
-   url: http://rent.mineoncloud.com/miners/
-   desc_general: "Was launched on November 2013. They offer Bitcoin mining contracts for SHA256 using a very stable ASIC 28nm chip. They have two bitcoin mining contract options: (1) Day pass and (2) Year contract. Customers can choose the Bitcoin mining pool and change every month for free with year contract."
+   url:
+   desc_general: MineOnCloud appears to have obselete hardware. It was launched on November 2013. They offer Bitcoin mining contracts for SHA256 using a very stable ASIC 28nm chip. They have two bitcoin mining contract options: (1) Day pass and (2) Year contract. Customers can choose the Bitcoin mining pool and change every month for free with year contract.
    desc_btc: MineOnCloud currently has about 35 TH/s of mining equipment for rent in the cloud. Some miners available for rent include AntMiner S4s and S5s. 
    
  - company: Scrypt.cc
