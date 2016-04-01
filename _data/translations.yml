@@ -31,6 +31,9 @@ en:
     written-by: 'Written by <a href="%authorurl%">%author%</a> on %date%.'
 de:
   native: Deutsch
+  navigation:
+    - text: Erste Schritte
+      link: erste-schritte
   footer:
     contribute: Beitragen
     links:
