@@ -502,6 +502,15 @@ pre {
   }
 }
 
+@media (max-width: 540px) { 
+	.page-toc {
+    float: left !important;
+    margin: 10px 0 25px !important;
+    width: 100% !important;
+    padding: 0 !important;
+}
+}
+
 .cloud-mining-info {
 	margin-bottom: 10px;
 }

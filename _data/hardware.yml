@@ -111,7 +111,7 @@
     ghash_s_usd: 2.666
     watts: 1,210
     powerefficiencywgh: 0.25
-    priceusd: 998.47
+    priceusd: 714.00
     currently_shipping: No
     comm_ports: Ethernet
     dev_friendly: GPL infringement
@@ -356,7 +356,7 @@
     ghash_s_usd: x
     watts: x
     powerefficiencywgh: 0.29
-    priceusd: 1,465.46
+    priceusd: 914.50
     currently_shipping: Yes
     comm_ports: USB or Ethernet
     dev_friendly: code, docs, samples
@@ -1111,7 +1111,7 @@
     ghash_s_usd: 1.299
     watts: 1100
     powerefficiencywgh: 0.65
-    priceusd: 359.33
+    priceusd: 149.00
     currently_shipping: Discontinued
     comm_ports: Ethernet
     dev_friendly: code, samples
