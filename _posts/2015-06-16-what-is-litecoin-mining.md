@@ -16,8 +16,6 @@ toc:
   windows: How to Mine Litecoins on Windows 
 ---
 
-<iframe width="740" height="416" src="https://www.youtube.com/embed/ri8DBAqe4U4" frameborder="0" allowfullscreen></iframe>
-
 {% include page-toc.html %}
 
 <h2 id="what-is-litecoin-mining">What is Litecoin Mining?</h2>
@@ -27,6 +25,8 @@ toc:
 1) It secures the network and verifies transactions.
 
 2) New litecoins are paid out as a reward to miners.
+
+<iframe width="740" height="416" src="https://www.youtube.com/embed/ri8DBAqe4U4" frameborder="0" allowfullscreen></iframe>
 
 <h2 id="litecoin-mining-hardware">Litecoin Mining Hardware</h2>
 
