@@ -42,7 +42,7 @@
    
  - company: MineOnCloud
    url:
-   desc_general: MineOnCloud appears to have obselete hardware. It was launched on November 2013. They offer Bitcoin mining contracts for SHA256 using a very stable ASIC 28nm chip. They have two bitcoin mining contract options: (1) Day pass and (2) Year contract. Customers can choose the Bitcoin mining pool and change every month for free with year contract.
+   desc_general: MineOnCloud appears to have obselete hardware. It was launched on November 2013. They offer Bitcoin mining contracts for SHA256 using a very stable ASIC 28nm chip. They have two bitcoin mining contract options - a day pass and an annual contract. Customers can choose the Bitcoin mining pool and change every month for free with year contract.
    desc_btc: MineOnCloud currently has about 35 TH/s of mining equipment for rent in the cloud. Some miners available for rent include AntMiner S4s and S5s. 
    
  - company: Scrypt.cc
