@@ -34,7 +34,7 @@ The Litecoin mining industry is less developed than Bitcoin’s. ASICs—powerfu
 
 It’s possible, for example, to [buy a Bitcoin Antminer S7 ASIC on Amazon](http://www.runtogold.com/antminers7) for $714\. No such miners are available for Litecoin.
 
-The best Litecoin mining hardware available for purchase are [graphic cards](http://www.amazon.com/MSI-R9-280X-GAMING-3G/dp/B00FR6XPL8), but they are not profitable. If you are serious about mining litecoins, one option is to simply mine bitcoins with [hardware like the Antminer S7](http://www.runtogold.com/antminers7) and convert the earned bitcoins to litecoin.
+The best Litecoin mining hardware available for purchase are [graphic cards](http://www.runtogold.com/graphicscards), but they are not profitable. If you are serious about mining litecoins, one option is to simply mine bitcoins with [hardware like the Antminer S7](http://www.runtogold.com/antminers7) and convert the earned bitcoins to litecoin.
 
 <h2 id="how-litecoin-mining-works">How Litecoin Mining Works</h2>
 

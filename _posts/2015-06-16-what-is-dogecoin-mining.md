@@ -30,7 +30,7 @@ The Dogecoin mining industry is less developed than Bitcoin’s. ASICs—powerfu
 
 It’s possible, for example, to [buy a Bitcoin Antminer S7 ASIC on Amazon](http://www.runtogold.com/antminers7) for $714\. No such miners are available for Dogecoin.
 
-The best Dogecoin mining hardware available for purchase are [graphic cards](http://www.amazon.com/MSI-R9-280X-GAMING-3G/dp/B00FR6XPL8), but they are not profitable. If you are serious about mining Dogecoins, one option is to simply mine bitcoins with [hardware like the Antminer S7](http://www.runtogold.com/antminers7) and convert the earned bitcoins to Dogecoin.
+The best Dogecoin mining hardware available for purchase are [graphic cards](http://www.runtogold.com/graphicscards), but they are not profitable. If you are serious about mining Dogecoins, one option is to simply mine bitcoins with [hardware like the Antminer S7](http://www.runtogold.com/antminers7) and convert the earned bitcoins to Dogecoin.
 
 <h2 id="how-dogecoin-mining-works">How Dogecoin Mining Works</h2>
 
