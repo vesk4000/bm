@@ -26,7 +26,7 @@ toc:
 
 <h2 id="Dogecoin-mining-hardware">Dogecoin Mining Hardware</h2>
 
-The Dogecoin mining industry is less developed than Bitcoin’s. ASICs—powerful computers designed to solve Bitcoin’s [proof of work](/what-is-proof of work/) function—are available for Dogecoin but difficult to purchase. Because Dogecoin and Bitcoin use different proof of work functions [Bitcoin miners](https://www.bitcoinmining.com/bitcoin-mining-hardware/) cannot mine Dogecoins.  
+The Dogecoin mining industry is less developed than Bitcoin’s. ASICs—powerful computers designed to solve Bitcoin’s [proof of work](/what-is-proof-of-work/) function—are available for Dogecoin but difficult to purchase. Because Dogecoin and Bitcoin use different proof of work functions [Bitcoin miners](https://www.bitcoinmining.com/bitcoin-mining-hardware/) cannot mine Dogecoins.  
 
 It’s possible, for example, to [buy a Bitcoin Antminer S7 ASIC on Amazon](http://www.runtogold.com/antminers7) for $714\. No such miners are available for Dogecoin.
 
