@@ -117,3 +117,33 @@ defaults:
       path: "_posts/nl"
     values:
       lang: "nl"
+  - # Russian
+    scope:
+      path: "ru"
+    values:
+      lang: "ru"
+  -
+    scope:
+      path: "_posts/ru"
+    values:
+      lang: "ru"
+  - # Spanish
+    scope:
+      path: "es"
+    values:
+      lang: "es"
+  -
+    scope:
+      path: "_posts/es"
+    values:
+      lang: "es"
+  - # Portuguese
+    scope:
+      path: "pt"
+    values:
+      lang: "pt"
+  -
+    scope:
+      path: "_posts/pt"
+    values:
+      lang: "pt"
