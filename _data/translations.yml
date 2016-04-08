@@ -42,3 +42,9 @@ fr:
     written-by: 'Écrit par <a href="%authorurl">%author%</a> le %date%.'
 nl:
   native: Nederlands
+ru:
+  native: Pусский
+es:
+  native: Español
+pt:
+  native: Português
