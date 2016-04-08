@@ -1,27 +1,18 @@
 en:
   native: English
   navigation:
-    - text: Start
-      link: getting-started
-    - text: News
-      link: bitcoin-mining-news
-    - text: Pool
-      link: bitcoin-mining-pools
-    - text: Cloud
-      link: best-bitcoin-cloud-mining-contract-reviews
-    - text: Software
-      link: bitcoin-mining-software
-    - text: Hardware
-      link: bitcoin-mining-hardware
+    getting-started: Start
+    bitcoin-mining-news: News
+    bitcoin-mining-pools: Pool
+    best-bitcoin-cloud-mining-contract-reviews: Cloud
+    bitcoin-mining-software: Software
+    bitcoin-mining-hardware: Hardware
   footer:
     contribute: Contribute
     links:
-      - text: Advertise
-        link: advertise
-      - text: FAQ
-        link: faq
-      - text: About Us
-        link: about-us
+      advertise: Advertise
+      faq: FAQ
+      about-us: About Us
   contribute-notif:
     heading: Contribute and translate!
     text: >
@@ -32,13 +23,11 @@ en:
 de:
   native: Deutsch
   navigation:
-    - text: Erste Schritte
-      link: erste-schritte
+    erste-schritte: Erste Schritte
   footer:
     contribute: Beitragen
     links:
-      - text: Werben
-        link: werben
+      werben: Werben
   contribute-notif:
     heading: Hilf uns und übersetze!
     text: >
@@ -47,7 +36,7 @@ de:
   post:
     written-by: 'Geschrieben von <a href="%authorurl%">%author%</a> am %date%.'
 fr:
-  native: Francais
+  native: Français
   contribute: Contribuer
   post:
     written-by: 'Écrit par <a href="%authorurl">%author%</a> le %date%.'

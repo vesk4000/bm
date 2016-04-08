@@ -1,11 +1,9 @@
 ---
 layout: default
+title: Alles was man über Bitcoin wissen muss
 ---
-
- <h1>Was ist Bitcoin-Mining?</h1>
-  <iframe width="700" height="394" frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/GmOzih6I1zs?rel=0&amp;showinfo=0&amp;wmode=opaque&amp;cc_load_policy=1&amp;hl=de&amp;cc_lang_pref=de"></iframe>
-<center><small>Video courtesy of: <em><a href="http://www.bitcoinmining.com">www.bitcoinmining.com</a></em></small></center></p>
-</p>
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe></center>
+<p><center><h2><a href="/de/getting-started/">ERSTE SCHRITTE</a> | <a href="/bitcoin-mining-hardware/">BITCOIN MINING HARDWARE</a></h2></center>
 
 <h1 id="intro">Bevor wir beginnen...</h1>
 <p>Bevor Sie weiterlesen seien Sie sich bitte im Klaren, dass <strong>die meisten Bitcoinnutzer nicht minen!</strong> Bitcoin-Mining ist ein Geschäft mit einer sehr grossen Konkurrenz. Mining macht nur Sinn, wenn Sie es aus Spass machen und es Ihnen nicht so wichtig ist, ob Sie Profit daraus schlagen. Es ist aber auch möglich, dass Sie es sehr effektiv betreiben und davon profitieren.</p>
@@ -24,7 +22,7 @@ reduzieren, brauchen wir nun zwei Nullen am Anfang, um kleiner als sie zu sein:<
 <p>Weil die Ziel-Schwierigkeit eine so lange Zahl ist, benutzt man üblicherweise eine kleinere Nummer um die Ziel-Schwierigkeit anzugeben. Diese Nummer wird <em>Mining-Schwierigkeit</em> genannt. Die Mining-Schwierigkeit stellt dar, wie viel schwieriger es ist, den aktuellen Block gegenüber dem Ersten zu erstellen. Eine Schwierigkeit von 70000 bedeutet, dass der aktuelle Block 70000 Mal mehr Arbeit benötigt, als <a href="https://en.bitcoin.it/wiki/Satoshi_Nakamoto">Satoshi Nakamoto</a> benötigte, um den ersten Block zu erstellen. Um Fair zu bleiben muss gesagt werden, dass damals das Mining viel langsamer und weniger optimiert war.<p>
 <p>Die Schwierigkeit wird alle 2016 Blöcke angepasst. Das Netzwerk versucht, die Schwierigkeit so anzupassen, dass es das mit der Leistung des gesamten Netzwerks ungefähr 14 Tage dauert um 2016 Blöcke herzustellen. Deshalb steigt wenn die Leistung des Netzwerks zunimmt, die Schwierigkeit ebenfalls.</p>
 <h1 id="hardware">Hardware</h1>
-<p>Am Anfang war das "Mining" mit einer CPU der einzige Weg für das minen Bitcoins. Das machte den Weg frei für das minen mit einer Grafikkarte (GPU). Der Umstand, dass Grafikkarten die Arbeit parallel berechen können führte zu einer Erhöhung der Mining-Leistung um das <a href="https://en.bitcoin.it/wiki/Why_a_GPU_mines_faster_than_a_CPU">50 bis 100-fache</a>, während der Stromverbrauch für ein MHash gegenüber der CPU sank.</p> 
+<p>Am Anfang war das "Mining" mit einer CPU der einzige Weg für das minen Bitcoins. Das machte den Weg frei für das minen mit einer Grafikkarte (GPU). Der Umstand, dass Grafikkarten die Arbeit parallel berechen können führte zu einer Erhöhung der Mining-Leistung um das <a href="https://en.bitcoin.it/wiki/Why_a_GPU_mines_faster_than_a_CPU">50 bis 100-fache</a>, während der Stromverbrauch für ein MHash gegenüber der CPU sank.</p>
 <p>Theoretisch kann jede GPU für das Minen benutzt werden, es stellte sich jedoch heraus, dass die GPU's von AMD gegenüber der von nVidia für das minen von Bitcoins überlegen waren. Die ATI Radeon HD 5870 war damals die kosteneffizienteste Lösung.</p>
 <p>Eine umfangreiche Liste von Grafikkarten und deren Leistung für das Mining finden Sie im Bitcoin-Wiki: Mining hardware comparison</p>
 <p>Nach dem Übergang von der CPU zur GPU wurde schon bald die Verwendung von Field Programmable Gate Arrays (FPGA) als Haupt-Mining-Plattform eingeläutet. FPGAs bewirkten keine 50 bis 100-fache Erhöhuung der Hashrate wie bei Wechsel von CPU zur GPU, stellte aber einen grossen Schritt in der Verbesserung der Energieeffizienz dar.
@@ -35,7 +33,7 @@ reduzieren, brauchen wir nun zwei Nullen am Anfang, um kleiner als sie zu sein:<
 <p>Der Stromverbrauch ist im Verhältnis zur Hashrate der wichtigste Faktor eines ASIC-Produktes. Ausserdem ist die Lebenszeit länger als die gesamte Geschichte des Bitcoin-Minings. Es ist sehr wahrscheinlich, dass ein ASIC-Gerät, das heute gekauft wird in zwei Jahren noch genügend energieeffizient ist und sein Ertrag die Stromkosten übertrifft. Der Ertrag wird auch von den Währungskursen bestimmt. Man kann aber in der Regel sagen: "Je höher die Energieeffizienz, desto höher der Ertrag".</p>
 <h1 id="software">Software</h1>
 <p>Es gibt zwei grundlegende Varianten um zu minen: Alleine oder als Mitglied eines Pools. Wenn Sie alleine minen möchten, lesen Sie am Besten hier nach, wie Sie die Bitcoin-Software installieren und für eine JSON-RPC-Verbindung (siehe: <a href="https://en.bitcoin.it/wiki/Running_Bitcoin">Running Bitcoin (Wiki)</a>) konfigurieren. Die andere Option ist es einem <a href="https://en.bitcoin.it/wiki/Pooled_mining">Mining-Pool</a> beizutreten. Es gibt <a href="https://en.bitcoin.it/wiki/Category:Pool_Operators">mehrere Pools</a>, aus denen Sie wählen können. Bei einem Pool wird der Gewinn aus jedem Block, der ein Mitglied generiert durch alle Mitglieder des Pools geteilt. Der Vorteil den Sie durch den Beitritt eines Pools erhalten sind regelmässigere und gleichmässige Auszahlungen. Diese fallen jedoch kleiner aus. Wenn Sie alleine minen erhalten Sie grössere und unregelmässigere Auszahlungen. Letztendlich verdienen Sie jedoch etwa dasselbe.</p>
-<p>Wenn Sie die Bitcoin-Software heruntergeladen und konfiguriert haben oder einem Pool beigetreten sind, besteht der nächste Schritt darin Ihre Mining-Software einzurichten. Für GPU/FPGA/ASIC Miner ist dies zurzeit etwa CGminer oder BFGMiner eine spezielle Ableitung davon für FPGA's und ASIC's. 
+<p>Wenn Sie die Bitcoin-Software heruntergeladen und konfiguriert haben oder einem Pool beigetreten sind, besteht der nächste Schritt darin Ihre Mining-Software einzurichten. Für GPU/FPGA/ASIC Miner ist dies zurzeit etwa CGminer oder BFGMiner eine spezielle Ableitung davon für FPGA's und ASIC's.
 <p>Wenn Sie sich einen kleinen Einblick über das mining verschaffen wollen, versuchen Sie Bitcoin Plus, einen browserbasierten CPU Bitcoin miner. Ein CPU Miner ist nicht die kostengünstigste Variante für seriöses minen, zeigt Ihnen aber das Prinzip eines Pools sehr gut dar.</p>
 <h2 id="credit">Vielen Dank an:</h2>
 <p>Blitzboom und die Jungs von #bitcoin-dev für Ihre Hilfe bei der Erstellung dieser Anleitung!</p>
