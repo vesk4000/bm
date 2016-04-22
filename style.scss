@@ -74,6 +74,7 @@ a {
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
+    text-decoration: underline;
   }
 }
 
@@ -513,6 +514,74 @@ pre {
 
 .cloud-mining-info {
 	margin-bottom: 10px;
+}
+
+.icon-home {
+    float: left;
+    margin: 25px 35px 20px 0;
+}
+
+.home-grid {
+    float: left;
+    margin: 20px 0;
+    width: 100%;
+	
+	.section {
+    display: block;
+    float: left;
+    margin-right: 1%;
+    width: 32.6%;
+	}
+	
+	@include mobile() {
+	.section {
+    display: block;
+    float: left;
+    margin-right: 0;
+    margin-bottom: 20px;
+    width: 100%;
+}
+	
+	
+	}
+
+	.section:last-child {
+    margin-right: 0;
+}
+	
+	img {
+    float: left;
+    margin: 0 15px 0 0;
+    width: 60px;
+}
+
+	.section .section-title {
+    color: #222;
+    font-weight: bold;
+    margin: 4px 0 9px;
+}
+
+	.section-view {
+		font-weight: 300;
+	}
+}
+
+
+.bitcoin-icon {
+	height: auto;
+    max-width: 220px;
+
+	@include mobile {
+    max-width: 120px;
+  }
+}
+
+.pull-right {
+    float: right;
+}
+.pull-left {
+    float: left;
+    margin: 0 20px 0 0;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
