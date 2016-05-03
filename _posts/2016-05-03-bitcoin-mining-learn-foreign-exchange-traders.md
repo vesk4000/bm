@@ -36,7 +36,7 @@ This, essentially, is how Bitcoins are “created”. Instead of being printed t
 
 ## Learning from Forex traders
 
-As Bitcoin is relatively new to the world of Forex - indeed to the world itself - the network still has a lot to learn. [Mining](https://www.bitcoinminer.com) itself is an area that still has much development to do, and can learn from Forex trading.
+As Bitcoin is relatively new to the world of Forex - indeed to the world itself - the network still has a lot to learn. [Mining](http://www.bitcoinminer.com) itself is an area that still has much development to do, and can learn from Forex trading.
 
 Supply and demand is still the foundation on which the Bitcoin currency works, and is the same foundation on which the Forex market works. The Forex market is heavily impacted by supply decisions - such as when a government decides to increase supply. Bitcoin can become ever more stable by implementing new ways to control Bitcoin mining.
 
@@ -44,7 +44,6 @@ Bitcoin miners can learn from Forex trading how to utilize supply and demand to 
 
 But Forex has come into the mainstream world, and is accessible to beginners worldwide. Bitcoin has still to get there, but we can expect that such a development will be made in the coming years.
 
-
 ![uses of blockchain technology][1]
 
-[1]: /images/infographics/blockchain.jpg
+[1]: /images/what-is-bitcoin-mining.png
