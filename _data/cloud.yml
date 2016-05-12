@@ -1,8 +1,9 @@
  - company: Hashflare
    url: https://hashflare.io/r/539A7635
    desc_general: An Estonian cloud miner with SHA-256, Scrypt and Scrypt-N options and currently appears to be the <b>best value</b>.
-   desc_btc: Hashflare offers SHA-256 mining contracts for $3.30/10 GH/s. More profitable SHA-256 coins can be mined while automatic payouts are still in BTC. Customers must purchase at least 10 GH/s. 
+   desc_btc: Hashflare offers SHA-256 mining contracts for $1.60/10 GH/s. More profitable SHA-256 coins can be mined while automatic payouts are still in BTC. Customers must purchase at least 10 GH/s. 
    desc_ltc: Hashflare offers scrypt mining contracts at $6.60 per 1 MH/s with a minimum purchase of 1 MH/s. 
+   desc_eth: "Hashflare is a large Ether cloud mining provider. Ethereum cloud mining contracts cost 100KH/s = $4.25 for a one year contract."
 
  - company: Genesis Mining
    url: https://www.genesis-mining.com/a/177546
