@@ -12,38 +12,59 @@ toc:
   bw: The Block Reward
 ---
 
-<center><iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe></center>
-<p><center><h2><a href="/getting-started/">GETTING STARTED</a> | <a href="/bitcoin-mining-hardware/">BITCOIN MINING HARDWARE</a></h2></center>
+<center><iframe width="720" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe></center>
 
-<table style="undefined;table-layout: fixed; width: 700px vertical-align="center">
-<colgroup>
-<col style="width: 120px">
-<col style="width: 580px">
-</colgroup>
-  <tr>
-    <td><img src="/images/icons/icon-big-bitcoinfrom.png" alt="where do bitcoins come from" float="center" vertical-align="center" width="auto" height="auto"/></th>
-    <td><h2>How Bitcoin Mining Works</h2>
-    <p>Where do bitcoins come from? With paper money, a government decides when to print and distribute money. Bitcoin doesn't have a central government.
-    <p>With Bitcoin, miners use <a href="/bitcoin-mining-software/">special software</a> to solve math problems and are issued a certain number of bitcoins in exchange. This provides a smart way to issue the currency and also creates an incentive for more people to mine.
-    </th>
-  </tr>
-  <tr>
-    <td><img src="/images/icons/icon-big-secure.png" alt="bitcoin is secure" float="left" width="auto" height="auto"/></td>
-    <td><h2>Bitcoin is Secure</h2>
-    <p>Bitcoin miners help keep the Bitcoin network secure by approving transaction. Mining is an important and integral part of Bitcoin that ensures fairness while keeping the Bitcoin network stable, safe and secure.</td>
-  </tr>
-  <tr>
-    <td><img src="/images/icons/icon-big-links.png" alt="bitcoin links" align="left" width="auto" height="auto"/></td>
-    <td><h2>Links</h2>
-    <p><ul><li><a target="_blank" href="https://www.weusecoins.com/">We Use Coins</a> - Learn all about crypto-currency.<br/></li>
-<li><a target="_blank" href="https://www.reddit.com/r/Bitcoin/">Bitcoin News</a> - Where the Bitcoin community gets news.<br/></li>
-<li><a href="http://www.bitcoin.kn">Bitcoin Knowledge Podcast</a> - Interviews with the top people in the Bitcoin world</li>
+<div class="home-grid">
+	<a href="/getting-started/" class="section">
+		<img src="/images/icons/mining.png"> 
+		<div class="section-title">New to Mining?</div> 
+		<div class="section-view">Get started ›</div> 
+	</a>
+	<a href="/bitcoin-mining-hardware/" class="section">
+		<img src="/images/icons/mining2.png"> 
+		<div class="section-title">Mining Hardware</div> 
+		<div class="section-view">Learn More ›</div> 
+	</a>
+	<a href="/best-bitcoin-cloud-mining-contract-reviews/" class="section">
+		<img src="/images/icons/cloud.png"> 
+		<div class="section-title">Cloud Mining</div> 
+		<div class="section-view">Learn More ›</div> 
+	</a>
+</div>
+
+<img class="icon-home" alt="bitcoin mining" src="/images/icons/icon-big-bitcoinfrom.png">
+<h2>How Bitcoin Mining Works</h2>
+<p>Where do bitcoins come from? With paper money, a government decides when to print and distribute money. Bitcoin doesn't have a central government.</p>
+
+<p>With Bitcoin, miners use <a href="/bitcoin-mining-software/">special software</a> to solve math problems and are issued a certain number of bitcoins in exchange. This provides a smart way to issue the currency and also creates an incentive for more people to mine.</p>
+
+<img class="icon-home" alt="bitcoin is secure" src="/images/icons/icon-big-secure.png">
+<h2>Bitcoin is Secure</h2>
+
+<p>Bitcoin miners help keep the Bitcoin network secure by approving transactions. Mining is an important and integral part of Bitcoin that ensures fairness while keeping the Bitcoin network stable, safe and secure.</p>
+
+<img class="icon-home" alt="bitcoin is secure" src="/images/icons/icon-big-links.png">
+<h2>Links</h2>
+<ul>
+	<li><a href="https://www.weusecoins.com/" target="_blank">We Use Coins</a> - Learn all about crypto-currency.<br></li>
+	<li><a href="https://www.reddit.com/r/Bitcoin/" target="_blank">Bitcoin News</a> - Where the Bitcoin community gets news.<br></li>
+	<li><a href="http://www.bitcoin.kn">Bitcoin Knowledge Podcast</a> - Interviews with the top people in the Bitcoin world</li>
 </ul>
-    </td>
-  </tr>
-</table>
+
 <hr id="hwc" style="width: 100%; margin: 20px 0; color: #eee;" />
-{% include bitcoin-mining-hardware-comparison.html %}
+
+<h2>Bitcoin Mining Hardware Comparison</h2>
+
+<p>Currently, based on <b>(1)</b> price per hash and <b>(2)</b> electrical efficiency the best Bitcoin miner options are:</p>
+
+<div class="hardware-comparison">
+{% for miner in site.data.hardware %}
+{% if miner.cat contains 'featured' %}
+{% include hardware-compare.html %}
+{% endif %}
+{% endfor %}
+</div>
+
 <hr style="width: 100%; margin: 20px 0; color: #eee;" />
 <h2 id="wibm">What is Bitcoin Mining?</h2>
 <center><img src="/images/what-is-bitcoin-mining.png" width="700" height="auto">
