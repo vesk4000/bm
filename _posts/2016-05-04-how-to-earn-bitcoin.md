@@ -21,15 +21,15 @@ Introduction to Earning in Bitcoin
 
 Bitcoin is the most popular digital currency in the world today. It is built using very complicated cryptographic principles, and supported by countless individuals and companies from all around the world. By early 2016, total Bitcoin market capitalization had crossed USD 7 Billion, making it almost as valuable as the GDP of a small country like Bahamas. 
 
-With such a huge amount of world's capital available in the form of Bitcoins, there are numerous opportunities to earn more and more bitcoins by the day. In this article we will try to discuss these same opportunities to earn bitcoins. 
+With such a huge amount of world's capital available in the form of Bitcoins, opportunities to earn bitcoins are increasing by the day. In this article we will discuss these same opportunities to earn bitcoins. 
 
-We will start with the easiest, or the one that is applicable for the maximum number of people, and then move to the tougher ones. In the end we will cover earning bitcoins by mining. It definitely is not an easy way to earn bitcoins, but we do have a number of easier ones. So lets start with 'earning bitcoins by offering your services'
+We will start with the easiest, or the one that is applicable for the maximum number of people, and then move to the tougher ones. In the end we will cover earning bitcoins by mining. It definitely is not an easy way to earn bitcoins, but we do have a number of easier ones we will discuss first. So lets start with 'earning bitcoins by offering your services'
 
 <h3 id="wrk">Work for Bitcoin</h3>
 
-Perhaps the easiest way to earn bitcoins is to work online or in real life for bitcoins. THis is possible only because of the huge size of the bitcoin eco-system. With USD 7 Billion or more invested in it by tens of thousands of people, there is a veritable mini-economy that is driven by freelancers, software developers, writers, and other who get paid in bitcoins for their services. 
+Perhaps the easiest way to earn bitcoins is to work online or in real life for bitcoins. Because of the huge size of the bitcoin eco-system, a number of such opportunities and jobs are available. With Billions of dollars invested in Bitcoin by tens of thousands of people, there is a real market in Bitcoin that has jobs for freelancers, software developers, writers, and other who get paid in bitcoins for their services. 
 
-What kind of services are in demand: software development, writing, design, making websites or apps, audio transcription, are some of the most active types of jobs. You can easily discover the types of jobs by going over the more popular job boards for bitcoin related work. These job boards or forums are:
+Software development, writing, design, making websites or apps, audio transcription, are some of the most active types of jobs. You can easily discover the types of jobs by going over the more popular job boards for bitcoin related work. You can look for jobs on the following job boards or forums:
 
 * reddit.com/r/jobs4bitcoins
 
@@ -42,8 +42,8 @@ What kind of services are in demand: software development, writing, design, maki
 
 
 <h3 id="sll">Sell for bitcoin</h3>
+You can also get Bitcoin by selling your old laptops, phones or other items for Bitcoins. Such types of transactions are happening more and more, and a lot of buyers are already buying anything from iPhones to even cars by paying with Bitcoins. For Americans, Craigslist.com is the best best when you want to contact such buyers. You can mention in your ad that you are willing to take payment in Bitcoin. This way if anyone wants to buy the item for you for Bitcoin, they can contact you and make an offer. 
 
-You can also get Bitcoin by selling your old laptops, phones or other items for Bitcoins. Such types of transactions are happening more and more, and a lot of buyers are already buying anything from iPhones to even cars by paying with Bitcoins. Craigslist.com is your best best when you want to contact such buyers. 
 
 <h3 id='aff'> Affiliate Programs</h3>
 
