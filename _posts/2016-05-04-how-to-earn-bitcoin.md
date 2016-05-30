@@ -17,7 +17,7 @@ toc:
 
 {% include page-toc.html %}
 
-Introduction to Earning in Bitcoin   
+<h3 id="intro"> Introduction to Earning in Bitcoin</h3>
 
 Bitcoin is the most popular digital currency in the world today. It is built using very complicated cryptographic principles, and supported by countless individuals and companies from all around the world. By early 2016, total Bitcoin market capitalization had crossed USD 7 Billion, making it almost as valuable as the GDP of a small country like Bahamas. 
 
