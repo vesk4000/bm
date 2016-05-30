@@ -42,11 +42,13 @@ Software development, writing, design, making websites or apps, audio transcript
 
 
 <h3 id="sll">Sell for bitcoin</h3>
+
 You can also get Bitcoin by selling your old laptops, phones or other items for Bitcoins. Such types of transactions are happening more and more, and a lot of buyers are already buying anything from iPhones to even cars by paying with Bitcoins. For Americans, Craigslist.com is the best best when you want to contact such buyers. You can mention in your ad that you are willing to take payment in Bitcoin. This way if anyone wants to buy the item for you for Bitcoin, they can contact you and make an offer. 
 
 
 <h3 id='aff'> Affiliate Programs</h3>
 
+Affiliate programs allow a promoter of a business or product to earn money or bitcoins by refering new clients to the said businesse or product. For example, amazon.com has a popular affiliate program, where you can earn commission ranging from 2% to 20% for refering clients to products listed on amazon.com. Amazon normally pays in dollars, but there are a number of other sites and businesses which pay you in bitcoin for acting as their affiliate. 
 
 <h3 id='gmg'> Gambling </h3>
 
