@@ -13,7 +13,7 @@ toc:
 ---
 
 <center>
-  <p>A Portugese translation is coming soon. Check our GitHub to learn how to contribute!</p>
+  <p>A Turkish translation is coming soon. Check our GitHub to learn how to contribute!</p>
 </center>
 
 <center><iframe width="720" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe></center>
