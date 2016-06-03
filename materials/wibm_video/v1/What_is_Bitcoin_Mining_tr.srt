@@ -34,11 +34,11 @@ Bunun sonucunda bir sayıda yeni Bitcoinler üretilir.
 
 9
 00:00:26,200 --> 00:00:28,230
-Aslında bu yeni paranın üretilmesi için çok zekice bir yöntemdir.
+Aslında bu yeni paranın üretilmesi için çok zekice bir yöntemdir
 
 10
 00:00:28,400 --> 00:00:31,500
-Ve insanları madenci olmaya teşvik eder.
+ve insanları madenci olmaya teşvik eder.
 
 11
 00:00:32,380 --> 00:00:35,510
