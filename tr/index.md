@@ -1,20 +1,17 @@
 ---
 layout: default
-title: Everything you need to know about Bitcoin mining
+title: Bitcoin madenciliği hakkında bilmeniz gereken her şey
 toc:
-  hwc: Mining Hardware Comparison
-  wibm: What is Bitcoin Mining?
-  what-is-blockchain: What is the Blockchain?
-  wipow: What is Proof of Work?
-  md: What is Bitcoin Mining Difficulty?
-  tcdp: The Computationally-Difficult Problem
-  difficulty: The Bitcoin Network Difficulty Metric
-  bw: The Block Reward
+  mdk: Madencilik Donanımı Karşılaştırması
+  bmn: Bitcoin Madenciliği Nedir?
+  blok-zinciri-nedir: Blok zinciri Nedir?
+  yikn: Yapılan işin kanıdı nedir?
+  mz: Bitcoin Madencilik Zorluğu nedir?
+  hzp: Hesaplamadaki Zorluk Problemi
+  zorluk: Zorluğa göre Bitcoin Ağı
+  bo: Blok Ödülü
 ---
 
-<center>
-  <p>A Turkish translation is coming soon. Check our GitHub to learn how to contribute!</p>
-</center>
 
 <center><iframe width="720" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe></center>
 
@@ -36,30 +33,30 @@ toc:
 	</a>
 </div>
 
-<img class="icon-home" alt="bitcoin mining" src="/images/icons/icon-big-bitcoinfrom.png">
-<h2>How Bitcoin Mining Works</h2>
-<p>Where do bitcoins come from? With paper money, a government decides when to print and distribute money. Bitcoin doesn't have a central government.</p>
+<img class="icon-home" alt="bitcoin madenciliği" src="/images/icons/icon-big-bitcoinfrom.png">
+<h2>Bitcoin Madenciliği Nasıl Çalışır</h2>
+<p>Bitcoinler nereden geliyor? Kağıt paranın ne zaman basılacağına ve dağıtılacağına devlet karar verir. Ancak Bitcoin'in merkezi bir hükümeti yoktur.</p>
 
-<p>With Bitcoin, miners use <a href="/bitcoin-mining-software/">special software</a> to solve math problems and are issued a certain number of bitcoins in exchange. This provides a smart way to issue the currency and also creates an incentive for more people to mine.</p>
+<p>Bitcoin'de, madenciler matematik problemlerini çözmek için <a href="/bitcoin-mining-software/">özel yazılımlar</a> kullanır ve sonucunda bir miktar yeni Bitcoin yaratılır. Aslında bu yeni paranın üretilmesi için çok zekice bir yöntemdirVe insanları madenci olmaya teşvik eder.</p>
 
-<img class="icon-home" alt="bitcoin is secure" src="/images/icons/icon-big-secure.png">
-<h2>Bitcoin is Secure</h2>
+<img class="icon-home" alt="bitcoin güvenlidir" src="/images/icons/icon-big-secure.png">
+<h2>Bitcoin Güvenlidir</h2>
 
-<p>Bitcoin miners help keep the Bitcoin network secure by approving transactions. Mining is an important and integral part of Bitcoin that ensures fairness while keeping the Bitcoin network stable, safe and secure.</p>
+<p>Bitcoin madencileri ödemeleri doğrulayarak Bitcoin ağının güvenli kalmasını sağlar. Madencilik Bitcoin'in önemli bir parçasıdır ve Bitcoin ağını güvenli, adil ve sorunsuz tutar.</p>
 
-<img class="icon-home" alt="bitcoin is secure" src="/images/icons/icon-big-links.png">
-<h2>Links</h2>
+<img class="icon-home" alt="bitcoin güvenlidir" src="/images/icons/icon-big-links.png">
+<h2>Linkler</h2>
 <ul>
-	<li><a href="https://www.weusecoins.com/" target="_blank">We Use Coins</a> - Learn all about crypto-currency.<br></li>
-	<li><a href="https://www.reddit.com/r/Bitcoin/" target="_blank">Bitcoin News</a> - Where the Bitcoin community gets news.<br></li>
-	<li><a href="http://www.bitcoin.kn">Bitcoin Knowledge Podcast</a> - Interviews with the top people in the Bitcoin world</li>
+	<li><a href="https://www.weusecoins.com/" target="_blank">We Use Coins</a> - Kripto-para birimleri hakkında her şeyi öğrenin.<br></li>
+	<li><a href="https://www.reddit.com/r/Bitcoin/" target="_blank">Bitcoin Haberleri</a> - Bitcoin topluluğunun haberleri öğrendiği yer.<br></li>
+	<li><a href="http://www.bitcoin.kn">Bitcoin Bilgiler Ses Kayıtları</a> - Bitcoin dünyasındaki en ünlü insanlarla röportajlar.</li>
 </ul>
 
-<hr id="hwc" style="width: 100%; margin: 20px 0; color: #eee;" />
+<hr id="mdk" style="width: 100%; margin: 20px 0; color: #eee;" />
 
-<h2>Bitcoin Mining Hardware Comparison</h2>
+<h2>Madenci Donanmıları Karşılaştırması</h2>
 
-<p>Currently, based on <b>(1)</b> price per hash and <b>(2)</b> electrical efficiency the best Bitcoin miner options are:</p>
+<p>Şimdilik, hash başına fiyat <b>(1)</b> ve elektriksel verimliliğe <b>(2)</b> göre en iyi Bitcoin madenci seçenekleri şunlardır:</p>
 
 <div class="hardware-comparison">
 {% for miner in site.data.hardware %}
@@ -70,9 +67,9 @@ toc:
 </div>
 
 <hr style="width: 100%; margin: 20px 0; color: #eee;" />
-<h2 id="wibm">What is Bitcoin Mining?</h2>
+<h2 id="bmn">Bitcoin Madenciliği Nedir?</h2>
 <center><img src="/images/what-is-bitcoin-mining.png" width="700" height="auto">
-<a href="/images/what-is-bitcoin-mining-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center>
+<a href="/images/what-is-bitcoin-mining-high-resolution.png" target="_blank">Yüksek çözünürlüklü infografiği görselleştirin ve indirin</a></center>
 
 {% include page-toc.html %}
 
