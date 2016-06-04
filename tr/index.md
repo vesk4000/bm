@@ -73,8 +73,8 @@ toc:
 
 {% include page-toc.html %}
 
-<p>Bitcoin mining is the process of adding transaction records to Bitcoin's public ledger of past transactions or <b>blockchain</b>. This ledger of past transactions is called the block chain as it is a chain of blocks. The block chain serves to confirm transactions to the rest of the network as having taken place.
-<p>Bitcoin nodes use the <b>block chain</b> to distinguish legitimate Bitcoin transactions from attempts to re-spend coins that have already been spent elsewhere.
+<p>Bitcoin madenciliği, ödemeleri herkese açık bir deftere (<b>blok zincirine</b>) kaydetme işlemidir. Geçmiş ödemelerin kaydedildiği yere blok zinciri denir çünkü blokların bulunduğu zincirdir. Bu blok zinciri, ağa bağlı diğer bilgisayarlara doğrulamaları için ödemeleri dağıtır.
+<p>Bitcoin düğümleri <b>blok zincirini</b> doğru ödemelerden, çoktan başka bir yere ödenmiş tekrar-ödemeleri ayırmak için kullanır.
 <h3 id="what-is-blockchain">What is the Blockchain?</h3>
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/YIVAluSL9SU" frameborder="0" allowfullscreen></iframe></center>
 <p><a href="http://bitcoinminer.com/">Bitcoin mining</a> is intentionally designed to be resource-intensive and difficult so that the number of blocks found each day by miners remains steady. Individual blocks must contain a <a href="/what-is-proof-of-work/">proof of work</a> to be considered valid. This proof of work is verified by other Bitcoin nodes each time they receive a block. Bitcoin uses the <a href="/what-is-hashcash/">hashcash</a> proof-of-work function.
