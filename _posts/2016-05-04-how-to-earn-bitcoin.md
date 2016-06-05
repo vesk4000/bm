@@ -72,7 +72,7 @@ When you own the hardware that does the calculations and mining of bitcoins, its
 
 For a more in-depth information on how to setup your hardware mining equipment, have a look at the <a href="/antminer-s3-bitcoin-miner-setup/">Antminer setup page.</a> 
 
-### Bitcoin Mining Hardware Comparison
+# Bitcoin Mining Hardware Comparison
 
 Currently, based on (1) price per hash and (2) electrical efficiency the best Bitcoin miner options are: 
 
