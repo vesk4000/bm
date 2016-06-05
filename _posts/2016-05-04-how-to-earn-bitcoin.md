@@ -47,7 +47,7 @@ You can also get Bitcoin by selling your old laptops, phones or other items for 
 
 <h3 id='aff'>Affiliate Programs</h3>
 
-Affiliate programs allow a promoter of a business or product to earn money or bitcoins by refering new clients to the said businesse or product. For example, amazon.com has a popular affiliate program, where you can earn commission ranging from 2% to 20% for refering clients to products listed on amazon.com. Amazon normally pays in dollars, but there are a number of other sites and businesses which pay you in bitcoin for acting as their affiliate. 
+Affiliate programs allow a promoter of a business or product to earn money or bitcoins by refering new clients to such businesses or products. For example, amazon.com has a popular affiliate program, where you can earn commission ranging from 2% to 20% for refering clients to products listed on amazon.com. Amazon normally pays in dollars, but there are a number of other sites and businesses which pay you in bitcoin for acting as their affiliate. 
 
 Some of the more popular affiliate programs that pay out in Bitcoin are by the sites: cex.io, coinbase.com, okcoin.com and namecheap.com, among others. You can find a larger list of such affiliate programs on the <a href="https://en.bitcoin.it/wiki/Bitcoin_Affiliate_Programs">bitcoin wiki page for Affiliates</a>
 
@@ -86,11 +86,14 @@ Currently, based on (1) price per hash and (2) electrical efficiency the best Bi
 
 
 <h3 id="clf">Cloud Mining</h3>
-Is when you use cloud services such as Amazon AWS. 
+There are a number of service providers that allow you to rent computational hardware from them, which can then be used to do bitcon mining. Some of these services are designed with bitcoin mining in mind, whereas others such as Amazon AWS are general purpose services that can also be used to do bitcoin mining.  
+
+Some of the cloud mining services which can be used to do bitcoin mining on the cloud are:
 
 {% for service in site.data.cloud %} 
 {% if service.desc_btc != null %}
-{% if service.url != null %}{{ service.company }}: {% else %}{{ service.company }}: {% endif %}{{ service.desc_btc }}
-{% endif %} {% endfor %}
-
+{% if service.url != null %}{{ service.company }}: {% else %}{{ service.company }}: 
+{% endif %}{{ service.desc_btc }}
+{% endif %} 
+{% endfor %}
 
