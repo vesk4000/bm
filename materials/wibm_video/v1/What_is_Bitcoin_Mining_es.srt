@@ -13,7 +13,7 @@ Bitcoin es una pequeña fracción de el banco of Bitcoin.
 
 4
 00:00:09,679 --> 00:00:12,100
-¿Pero de donde bienen los Bitcoins?
+¿Pero de donde vienen los Bitcoins?
 
 5
 00:00:12,500 --> 00:00:17,000
