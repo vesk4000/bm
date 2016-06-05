@@ -19,17 +19,17 @@ toc:
 
 <h3 id="intro"> Introduction to Earning in Bitcoin</h3>
 
-Bitcoin is the most popular digital currency in the world today. It is built using very complicated cryptographic principles, and supported by countless individuals and companies from all around the world. By early 2016, total Bitcoin market capitalization had crossed USD 7 Billion, making it almost as valuable as the GDP of a small country like Bahamas. 
+Bitcoin is the most popular digital currency in the world today. It is built using very complicated cryptographic principles, and supported by countless individuals and companies from all around the world. By early 2016, total Bitcoin market capitalization had crossed USD 7 Billion, making it almost as valuable as the GDP of a small country like Bahamas. All the other digital currencies together do not constitute even 20% of Bitcoin's market capitalization, underlining the its dominance and importance in the world of digital currencies.  
 
-With such a huge amount of world's capital available in the form of Bitcoins, opportunities to earn bitcoins are increasing by the day. In this article we will discuss these same opportunities to earn bitcoins. 
+With such a huge amount of world's capital available in the form of Bitcoins, the number and types of opportunities to earn in bitcoins are increasing by the day. In this article we will discuss such opportunities that help us earn bitcoins. 
 
-We will start with the easiest, or the one that is applicable for the maximum number of people, and then move to the tougher ones. In the end we will cover earning bitcoins by mining. It definitely is not an easy way to earn bitcoins, but we do have a number of easier ones we will discuss first. So lets start with 'earning bitcoins by offering your services'
+We will start with the easiest, or the one that is applicable for the maximum number of people, and then move to the tougher ones. In the end we will cover earning bitcoins by mining. Bitcoin mining is not an easy way to earn bitcoins, but we do have a number of easier ones we will discuss first. So lets start with 'earning bitcoins by offering your services'
 
 <h3 id="wrk">Work for Bitcoin</h3>
 
-Perhaps the easiest way to earn bitcoins is to work online or in real life for bitcoins. Because of the huge size of the bitcoin eco-system, a number of such opportunities and jobs are available. With Billions of dollars invested in Bitcoin by tens of thousands of people, there is a real market in Bitcoin that has jobs for freelancers, software developers, writers, and other who get paid in bitcoins for their services. 
+Perhaps the easiest way to earn bitcoins is to work online or in real life for bitcoins. Because of the huge size of the bitcoin eco-system, a number of such opportunities and jobs are available. With Billions of dollars invested in Bitcoin by tens of thousands of people, there is a real market in Bitcoin, where you can find jobs for freelancers, software developers, writers, and others who get paid in bitcoins for their services. 
 
-Software development, writing, design, making websites or apps, audio transcription, are some of the most active types of jobs. You can easily discover the types of jobs by going over the more popular job boards for bitcoin related work. You can look for jobs on the following job boards or forums:
+Software development, writing, design, making websites or apps, audio transcription, are some of the most active types of jobs. You can easily discover the types of jobs by going over the more popular job boards for bitcoin related work. The following job boards or forums are some of the best places to look for such jobs or gigs:
 
 * reddit.com/r/jobs4bitcoins
 
@@ -40,19 +40,23 @@ Software development, writing, design, making websites or apps, audio transcript
 * cryptogrid.com
 
 
-
 <h3 id="sll">Sell for bitcoin</h3>
 
-You can also get Bitcoin by selling your old laptops, phones or other items for Bitcoins. Such types of transactions are happening more and more, and a lot of buyers are already buying anything from iPhones to even cars by paying with Bitcoins. For Americans, Craigslist.com is the best best when you want to contact such buyers. You can mention in your ad that you are willing to take payment in Bitcoin. This way if anyone wants to buy the item for you for Bitcoin, they can contact you and make an offer. 
+You can also get Bitcoin by selling your old laptops, phones or other items for Bitcoins. Such types of transactions are happening more and more, and a lot of buyers are already buying anything from iPhones to even cars by paying with Bitcoins. For Americans, Craigslist.com is your best bet when you want to find such buyers. You can mention in your ad that you are willing to take payment in Bitcoin. This way if anyone wants to buy the item for you for Bitcoin, they can contact you and make an offer. The same principle applies to other online marketplaces such as gumtree for UK, kijiji for canda etc. 
 
 
 <h3 id='aff'> Affiliate Programs</h3>
 
 Affiliate programs allow a promoter of a business or product to earn money or bitcoins by refering new clients to the said businesse or product. For example, amazon.com has a popular affiliate program, where you can earn commission ranging from 2% to 20% for refering clients to products listed on amazon.com. Amazon normally pays in dollars, but there are a number of other sites and businesses which pay you in bitcoin for acting as their affiliate. 
 
+Some of the more popular affiliate programs that pay out in Bitcoin are by the sites: cex.io, coinbase.com, okcoin.com and namecheap.com, among others. You can find a larger list of such affiliate programs on the <a href="https://en.bitcoin.it/wiki/Bitcoin_Affiliate_Programs">bitcoin wiki page for Affiliates</a>
+
 <h3 id='gmg'> Gambling </h3>
+We do not recommend gambling for every player or every user; we find that gambling is only suitable for people who know how to win at it. However, if you are one of such lucky users who have some tricks up their sleeves, and can manage to win at games such as poker, then you will find that earning bitcoins is not that hard. 
 
+One of the many applications of bitcoin since the very beginning have been in betting games or gambling. Because of the  relative anonymity of bitcoin, and the lower fees, it is very suitable for gambling related applications. Indeed, one such game, satoshiDICE, has been running since 2012, and has paid out a huge number of bitcoins in innumerable transactions to its winners. There are many such games, which you can find be googling. 
 
+If you want to gamble totally anonymously, you can also find a number of gambling games that are available only on darknet or onion sites. Such sites make your identity totally anonymous by operting on the tor network, which is a secure protocol that allows users to browse onion websites without exposing their own IP addresses. 
 
 <h3 id="min">Bitcoin Mining</h3>
 
