@@ -88,10 +88,11 @@ There are a number of service providers that allow you to rent computational har
 
 Some of the cloud mining services which can be used to do bitcoin mining on the cloud are:
 
-{% for service in site.data.cloud %} 
+{% for service in site.data.cloud %}
 {% if service.desc_btc != null %}
-{% if service.url != null %}{{ service.company }}: {% else %}{{ service.company }}: 
-{% endif %}{{ service.desc_btc }}
-{% endif %} 
+<p class="cloud-mining-info">
+<b>{% if service.url != null %}<a rel="nofollow" href="{{ service.url }}">{{ service.company }}</a>: {% else %}{{ service.company }}: {% endif %}</b>{{ service.desc_btc }}
+</p>
+{% endif %}
 {% endfor %}
 
