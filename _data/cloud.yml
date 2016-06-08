@@ -16,8 +16,8 @@
  - company: Minergate
    url: https://minergate.com/a/59307dbcea288017
    desc_general: MinerGate is a mining pool created by a group of cryptocoin enthusiasts. It is the first pool which provides service for merged mining. This means that while mining on our pool you can mine different coins simultaniously without decrease of hashrate for major coin.
-   desc_btc: Offers both pool, merged mining and cloud mining services for Bitcoin.
-   desc_ltc: Offers both pool, merged mining and cloud mining services for Litecoin.
+   desc_btc: Offers both pool and merged mining and cloud mining services for Bitcoin.
+   desc_ltc: Offers both pool and merged mining and cloud mining services for Litecoin.
  
  - company: Hashnest
    url: https://www.hashnest.com/
@@ -35,7 +35,7 @@
    desc_btc: NiceHash is unique in that it uses an orderbook to match mining contract buyers and sellers. Check its website for up-to-date prices.
    
  - company: Eobot
-   url: https://www.genesis-mining.com/a/177546
+   url: https://hashflare.io/r/539A7635
    desc_general: Claims to be the easiest, cheapest, and best cloud mining solution. Start with as little as $10 using PayPal and choose between any cryptocurrency including Bitcoin, Litecoin, Peercoin, Namecoin, Feathercoin, Dogecoin, NautilusCoin, and Vertcoin.
    desc_btc: Start cloud mining Bitcoin with as little as $10. Eobot claims customers can break even in 14 months.
    desc_ltc: Eobot offers Litecoin cloud mining contracts with 0.0071 LTC monthly payouts. 
