@@ -1,9 +1,9 @@
 ---
-title: Everything you need to know about Bitcoin mining
+title: Todo lo que necesitas saber acerca de la Mineria de Bitcoin
 ---
 
 <center>
   <iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
 
-  <p>A translation is coming soon. Check our GitHub to learn how to contribute!</p>
+  <p>Una traducción ya viene pronto!. Revisa nuestro GitHub para aprender como contribuir.</p>
 </center>
