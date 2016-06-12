@@ -6,7 +6,7 @@ authorurl: /
 published: true
 ---
 
-The Bitcoin block reward, currently at 25 bitcoins per block, will be reduced to half that number in early July 2016. This is a very significant event for every bitcoiner, and more so for every miner, because it impacts the price of bitcoin in many ways. 
+The Bitcoin block reward, currently at 25 bitcoins per block, will be reduced to half that number in early July 2016. This is a very significant event for every bitcoiner, and more so for every miner, because it impacts the price of bitcoin in many ways. More about <a href="/what-is-bitcoin-mining-difficulty/"> bitcoin mining can be read here</a>
 
 A number of leading miners have already expressed concerns about the next halving. According to them, the next halving could directly lead to serious long term negative consequences for Bitcoin. One such miner is Chandler Guo, who runs one of the largest bitcoin mining operations in the world as founder and head of Bitbank. BW.com, the mining company run by Guo, owns about 10% of bitcoin mining hashrate, which is a huge share for just one company and individual. According to Guo, the next halving is going to make a lot of hardware too costly to operate. 
 
@@ -26,7 +26,7 @@ Says Bobby: "After mining, the hashrate will definitely come down a bit; it will
 
 According to him, people and hardware will adjust to the changes circumstances of halved block reward. He explains it by comparing it with Donald Trump, and how his acceptability has only increased with time, "For people who don't like Donald Trump, its a huge crisis. However, after a few weeks, they calm down. Similarly, people will adjust to the bitcoin reward halving too."
 
-Eric Lombrozo, founder of Ciphrex and member of Bitcoin Core development team, echoed the views of Bobby Lee, when he said:
+Eric Lombrozo, <a href="https://www.weusecoins.com/eric-lombrozo/"> founder of Ciphrex </a> and member of Bitcoin Core development team, echoed the views of Bobby Lee, when he said:
 
 "We’ve already had a halving in the past. It does imply lower short-term miner revenue. However, we did not see a significant drop in hashrate when the last halving occured in 2012."
 

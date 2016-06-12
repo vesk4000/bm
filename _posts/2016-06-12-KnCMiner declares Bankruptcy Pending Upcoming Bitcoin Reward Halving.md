@@ -11,7 +11,7 @@ Swedish mining company KnCMiner has declared bankruptcy ahead of the upcoming ha
 
 KnCMiner was started in 2013, and had successfully raised $32 million from venture capitalists, including from firms Creandum and Accel. The company was in news recently for a lawsuit about Titan, a hardware product that helps mine cryptocurrencies. Even though KnCMiner won the lawsuit, it still is finding it hard to remain profitable. 
 
-According to CEO Sam Cole, the upcoming halving of bitcoin block reward is the primary factor in the decision. The block reward is given to any company or individual that successfully 'mines' or creates a block that gets added to the bitcoin blockchain. As of June 2016, the reward is 25 bitcoins for every new block. However, from next month, this reward will be halved to 12.5 for each new block created. This directly impacts the profits of the mining companies like KnCMiner, for which the block reward is the primary motivation, or the only motivation, to mine. 
+According to CEO Sam Cole, the upcoming halving of <a href="/what-is-the-bitcoin-block-reward/"> bitcoin block reward </a> is the primary factor in the decision. The block reward is given to any company or individual that successfully 'mines' or creates a block that gets added to the bitcoin blockchain. As of June 2016, the reward is 25 bitcoins for every new block. However, from next month, this reward will be halved to 12.5 for each new block created. This directly impacts the profits of the mining companies like KnCMiner, for which the block reward is the primary motivation, or the only motivation, to mine. 
 
 Says CEO Sam Cole:
 
