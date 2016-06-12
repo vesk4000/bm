@@ -1,5 +1,11 @@
+---
+layout: post
+title: KnCMiner Declares Bankruptcy Pending Upcoming Bitcoin Reward Halving
+author: Bitcoin Mining
+authorurl: /
+published: true
+---
 
-TITLE: KnCMiner declares bankruptcy pending upcoming bitcoin reward halving  
 
 Swedish mining company KnCMiner has declared bankruptcy ahead of the upcoming halving of bitcoin block reward. The CEO has clarified that the upcoming halving of bitcoin block reward is part of the reason their company is finding it hard to show a profit, and therefore has had to declare bankruptcy. 
 
