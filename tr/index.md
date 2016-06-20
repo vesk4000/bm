@@ -5,7 +5,7 @@ toc:
   mdk: Madencilik Donanımı Karşılaştırması
   bmn: Bitcoin Madenciliği Nedir?
   blok-zinciri-nedir: Blok zinciri Nedir?
-  yikn: Yapılan işin kanıdı nedir?
+  ikn: İşin Kanıdı nedir?
   mz: Bitcoin Madencilik Zorluğu nedir?
   hzp: Hesaplamadaki Zorluk Problemi
   zorluk: Zorluğa göre Bitcoin Ağı
@@ -79,22 +79,22 @@ toc:
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/YIVAluSL9SU" frameborder="0" allowfullscreen></iframe></center>
 <p><a href="http://bitcoinminer.com/">Bitcoin madenciliği</a> kasten kaynaklara-aç ve zor tasarlanmıştır, böylece her gün madencilerin bulduğu blok sayısı sabit kalır. Her blok geçerli olduğunu kanıtlamak için<a href="/what-is-proof-of-work/">İşin Kanıdı'nı</a> taşımak zorundadır. Diğer Bitcoin düğümleri, bir blok onlara ulaştığı zaman İşin Kanıdı'nı doğrularlar. Bitcoin <a href="/what-is-hashcash/">hashcash</a> adında bir İşin Kanıdı fonksiyonu kullanır.
 <p>Madenciliğin en önemli amacı Bitcoin düğümlerine güvenli ve hatasız bir uzlaşma sağlamaktır. Madencilik ayrıca sisteme yeni Bitcoinler ekleyen bir mekanizmadır: Madenciler işlem ücretleri ve yeni yaratılmış Bitcoinlerle ödüllendirilir.
-<p>This both serves the purpose of disseminating new coins in a decentralized manner as well as motivating people to provide security for the system.
-<p>Bitcoin mining is so called because it resembles the mining of other commodities: it requires exertion and it slowly makes new currency available at a rate that resembles the rate at which commodities like gold are mined from the ground.
-<h2 id="wipow">What is Proof of Work?</h2>
+<p>Bu hem yeni paraları merkezi olmayan şekilde dağıtır, hem de insanları ağın güvenliğini sağlamak için motive eder.
+<p>Bitcoin madenciliğinin adı böyledir, çünkü diğer hammadelerin madenciliğine benzer: Emek ister ve altın gibi maddelerin yerden çıkarıldığı gibi yavaş çıkar.
+<h2 id="ikn">İşin Kanıdı nedir?</h2>
 <center><img src="/images/what-is-proof-of-work.png" width="700" height="auto">
-<a href="/images/what-is-proof-of-work-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center></center>
-<p>A <a href="/what-is-proof-of-work/">proof of work</a> is a piece of data which was difficult (costly, time-consuming) to produce so as to satisfy certain requirements. It must be trivial to check whether data satisfies said requirements.
-<p>Producing a proof of work can be a random process with low probability, so that a lot of trial and error is required on average before a valid proof of work is generated. Bitcoin uses the Hashcash proof of work.
-<h2 id="md">What is Bitcoin Mining Difficulty?</h2>
+<a href="/images/what-is-proof-of-work-high-resolution.png" target="_blank">Yüksek çözünürlüklü infografiği görselleştirin ve indirin</a></center></center>
+<p><a href="/what-is-proof-of-work/">İşin Kanıdı</a> yaratılması zor olan (pahalı, zaman harcayan) belirli gereksinimleri karşılayan bir parça veridir. Verinin gereksinimleri karşılayıp karşılamadığını kontrol etmek önemlidir.
+<p>İşin Kanıdı'nın yaratılması düşük ihtimalli rastgele bir işlemdir, bu yüzden geçerli bir İşin Kanıdı'nı yaratmak genellikle çok deneme-yanılma isteyen bir iştir. Bitcoin Hashcash isimli İşin Kanıdı yöntemini kullanır.
+<h2 id="mz">Bitcoin Madencilik Zorluğu nedir?</h2>
 <center><img src="/images/what-is-bitcoin-mining-difficulty.png" width="700" height="auto">
-<a href="/images/what-is-bitcoin-mining-difficulty-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center>
-<h3 id="tcdp">The Computationally-Difficult Problem</h3>
-<p>Bitcoin mining a block is difficult because the SHA-256 hash of a block's header must be lower than or equal to the target in order for the block to be accepted by the network.
-<p>This problem can be simplified for explanation purposes: The hash of a block must start with a certain number of zeros. The probability of calculating a hash that starts with many zeros is very low, therefore many attempts must be made. In order to generate a new hash each round, a nonce is incremented. See Proof of work for more information.
-<h3 id="difficulty">The Bitcoin Network Difficulty Metric</h3>
-<p>The <a href="/what-is-bitcoin-mining-difficulty/">Bitcoin mining network difficulty</a> is the measure of how difficult it is to find a new block compared to the easiest it can ever be. It is recalculated every 2016 blocks to a value such that the previous 2016 blocks would have been generated in exactly two weeks had everyone been mining at this difficulty. This will yield, on average, one block every ten minutes.
-<p>As more miners join, the rate of block creation will go up. As the rate of block generation goes up, the difficulty rises to compensate which will push the rate of block creation back down. Any blocks released by malicious miners that do not meet the required difficulty target will simply be rejected by everyone on the network and thus will be worthless.
-<h3 id="bw">The Block Reward</h3>
-<p>When a block is discovered, the discoverer may award themselves a certain number of bitcoins, which is agreed-upon by everyone in the network. Currently this bounty is 25 bitcoins; this value will halve every 210,000 blocks. See Controlled Currency Supply.
-<p>Additionally, the miner is awarded the fees paid by users sending transactions. The fee is an incentive for the miner to include the transaction in their block. In the future, as the number of new bitcoins miners are allowed to create in each block dwindles, the fees will make up a much more important percentage of mining income.
+<a href="/images/what-is-bitcoin-mining-difficulty-high-resolution.png" target="_blank">Yüksek çözünürlüklü infografiği görselleştirin ve indirin</a></center>
+<h3 id="hzp">Hesaplamadaki Zorluk Problemi</h3>
+<p>Bir bloğa madencilik yapmak zordur çünkü o bloğun başlığının SHA-256 hash'i, bloğun ağda kabul edilebilmesi için hedefe eşit veya daha az olmak zorundadır.
+<p>Bu problemi daha kolay anlatmak için basitleştirelim: Bir bloğun hash'i belirli sayıda sıfırlarla başlamak zorundadır. Çok sıfırla başlayan bir hash'in hesaplanma olasılığı azdır, ve bir sürü deneme yapılmalıdır. Her yeni turda yeni bir hash oluşturulması için, bir kerelik anahtar arttırılır. Daha fazla bilgi için İşin Kanıdı'na bakılınız.
+<h3 id="zorluk">Zorluğa göre Bitcoin Ağı</h3>
+<p><a href="/what-is-bitcoin-mining-difficulty/">Bitcoin madenciliği ağ zorluğu</a> yeni blok bulma zorluğunun birimidir, bu birim olabilecek en kolay bulma zorluğunu karşılaştırılarak bulunur. Her 2016 blokta bir yeniden hesaplanır ve 2016 blok 2 haftaya denk gelir. Ayrıca her 2016 blok boyunca herkes aynı zorlukta kazar. Bu demektir ki her blok yaratılması yaklaşık 10 dakika sürer.
+<p>Daha fazla madenci katıldığında blok yaratılma oranı artar. Blok yaratılma oranı arttığında; zorluk, blok yaratılma oranını dengelemek için artar ve blok yaratılma oranı tekrar düşer. Sahtekâr madencilerin gerekli zorluğu çözemeyen sahte blokları ağdaki herkes tarafından reddedilir ve hiçbir değeri kalmaz.
+<h3 id="bo">Blok Ödülü/h3>
+<p>Yeni bir blok keşfedildiğinde, keşfeden kişi kendini belli sayıda Bitcoinlerle ödüllendirebilir, ağdaki herkes de bunu kabul eder. Şimdilik bu ödül 25 Bitcoin'dir; bu değer her 210,000 blokta bir yarıya düşecektir. Daha fazla bilgi: kontrol edilen para birimi tedariği.
+<p>Ayrıca madenci, kullanıcıların ödeme yaparken kullandığı işlem ücretini de kazanır. İşlem ücreti madenci ödemeyi bloğa eklemesi için bir teşvik edicidir. Gelecekte, her blokta izin verilen Bitcoin madencilerinin sayısı azaldıkça, işlem ücretleri madencilik gelirinin önemli bir yüzdesini oluşturacaktır.
