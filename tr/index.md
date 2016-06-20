@@ -75,10 +75,10 @@ toc:
 
 <p>Bitcoin madenciliği, ödemeleri herkese açık bir deftere (<b>blok zincirine</b>) kaydetme işlemidir. Geçmiş ödemelerin kaydedildiği yere blok zinciri denir çünkü blokların bulunduğu zincirdir. Bu blok zinciri, ağa bağlı diğer bilgisayarlara doğrulamaları için ödemeleri dağıtır.
 <p>Bitcoin düğümleri <b>blok zincirini</b> doğru ödemelerden, çoktan başka bir yere ödenmiş tekrar-ödemeleri ayırmak için kullanır.
-<h3 id="what-is-blockchain">What is the Blockchain?</h3>
+<h3 id="blok-zinciri-nedir">Blok inciri nedir?</h3>
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/YIVAluSL9SU" frameborder="0" allowfullscreen></iframe></center>
-<p><a href="http://bitcoinminer.com/">Bitcoin mining</a> is intentionally designed to be resource-intensive and difficult so that the number of blocks found each day by miners remains steady. Individual blocks must contain a <a href="/what-is-proof-of-work/">proof of work</a> to be considered valid. This proof of work is verified by other Bitcoin nodes each time they receive a block. Bitcoin uses the <a href="/what-is-hashcash/">hashcash</a> proof-of-work function.
-<p>The primary purpose of mining is to allow Bitcoin nodes to reach a secure, tamper-resistant consensus. Mining is also the mechanism used to introduce Bitcoins into the system: Miners are paid any transaction fees as well as a "subsidy" of newly created coins.
+<p><a href="http://bitcoinminer.com/">Bitcoin madenciliği</a> kasten kaynaklara-aç ve zor tasarlanmıştır, böylece her gün madencilerin bulduğu blok sayısı sabit kalır. Her blok geçerli olduğunu kanıtlamak için<a href="/what-is-proof-of-work/">İşin Kanıdı'nı</a> taşımak zorundadır. Diğer Bitcoin düğümleri, bir blok onlara ulaştığı zaman İşin Kanıdı'nı doğrularlar. Bitcoin <a href="/what-is-hashcash/">hashcash</a> adında bir İşin Kanıdı fonksiyonu kullanır.
+<p>Madenciliğin en önemli amacı Bitcoin düğümlerine güvenli ve hatasız bir uzlaşma sağlamaktır. Madencilik ayrıca sisteme yeni Bitcoinler ekleyen bir mekanizmadır: Madenciler işlem ücretleri ve yeni yaratılmış Bitcoinlerle ödüllendirilir.
 <p>This both serves the purpose of disseminating new coins in a decentralized manner as well as motivating people to provide security for the system.
 <p>Bitcoin mining is so called because it resembles the mining of other commodities: it requires exertion and it slowly makes new currency available at a rate that resembles the rate at which commodities like gold are mined from the ground.
 <h2 id="wipow">What is Proof of Work?</h2>
