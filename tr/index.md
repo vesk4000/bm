@@ -95,6 +95,6 @@ toc:
 <h3 id="zorluk">Zorluğa göre Bitcoin Ağı</h3>
 <p><a href="/what-is-bitcoin-mining-difficulty/">Bitcoin madenciliği ağ zorluğu</a> yeni blok bulma zorluğunun birimidir, bu birim olabilecek en kolay bulma zorluğunu karşılaştırılarak bulunur. Her 2016 blokta bir yeniden hesaplanır ve 2016 blok 2 haftaya denk gelir. Ayrıca her 2016 blok boyunca herkes aynı zorlukta kazar. Bu demektir ki her blok yaratılması yaklaşık 10 dakika sürer.
 <p>Daha fazla madenci katıldığında blok yaratılma oranı artar. Blok yaratılma oranı arttığında; zorluk, blok yaratılma oranını dengelemek için artar ve blok yaratılma oranı tekrar düşer. Sahtekâr madencilerin gerekli zorluğu çözemeyen sahte blokları ağdaki herkes tarafından reddedilir ve hiçbir değeri kalmaz.
-<h3 id="bo">Blok Ödülü/h3>
+<h3 id="bo">Blok Ödülü</h3>
 <p>Yeni bir blok keşfedildiğinde, keşfeden kişi kendini belli sayıda Bitcoinlerle ödüllendirebilir, ağdaki herkes de bunu kabul eder. Şimdilik bu ödül 25 Bitcoin'dir; bu değer her 210,000 blokta bir yarıya düşecektir. Daha fazla bilgi: kontrol edilen para birimi tedariği.
 <p>Ayrıca madenci, kullanıcıların ödeme yaparken kullandığı işlem ücretini de kazanır. İşlem ücreti madenci ödemeyi bloğa eklemesi için bir teşvik edicidir. Gelecekte, her blokta izin verilen Bitcoin madencilerinin sayısı azaldıkça, işlem ücretleri madencilik gelirinin önemli bir yüzdesini oluşturacaktır.
