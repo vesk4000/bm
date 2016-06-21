@@ -1,20 +1,17 @@
 ---
 layout: default
-title: Everything you need to know about Bitcoin mining
+title: Bitcoin madenciliği hakkında bilmeniz gereken her şey
 toc:
-  hwc: Mining Hardware Comparison
-  wibm: What is Bitcoin Mining?
-  what-is-blockchain: What is the Blockchain?
-  wipow: What is Proof of Work?
-  md: What is Bitcoin Mining Difficulty?
-  tcdp: The Computationally-Difficult Problem
-  difficulty: The Bitcoin Network Difficulty Metric
-  bw: The Block Reward
+  mdk: Madencilik Donanımı Karşılaştırması
+  bmn: Bitcoin Madenciliği Nedir?
+  blok-zinciri-nedir: Blok zinciri Nedir?
+  ikn: İşin Kanıdı nedir?
+  mz: Bitcoin Madencilik Zorluğu nedir?
+  hzp: Hesaplamadaki Zorluk Problemi
+  zorluk: Zorluğa göre Bitcoin Ağı
+  bo: Blok Ödülü
 ---
 
-<center>
-  <p>A Turkish translation is coming soon. Check our GitHub to learn how to contribute!</p>
-</center>
 
 <center><iframe width="720" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe></center>
 
@@ -36,30 +33,30 @@ toc:
 	</a>
 </div>
 
-<img class="icon-home" alt="bitcoin mining" src="/images/icons/icon-big-bitcoinfrom.png">
-<h2>How Bitcoin Mining Works</h2>
-<p>Where do bitcoins come from? With paper money, a government decides when to print and distribute money. Bitcoin doesn't have a central government.</p>
+<img class="icon-home" alt="bitcoin madenciliği" src="/images/icons/icon-big-bitcoinfrom.png">
+<h2>Bitcoin Madenciliği Nasıl Çalışır</h2>
+<p>Bitcoinler nereden geliyor? Kağıt paranın ne zaman basılacağına ve dağıtılacağına devlet karar verir. Ancak Bitcoin'in merkezi bir hükümeti yoktur.</p>
 
-<p>With Bitcoin, miners use <a href="/bitcoin-mining-software/">special software</a> to solve math problems and are issued a certain number of bitcoins in exchange. This provides a smart way to issue the currency and also creates an incentive for more people to mine.</p>
+<p>Bitcoin'de, madenciler matematik problemlerini çözmek için <a href="/bitcoin-mining-software/">özel yazılımlar</a> kullanır ve sonucunda bir miktar yeni Bitcoin yaratılır. Aslında bu yeni paranın üretilmesi için çok zekice bir yöntemdirVe insanları madenci olmaya teşvik eder.</p>
 
-<img class="icon-home" alt="bitcoin is secure" src="/images/icons/icon-big-secure.png">
-<h2>Bitcoin is Secure</h2>
+<img class="icon-home" alt="bitcoin güvenlidir" src="/images/icons/icon-big-secure.png">
+<h2>Bitcoin Güvenlidir</h2>
 
-<p>Bitcoin miners help keep the Bitcoin network secure by approving transactions. Mining is an important and integral part of Bitcoin that ensures fairness while keeping the Bitcoin network stable, safe and secure.</p>
+<p>Bitcoin madencileri ödemeleri doğrulayarak Bitcoin ağının güvenli kalmasını sağlar. Madencilik Bitcoin'in önemli bir parçasıdır ve Bitcoin ağını güvenli, adil ve sorunsuz tutar.</p>
 
-<img class="icon-home" alt="bitcoin is secure" src="/images/icons/icon-big-links.png">
-<h2>Links</h2>
+<img class="icon-home" alt="bitcoin güvenlidir" src="/images/icons/icon-big-links.png">
+<h2>Linkler</h2>
 <ul>
-	<li><a href="https://www.weusecoins.com/" target="_blank">We Use Coins</a> - Learn all about crypto-currency.<br></li>
-	<li><a href="https://www.reddit.com/r/Bitcoin/" target="_blank">Bitcoin News</a> - Where the Bitcoin community gets news.<br></li>
-	<li><a href="http://www.bitcoin.kn">Bitcoin Knowledge Podcast</a> - Interviews with the top people in the Bitcoin world</li>
+	<li><a href="https://www.weusecoins.com/" target="_blank">We Use Coins</a> - Kripto-para birimleri hakkında her şeyi öğrenin.<br></li>
+	<li><a href="https://www.reddit.com/r/Bitcoin/" target="_blank">Bitcoin Haberleri</a> - Bitcoin topluluğunun haberleri öğrendiği yer.<br></li>
+	<li><a href="http://www.bitcoin.kn">Bitcoin Bilgiler Ses Kayıtları</a> - Bitcoin dünyasındaki en ünlü insanlarla röportajlar.</li>
 </ul>
 
-<hr id="hwc" style="width: 100%; margin: 20px 0; color: #eee;" />
+<hr id="mdk" style="width: 100%; margin: 20px 0; color: #eee;" />
 
-<h2>Bitcoin Mining Hardware Comparison</h2>
+<h2>Madenci Donanmıları Karşılaştırması</h2>
 
-<p>Currently, based on <b>(1)</b> price per hash and <b>(2)</b> electrical efficiency the best Bitcoin miner options are:</p>
+<p>Şimdilik, hash başına fiyat <b>(1)</b> ve elektriksel verimliliğe <b>(2)</b> göre en iyi Bitcoin madenci seçenekleri şunlardır:</p>
 
 <div class="hardware-comparison">
 {% for miner in site.data.hardware %}
@@ -70,34 +67,34 @@ toc:
 </div>
 
 <hr style="width: 100%; margin: 20px 0; color: #eee;" />
-<h2 id="wibm">What is Bitcoin Mining?</h2>
+<h2 id="bmn">Bitcoin Madenciliği Nedir?</h2>
 <center><img src="/images/what-is-bitcoin-mining.png" width="700" height="auto">
-<a href="/images/what-is-bitcoin-mining-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center>
+<a href="/images/what-is-bitcoin-mining-high-resolution.png" target="_blank">Yüksek çözünürlüklü infografiği görselleştirin ve indirin</a></center>
 
 {% include page-toc.html %}
 
-<p>Bitcoin mining is the process of adding transaction records to Bitcoin's public ledger of past transactions or <b>blockchain</b>. This ledger of past transactions is called the block chain as it is a chain of blocks. The block chain serves to confirm transactions to the rest of the network as having taken place.
-<p>Bitcoin nodes use the <b>block chain</b> to distinguish legitimate Bitcoin transactions from attempts to re-spend coins that have already been spent elsewhere.
-<h3 id="what-is-blockchain">What is the Blockchain?</h3>
+<p>Bitcoin madenciliği, ödemeleri herkese açık bir deftere (<b>blok zincirine</b>) kaydetme işlemidir. Geçmiş ödemelerin kaydedildiği yere blok zinciri denir çünkü blokların bulunduğu zincirdir. Bu blok zinciri, ağa bağlı diğer bilgisayarlara doğrulamaları için ödemeleri dağıtır.
+<p>Bitcoin düğümleri <b>blok zincirini</b> doğru ödemelerden, çoktan başka bir yere ödenmiş tekrar-ödemeleri ayırmak için kullanır.
+<h3 id="blok-zinciri-nedir">Blok inciri nedir?</h3>
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/YIVAluSL9SU" frameborder="0" allowfullscreen></iframe></center>
-<p><a href="http://bitcoinminer.com/">Bitcoin mining</a> is intentionally designed to be resource-intensive and difficult so that the number of blocks found each day by miners remains steady. Individual blocks must contain a <a href="/what-is-proof-of-work/">proof of work</a> to be considered valid. This proof of work is verified by other Bitcoin nodes each time they receive a block. Bitcoin uses the <a href="/what-is-hashcash/">hashcash</a> proof-of-work function.
-<p>The primary purpose of mining is to allow Bitcoin nodes to reach a secure, tamper-resistant consensus. Mining is also the mechanism used to introduce Bitcoins into the system: Miners are paid any transaction fees as well as a "subsidy" of newly created coins.
-<p>This both serves the purpose of disseminating new coins in a decentralized manner as well as motivating people to provide security for the system.
-<p>Bitcoin mining is so called because it resembles the mining of other commodities: it requires exertion and it slowly makes new currency available at a rate that resembles the rate at which commodities like gold are mined from the ground.
-<h2 id="wipow">What is Proof of Work?</h2>
+<p><a href="http://bitcoinminer.com/">Bitcoin madenciliği</a> kasten kaynaklara-aç ve zor tasarlanmıştır, böylece her gün madencilerin bulduğu blok sayısı sabit kalır. Her blok geçerli olduğunu kanıtlamak için<a href="/what-is-proof-of-work/">İşin Kanıdı'nı</a> taşımak zorundadır. Diğer Bitcoin düğümleri, bir blok onlara ulaştığı zaman İşin Kanıdı'nı doğrularlar. Bitcoin <a href="/what-is-hashcash/">hashcash</a> adında bir İşin Kanıdı fonksiyonu kullanır.
+<p>Madenciliğin en önemli amacı Bitcoin düğümlerine güvenli ve hatasız bir uzlaşma sağlamaktır. Madencilik ayrıca sisteme yeni Bitcoinler ekleyen bir mekanizmadır: Madenciler işlem ücretleri ve yeni yaratılmış Bitcoinlerle ödüllendirilir.
+<p>Bu hem yeni paraları merkezi olmayan şekilde dağıtır, hem de insanları ağın güvenliğini sağlamak için motive eder.
+<p>Bitcoin madenciliğinin adı böyledir, çünkü diğer hammadelerin madenciliğine benzer: Emek ister ve altın gibi maddelerin yerden çıkarıldığı gibi yavaş çıkar.
+<h2 id="ikn">İşin Kanıdı nedir?</h2>
 <center><img src="/images/what-is-proof-of-work.png" width="700" height="auto">
-<a href="/images/what-is-proof-of-work-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center></center>
-<p>A <a href="/what-is-proof-of-work/">proof of work</a> is a piece of data which was difficult (costly, time-consuming) to produce so as to satisfy certain requirements. It must be trivial to check whether data satisfies said requirements.
-<p>Producing a proof of work can be a random process with low probability, so that a lot of trial and error is required on average before a valid proof of work is generated. Bitcoin uses the Hashcash proof of work.
-<h2 id="md">What is Bitcoin Mining Difficulty?</h2>
+<a href="/images/what-is-proof-of-work-high-resolution.png" target="_blank">Yüksek çözünürlüklü infografiği görselleştirin ve indirin</a></center></center>
+<p><a href="/what-is-proof-of-work/">İşin Kanıdı</a> yaratılması zor olan (pahalı, zaman harcayan) belirli gereksinimleri karşılayan bir parça veridir. Verinin gereksinimleri karşılayıp karşılamadığını kontrol etmek önemlidir.
+<p>İşin Kanıdı'nın yaratılması düşük ihtimalli rastgele bir işlemdir, bu yüzden geçerli bir İşin Kanıdı'nı yaratmak genellikle çok deneme-yanılma isteyen bir iştir. Bitcoin Hashcash isimli İşin Kanıdı yöntemini kullanır.
+<h2 id="mz">Bitcoin Madencilik Zorluğu nedir?</h2>
 <center><img src="/images/what-is-bitcoin-mining-difficulty.png" width="700" height="auto">
-<a href="/images/what-is-bitcoin-mining-difficulty-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center>
-<h3 id="tcdp">The Computationally-Difficult Problem</h3>
-<p>Bitcoin mining a block is difficult because the SHA-256 hash of a block's header must be lower than or equal to the target in order for the block to be accepted by the network.
-<p>This problem can be simplified for explanation purposes: The hash of a block must start with a certain number of zeros. The probability of calculating a hash that starts with many zeros is very low, therefore many attempts must be made. In order to generate a new hash each round, a nonce is incremented. See Proof of work for more information.
-<h3 id="difficulty">The Bitcoin Network Difficulty Metric</h3>
-<p>The <a href="/what-is-bitcoin-mining-difficulty/">Bitcoin mining network difficulty</a> is the measure of how difficult it is to find a new block compared to the easiest it can ever be. It is recalculated every 2016 blocks to a value such that the previous 2016 blocks would have been generated in exactly two weeks had everyone been mining at this difficulty. This will yield, on average, one block every ten minutes.
-<p>As more miners join, the rate of block creation will go up. As the rate of block generation goes up, the difficulty rises to compensate which will push the rate of block creation back down. Any blocks released by malicious miners that do not meet the required difficulty target will simply be rejected by everyone on the network and thus will be worthless.
-<h3 id="bw">The Block Reward</h3>
-<p>When a block is discovered, the discoverer may award themselves a certain number of bitcoins, which is agreed-upon by everyone in the network. Currently this bounty is 25 bitcoins; this value will halve every 210,000 blocks. See Controlled Currency Supply.
-<p>Additionally, the miner is awarded the fees paid by users sending transactions. The fee is an incentive for the miner to include the transaction in their block. In the future, as the number of new bitcoins miners are allowed to create in each block dwindles, the fees will make up a much more important percentage of mining income.
+<a href="/images/what-is-bitcoin-mining-difficulty-high-resolution.png" target="_blank">Yüksek çözünürlüklü infografiği görselleştirin ve indirin</a></center>
+<h3 id="hzp">Hesaplamadaki Zorluk Problemi</h3>
+<p>Bir bloğa madencilik yapmak zordur çünkü o bloğun başlığının SHA-256 hash'i, bloğun ağda kabul edilebilmesi için hedefe eşit veya daha az olmak zorundadır.
+<p>Bu problemi daha kolay anlatmak için basitleştirelim: Bir bloğun hash'i belirli sayıda sıfırlarla başlamak zorundadır. Çok sıfırla başlayan bir hash'in hesaplanma olasılığı azdır, ve bir sürü deneme yapılmalıdır. Her yeni turda yeni bir hash oluşturulması için, bir kerelik anahtar arttırılır. Daha fazla bilgi için İşin Kanıdı'na bakılınız.
+<h3 id="zorluk">Zorluğa göre Bitcoin Ağı</h3>
+<p><a href="/what-is-bitcoin-mining-difficulty/">Bitcoin madenciliği ağ zorluğu</a> yeni blok bulma zorluğunun birimidir, bu birim olabilecek en kolay bulma zorluğunu karşılaştırılarak bulunur. Her 2016 blokta bir yeniden hesaplanır ve 2016 blok 2 haftaya denk gelir. Ayrıca her 2016 blok boyunca herkes aynı zorlukta kazar. Bu demektir ki her blok yaratılması yaklaşık 10 dakika sürer.
+<p>Daha fazla madenci katıldığında blok yaratılma oranı artar. Blok yaratılma oranı arttığında; zorluk, blok yaratılma oranını dengelemek için artar ve blok yaratılma oranı tekrar düşer. Sahtekâr madencilerin gerekli zorluğu çözemeyen sahte blokları ağdaki herkes tarafından reddedilir ve hiçbir değeri kalmaz.
+<h3 id="bo">Blok Ödülü/h3>
+<p>Yeni bir blok keşfedildiğinde, keşfeden kişi kendini belli sayıda Bitcoinlerle ödüllendirebilir, ağdaki herkes de bunu kabul eder. Şimdilik bu ödül 25 Bitcoin'dir; bu değer her 210,000 blokta bir yarıya düşecektir. Daha fazla bilgi: kontrol edilen para birimi tedariği.
+<p>Ayrıca madenci, kullanıcıların ödeme yaparken kullandığı işlem ücretini de kazanır. İşlem ücreti madenci ödemeyi bloğa eklemesi için bir teşvik edicidir. Gelecekte, her blokta izin verilen Bitcoin madencilerinin sayısı azaldıkça, işlem ücretleri madencilik gelirinin önemli bir yüzdesini oluşturacaktır.
