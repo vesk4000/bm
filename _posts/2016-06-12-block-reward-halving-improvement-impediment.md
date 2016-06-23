@@ -22,11 +22,11 @@ Guo's reasoning how bitcoin is looking at dire straits goes like this: if 300 pe
 
 However, there are many other experts and miners who do not think that the upcoming halving of block reward will negatively impact Bitcoin. Bobby Lee is one such miner. As CEO of BTCC, he oversees the third-largest bitcoin mining pool, one that controls about 16% of total hashrate. He believes that there will be some drop in the hashrate after the halving as some hardware is rendered obsolete, but the reduction will not be severe.
 
-Says Bobby: "After mining, the hashrate will definitely come down a bit; it will probably come down by 5-10%. However, it won’t come down by more than 30%. We’ve seen it in other cryptocurrencies that after a block reward halving, the hashrate does come down. That’s expected." 
+Says Bobby Lee: "After mining, the hashrate will definitely come down a bit; it will probably come down by 5-10%. However, it won’t come down by more than 30%. We’ve seen it in other cryptocurrencies that after a block reward halving, the hashrate does come down. That’s expected." 
 
 According to him, people and hardware will adjust to the changes circumstances of halved block reward. He explains it by comparing it with Donald Trump, and how his acceptability has only increased with time, "For people who don't like Donald Trump, its a huge crisis. However, after a few weeks, they calm down. Similarly, people will adjust to the bitcoin reward halving too."
 
-Eric Lombrozo, <a href="https://www.weusecoins.com/eric-lombrozo/"> founder of Ciphrex </a> and member of Bitcoin Core development team, echoed the views of Bobby Lee, when he said:
+<a href="https://www.weusecoins.com/eric-lombrozo/">Eric Lombrozo</a>, Founder of <a href="https://www.weusecoins.com/ciphrex/">Ciphrex</a> and member of the <a href="https://www.weusecoins.com/bitcoin-core/">Bitcoin Core</a> development team said:
 
 "We’ve already had a halving in the past. It does imply lower short-term miner revenue. However, we did not see a significant drop in hashrate when the last halving occured in 2012."
 
