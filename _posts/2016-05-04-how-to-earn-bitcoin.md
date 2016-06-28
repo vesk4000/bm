@@ -37,7 +37,7 @@ Software development, writing, design, making websites or apps, audio transcript
 
 * coinality.com
 
-* cryptogrid.com
+* cryptogrind.com
 
 
 <h3 id="sll">Sell for bitcoin</h3>
@@ -49,7 +49,7 @@ You can also get Bitcoin by selling your old laptops, phones or other items for 
 
 Affiliate programs allow a promoter of a business or product to earn money or bitcoins by refering new clients to such businesses or products. For example, amazon.com has a popular affiliate program, where you can earn commission ranging from 2% to 20% for refering clients to products listed on amazon.com. Amazon normally pays in dollars, but there are a number of other sites and businesses which pay you in bitcoin for acting as their affiliate. 
 
-Some of the more popular affiliate programs that pay out in Bitcoin are by the sites: cex.io, coinbase.com, okcoin.com and namecheap.com, among others. You can find a larger list of such affiliate programs on the <a href="https://en.bitcoin.it/wiki/Bitcoin_Affiliate_Programs">bitcoin wiki page for Affiliates</a>
+Some of the more popular affiliate programs that pay out in Bitcoin are by the sites: cex.io, coinbase.com, okcoin.com and namecheap.com, among others. You can find a larger list of such affiliate programs on the <a href="https://en.bitcoin.it/wiki/Bitcoin_Affiliate_Programs">bitcoin wiki page for Affiliates</a>.
 
 <h3 id='gmg'>Gambling </h3>
 We do not recommend gambling for every player or every user; we find that gambling is only suitable for people who know how to win at it. However, if you are one of such lucky users who have some tricks up their sleeves, and can manage to win at games such as poker, then you will find that earning bitcoins is not that hard. 
