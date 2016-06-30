@@ -1,5 +1,5 @@
  - company: Hashflare
-   url: https://hashflare.io/r/539A7635
+   url: http://profit.hashflare.eu/en/?ref_id=539A7635
    desc_general: An Estonian cloud miner with SHA-256, Scrypt and Scrypt-N options and currently appears to be the <b>best value</b>.
    desc_btc: Hashflare offers SHA-256 mining contracts for $1.60/10 GH/s. More profitable SHA-256 coins can be mined while automatic payouts are still in BTC. Customers must purchase at least 10 GH/s. 
    desc_ltc: Hashflare offers scrypt mining contracts at $6.60 per 1 MH/s with a minimum purchase of 1 MH/s. 
@@ -35,7 +35,7 @@
    desc_btc: NiceHash is unique in that it uses an orderbook to match mining contract buyers and sellers. Check its website for up-to-date prices.
    
  - company: Eobot
-   url: https://hashflare.io/r/539A7635
+   url: http://profit.hashflare.eu/en/?ref_id=539A7635
    desc_general: Claims to be the easiest, cheapest, and best cloud mining solution. Start with as little as $10 using PayPal and choose between any cryptocurrency including Bitcoin, Litecoin, Peercoin, Namecoin, Feathercoin, Dogecoin, NautilusCoin, and Vertcoin.
    desc_btc: Start cloud mining Bitcoin with as little as $10. Eobot claims customers can break even in 14 months.
    desc_ltc: Eobot offers Litecoin cloud mining contracts with 0.0071 LTC monthly payouts. 
