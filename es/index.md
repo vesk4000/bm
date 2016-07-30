@@ -60,8 +60,8 @@ title: Todo lo que necesitas saber para minar Bitcoin
 
 <hr style="width: 100%; margin: 20px 0; color: #eee;" />
 <h2 id="wibm">What is Bitcoin Mining?</h2>
-<center><img src="/images/what-is-bitcoin-mining.png" width="700" height="auto">
-<a href="/images/what-is-bitcoin-mining-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center>
+<center><img src="/images/what-is-bitcoin-mining.jpg" width="700" height="auto">
+<a href="/images/what-is-bitcoin-mining.jpg" target="_blank">Visualize and Download High-Resolution Infographic</a></center>
 
 {% include page-toc.html %}
 
@@ -74,13 +74,9 @@ title: Todo lo que necesitas saber para minar Bitcoin
 <p>This both serves the purpose of disseminating new coins in a decentralized manner as well as motivating people to provide security for the system.
 <p>Bitcoin mining is so called because it resembles the mining of other commodities: it requires exertion and it slowly makes new currency available at a rate that resembles the rate at which commodities like gold are mined from the ground.
 <h2 id="wipow">What is Proof of Work?</h2>
-<center><img src="/images/what-is-proof-of-work.png" width="700" height="auto">
-<a href="/images/what-is-proof-of-work-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center></center>
 <p>A <a href="/what-is-proof-of-work/">proof of work</a> is a piece of data which was difficult (costly, time-consuming) to produce so as to satisfy certain requirements. It must be trivial to check whether data satisfies said requirements.
 <p>Producing a proof of work can be a random process with low probability, so that a lot of trial and error is required on average before a valid proof of work is generated. Bitcoin uses the Hashcash proof of work.
 <h2 id="md">What is Bitcoin Mining Difficulty?</h2>
-<center><img src="/images/what-is-bitcoin-mining-difficulty.png" width="700" height="auto">
-<a href="/images/what-is-bitcoin-mining-difficulty-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center>
 <h3 id="tcdp">The Computationally-Difficult Problem</h3>
 <p>Bitcoin mining a block is difficult because the SHA-256 hash of a block's header must be lower than or equal to the target in order for the block to be accepted by the network.
 <p>This problem can be simplified for explanation purposes: The hash of a block must start with a certain number of zeros. The probability of calculating a hash that starts with many zeros is very low, therefore many attempts must be made. In order to generate a new hash each round, a nonce is incremented. See Proof of work for more information.
