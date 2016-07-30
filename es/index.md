@@ -11,7 +11,7 @@ title: Todo lo que necesitas saber para minar Bitcoin
 	<a href="/getting-started/" class="section">
 		<img src="/images/icons/mining.png"> 
 		<div class="section-title">Quieres aprender a minar?</div> 
-		<div class="section-view">Para Empezar ›</div> 
+		<div class="section-view">Quieres aprender mas?›</div> 
 	</a>
 	<a href="/bitcoin-mining-hardware/" class="section">
 		<img src="/images/icons/mining2.png"> 
