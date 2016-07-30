@@ -1,38 +1,38 @@
 ---
-title: Todo lo que necesitas saber acerca de la Mineria de Bitcoin
+title: Todo lo que necesitas saber para minar Bitcoin
 ---
 
 <center>
 <iframe width="720" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
-<p>Una traducción ya viene pronto!. Revisa nuestro GitHub para aprender como contribuir.</p>
+<p>Una traducción viene pronto! Revisa nuestro GitHub si quieres contribuir.</p>
 </center>
 
 <div class="home-grid">
 	<a href="/getting-started/" class="section">
 		<img src="/images/icons/mining.png"> 
-		<div class="section-title">New to Mining?</div> 
-		<div class="section-view">Get started ›</div> 
+		<div class="section-title">Quieres aprender a minar?</div> 
+		<div class="section-view">Para Empezar ›</div> 
 	</a>
 	<a href="/bitcoin-mining-hardware/" class="section">
 		<img src="/images/icons/mining2.png"> 
-		<div class="section-title">Mining Hardware</div> 
-		<div class="section-view">Learn More ›</div> 
+		<div class="section-title">Equipo para minar</div> 
+		<div class="section-view">Quieres aprender mas? ›</div> 
 	</a>
 	<a href="/best-bitcoin-cloud-mining-contract-reviews/" class="section">
 		<img src="/images/icons/cloud.png"> 
-		<div class="section-title">Cloud Mining</div> 
-		<div class="section-view">Learn More ›</div> 
+		<div class="section-title">Minando en la nube electronica</div> 
+		<div class="section-view">Quieres aprender mas? ›</div> 
 	</a>
 </div>
 
 <img class="icon-home" alt="bitcoin mining" src="/images/icons/icon-big-bitcoinfrom.png">
-<h2>How Bitcoin Mining Works</h2>
-<p>Where do bitcoins come from? With paper money, a government decides when to print and distribute money. Bitcoin doesn't have a central government.</p>
+<h2>Como Minar Bitcoin</h2>
+<p>De donde vienen las bitcoins? Con el papel moneda, un gobierno decice cuando y como distribuir el dinero. Bitcoin no tiene un banco central.</p>
 
-<p>With Bitcoin, miners use <a href="/bitcoin-mining-software/">special software</a> to solve math problems and are issued a certain number of bitcoins in exchange. This provides a smart way to issue the currency and also creates an incentive for more people to mine.</p>
+<p>Con Bitcon, mineros usan <a href="/bitcoin-mining-software/">programas especiales</a> para resolver que, despues de resolver problemas matematicos, estos mineros reciber cierto numero de bitcoins. Esta es una forma inteligente para producir esta divisa y provee un incentivo para que cada vez haya mas genter que se dedique a minar.</p>
 
 <img class="icon-home" alt="bitcoin is secure" src="/images/icons/icon-big-secure.png">
-<h2>Bitcoin is Secure</h2>
+<h2>Bitcoin es una divisa segura</h2>
 
 <p>Bitcoin miners help keep the Bitcoin network secure by approving transactions. Mining is an important and integral part of Bitcoin that ensures fairness while keeping the Bitcoin network stable, safe and secure.</p>
 
