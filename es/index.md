@@ -4,7 +4,7 @@ title: Todo lo que necesitas saber para minar Bitcoin
 
 <center>
 <iframe width="720" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
-<p>Una traducción viene pronto! Revisa nuestro GitHub si quieres contribuir.</p>
+<p>Una traducción esta en proceso! Revisa nuestro GitHub si quieres contribuir.</p>
 </center>
 
 <div class="home-grid">
@@ -27,28 +27,28 @@ title: Todo lo que necesitas saber para minar Bitcoin
 
 <img class="icon-home" alt="bitcoin mining" src="/images/icons/icon-big-bitcoinfrom.png">
 <h2>Como Minar Bitcoin</h2>
-<p>De donde vienen las bitcoins? Con el papel moneda, un gobierno decice cuando y como distribuir el dinero. Bitcoin no tiene un banco central.</p>
+<p>De donde vienen las bitcoins? Con el papel moneda, un gobierno decide cuando y como distribuir el dinero. Bitcoin no tiene un banco central.</p>
 
-<p>Con Bitcon, mineros usan <a href="/bitcoin-mining-software/">programas especiales</a> para resolver que, despues de resolver problemas matematicos, estos mineros reciber cierto numero de bitcoins. Esta es una forma inteligente para producir esta divisa y provee un incentivo para que cada vez haya mas genter que se dedique a minar.</p>
+<p>Con Bitcon, mineros usan <a href="/bitcoin-mining-software/">programas especiales (en Ingles)</a> para que, despues de resolver problemas matematicos, estos mineros reciber cierto numero de bitcoins. Esta es una forma inteligente para producir esta divisa y provee un incentivo para que cada vez haya mas gente que se dedique a minar.</p>
 
 <img class="icon-home" alt="bitcoin is secure" src="/images/icons/icon-big-secure.png">
 <h2>Bitcoin es una divisa segura</h2>
 
-<p>Bitcoin miners help keep the Bitcoin network secure by approving transactions. Mining is an important and integral part of Bitcoin that ensures fairness while keeping the Bitcoin network stable, safe and secure.</p>
+<p>Mineros electronicos ayudan a mantener la red de Bitcoin segura ayudando a aprobar las transacciones de la divida. Minar es una parte importante e integra que garantiza que el proceso sea justo y al mismo tiempo mantiene la red de Bitcon estable, y segura.</p>
 
 <img class="icon-home" alt="bitcoin is secure" src="/images/icons/icon-big-links.png">
 <h2>Links</h2>
 <ul>
-	<li><a href="https://www.weusecoins.com/" target="_blank">We Use Coins</a> - Learn all about crypto-currency.<br></li>
-	<li><a href="https://www.reddit.com/r/Bitcoin/" target="_blank">Bitcoin News</a> - Where the Bitcoin community gets news.<br></li>
-	<li><a href="http://www.bitcoin.kn">Bitcoin Knowledge Podcast</a> - Interviews with the top people in the Bitcoin world</li>
+	<li><a href="https://www.weusecoins.com/" target="_blank">Nosotros usamos monedas</a> - Aprende todo lo que necesitas saber de las cripto-divisas.<br></li>
+	<li><a href="https://www.reddit.com/r/Bitcoin/" target="_blank">Noticias relacionadas al Bitcoin</a> - Donde nuestra comunidad encuentra noticias relacionadas al Bitcon.<br></li>
+	<li><a href="http://www.bitcoin.kn">Podcast para conocer mas de Bitcoin</a> - Entrevistas con las personas que estan mas al tanto del mundo del Bitcoin</li>
 </ul>
 
 <hr id="hwc" style="width: 100%; margin: 20px 0; color: #eee;" />
 
-<h2>Bitcoin Mining Hardware Comparison</h2>
+<h2>Compara equipos de minado de Bitcoin</h2>
 
-<p>Currently, based on <b>(1)</b> price per hash and <b>(2)</b> electrical efficiency the best Bitcoin miner options are:</p>
+<p>Por lo pronto, basado en <b>(1)</b> precio por "hash" y <b>(2)</b> eficiencia electrica, los mejores mineros de Bitcoin son los siguientes:</p>
 
 <div class="hardware-comparison">
 {% for miner in site.data.hardware %}
@@ -59,14 +59,14 @@ title: Todo lo que necesitas saber para minar Bitcoin
 </div>
 
 <hr style="width: 100%; margin: 20px 0; color: #eee;" />
-<h2 id="wibm">What is Bitcoin Mining?</h2>
+<h2 id="wibm">Que significa minar Bitcoin?</h2>
 <center><img src="/images/what-is-bitcoin-mining.jpg" width="700" height="auto">
-<a href="/images/what-is-bitcoin-mining.jpg" target="_blank">Visualize and Download High-Resolution Infographic</a></center>
+<a href="/images/what-is-bitcoin-mining.jpg" target="_blank">Revisa y baja una copia de alta resolucion de este infografico</a></center>
 
 {% include page-toc.html %}
 
-<p>Bitcoin mining is the process of adding transaction records to Bitcoin's public ledger of past transactions or <b>blockchain</b>. This ledger of past transactions is called the block chain as it is a chain of blocks. The block chain serves to confirm transactions to the rest of the network as having taken place.
-<p>Bitcoin nodes use the <b>block chain</b> to distinguish legitimate Bitcoin transactions from attempts to re-spend coins that have already been spent elsewhere.
+<p>Miran Bitcoin es el proceso por el cual se añaden transacciones al registro de archivos de Bitcoin's o, como se conoce en ingles, <b>block chain</b>. Este registo de archivos se llama "block chain" porque es una cadena de bloques. El "block chain" se usa para confirmar y cotejar transacciones con el resto de la red Bitcoin cuando estas transacciones pasan.
+<p>Los nodos de Bitcoin usan la <b>block chain</b> para separar las transacciones de Bitcoin que son legitimas con las ilicitas, que pasan cuando hay intentos de reusar las bitcoins que ya se gastaron en otro lado.
 <h3 id="what-is-blockchain">What is the Blockchain?</h3>
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/YIVAluSL9SU" frameborder="0" allowfullscreen></iframe></center>
 <p><a href="http://bitcoinminer.com/">Bitcoin mining</a> is intentionally designed to be resource-intensive and difficult so that the number of blocks found each day by miners remains steady. Individual blocks must contain a <a href="/what-is-proof-of-work/">proof of work</a> to be considered valid. This proof of work is verified by other Bitcoin nodes each time they receive a block. Bitcoin uses the <a href="/what-is-hashcash/">hashcash</a> proof-of-work function.
