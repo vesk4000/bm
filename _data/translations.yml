@@ -46,5 +46,11 @@ ru:
   native: Pусский
 es:
   native: Español
+  navigation:
+   contribute-notif:
+     heading: Contribuye y Traduce!
+     text: >
+           <p>Nosotros queremos expandir el conocimiento acerca de los Bitcoins donde sea, si crees que puedes ayudarnos con la traducción de nuestro contenido para aquellos que no hablan Ingles</p>
+           <p>Visitanos en <a href="%github-url%">GitHub</a> y aprende como contribuir.</p>
 pt:
   native: Português
