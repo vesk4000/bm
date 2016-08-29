@@ -28,9 +28,9 @@ toc:
 
 The Dogecoin mining industry is less developed than Bitcoin’s. ASICs—powerful computers designed to solve Bitcoin’s [proof of work](/what-is-proof-of-work/) function—are available for Dogecoin but difficult to purchase. Because Dogecoin and Bitcoin use different proof of work functions [Bitcoin miners](https://www.bitcoinmining.com/bitcoin-mining-hardware/) cannot mine Dogecoins.  
 
-It’s possible, for example, to [buy a Bitcoin Antminer S7 ASIC on Amazon](http://www.runtogold.com/antminers7) for $714\. No such miners are available for Dogecoin.
+It’s possible, for example, to [buy a Bitcoin Antminer S7 ASIC on Amazon](http://geni.us/37CM) for $714. No such miners are available for Dogecoin.
 
-The best Dogecoin mining hardware available for purchase are [graphic cards](http://www.runtogold.com/graphicscards), but they are not profitable. If you are serious about mining Dogecoins, one option is to simply mine bitcoins with [hardware like the Antminer S7](http://www.runtogold.com/antminers7) and convert the earned bitcoins to Dogecoin.
+The best Dogecoin mining hardware available for purchase are [graphic cards](http://geni.us/37CM), but they are not profitable. If you are serious about mining Dogecoins, one option is to simply mine bitcoins with [hardware like the Antminer S7](http://geni.us/37CM) and convert the earned bitcoins to Dogecoin.
 
 <h2 id="how-dogecoin-mining-works">How Dogecoin Mining Works</h2>
 
@@ -81,13 +81,13 @@ Dogecoin's developers, however, [decided to create a permanent 10,000 DOGE rewar
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/yNpfilTliqE" frameborder="0" allowfullscreen></iframe>
 
-To get started mining dogecoins you could get a <a href="http://www.runtogold.com/70khsdogecoinminer">70KHs Dogecoin miner</a> for about $100 or a <a href="http://www.runtogold.com/30mhslitecoinminer">30MHs Dogecoin miner</a> for about $285.
+To get started mining dogecoins you could get a <a href="http://geni.us/dogecoinminer">70KHs Dogecoin miner</a> for about $100 or a <a href="http://geni.us/dogecoinminer">30MHs Dogecoin miner</a> for about $285.
 
 Want to learn how to mine dogecoins on Mac?
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/i8zEvOqR-ms" frameborder="0" allowfullscreen></iframe>
 
-To get started mining dogecoins you could get a <a href="http://www.runtogold.com/70khsdogecoinminer">70KHs litecoin miner</a> for about $100.
+To get started mining dogecoins you could get a <a href="http://geni.us/dogecoinminer">70KHs litecoin miner</a> for about $100.
 
 Want to learn how to mine dogecoins on Windows?
 
