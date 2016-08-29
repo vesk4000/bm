@@ -29,7 +29,7 @@ toc:
 
 <p>Therefore, it is your duty to make sure that any Bitcoin mining power you direct to a mining pool does not attempt to enforce network consensus rules you disagree with.</p>
 
-<h2 id="bmp">Bitcoin Mining Pools</em></h2>
+<h2 id="bmp">Bitcoin Mining Pools</h2>
 
 <p>There are many good Bitcoin mining pools to choose from. Although it's tempting to pick the most popular one, it's better for the health of the network to mine with smaller pools so as to avoid potentially harmful concentration of hashing power.</p>
 
