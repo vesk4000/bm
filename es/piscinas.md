@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Learn about Bitcoin mining pools
-permalink: /bitcoin-mining-pools/
 toc:
   nc: Network Consensus
   bmp: Bitcoin Mining Pools
@@ -9,6 +8,7 @@ toc:
   bmpo: Bitcoin Mining Pool Options
   pm: Bitcoin Mining Pool Payment Methods
 ---
+
 {% include page-toc.html %}
 
 <p>Bitcoin mining pools are a way for Bitcoin miners to pool their resources together and share their hashing power while splitting the reward equally according to the amount of shares they contributed to solving a block.</p>

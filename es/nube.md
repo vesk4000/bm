@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Best Bitcoin Cloud Mining Contract Reviews
-permalink: /best-bitcoin-cloud-mining-contract-reviews/
 toc:
   what-is-bitcoin-cloud-mining: What is Bitcoin Cloud Mining?
   what-are-bitcoin-cloud-mining-advantages: What are Bitcoin Cloud Mining Advantages?
