@@ -38,7 +38,7 @@ toc:
 <p>For this we recommend:
 <ul>
 <li><a href="https://www.kraken.com/">Kraken</a> - The largest European exchange with same-day SEPA</li>
-<li><a href="http://www.runtogold.com/localbitcoins">Local Bitcoins</a> - This fantastic service allows you to search for people in your community willing to sell bitcoins to you directly. But be careful!</li>
+<li><a href="http://geni.us/localbitcoins">Local Bitcoins</a> - This fantastic service allows you to search for people in your community willing to sell bitcoins to you directly. But be careful!</li>
 </ul>
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/MH2i9pudQgk" frameborder="0" allowfullscreen></iframe></center>
 <h2 id="fa"><em>Examples of the best Bitcoin mining software for Windows, Linux and Mac OSX:</em></h2>
