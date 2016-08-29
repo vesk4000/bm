@@ -23,12 +23,12 @@ en:
 es:
   native: Español
   navigation:
-   getting-started: Iniciando
-   bitcoin-mining-news: Noticias
-   bitcoin-mining-pools: Piscinas
-   best-bitcoin-cloud-mining-contract-reviews: Nube
-   bitcoin-mining-software: Software
-   bitcoin-mining-hardware: Hardware
+   iniciando: Iniciando
+   noticias: Noticias
+   piscinas: Piscinas
+   nube: Nube
+   software: Software
+   hardware: Hardware
   footer:
    contribute: Contribuye
    links:
