@@ -1,12 +1,12 @@
  - company: Hashflare
-   url: http://profit.hashflare.eu/en/?ref_id=539A7635
+   url: http://geni.us/hashflare
    desc_general: An Estonian cloud miner with SHA-256, Scrypt and Scrypt-N options and currently appears to be the <b>best value</b>.
    desc_btc: Hashflare offers SHA-256 mining contracts for $1.60/10 GH/s. More profitable SHA-256 coins can be mined while automatic payouts are still in BTC. Customers must purchase at least 10 GH/s. 
    desc_ltc: Hashflare offers scrypt mining contracts at $6.60 per 1 MH/s with a minimum purchase of 1 MH/s. 
    desc_eth: "Hashflare is a large Ether cloud mining provider. Ethereum cloud mining contracts cost 100KH/s = $4.25 for a one year contract."
 
  - company: Genesis Mining
-   url: https://www.genesis-mining.com/a/177546
+   url: http://geni.us/genesismining
    desc_btc: "Genesis Mining is the largest Bitcoin and scrypt cloud mining provider. Use the code mWpwy4 to get a 2.5% discount. GM offers three Bitcoin cloud mining plans: 100 GH/s ($26/Lifetime Contract), 2,000 GH/s ($499/Lifetime Contract), and 10,000 GH/s ($2,400/Lifetime Contract). These plans cost $0.26, $0.25, and $0.24 per GH/s, respectively."
    desc_dash: "Genesis Mining is the largest X11 cloud mining provider. Use the code mWpwy4 to get a 2.5% discount and no maintenance fees. GM offers three Dash X11 cloud mining plans: 1 MH/s ($24 per MH/s per year), 20 MH/s ($420 per 20 MH/s per year), and 100 MH/s ($1,900 per 100 MH/s per year). These plans cost $24, $21, and $19 per MH/s, respectively."
    desc_ltc: Genesis Mining offers Litecoin cloud mining contracts.
@@ -14,7 +14,7 @@
    desc_general: <a href="https://www.genesis-mining.com/a/177546">Genesis Mining</a> is the largest Bitcoin and scrypt cloud mining provider. Use the code mWpwy4 to get a 2.5% discount.
    
  - company: Minergate
-   url: https://minergate.com/a/59307dbcea288017
+   url: http://geni.us/minergate
    desc_general: MinerGate is a mining pool created by a group of cryptocoin enthusiasts. It is the first pool which provides service for merged mining. This means that while mining on our pool you can mine different coins simultaniously without decrease of hashrate for major coin.
    desc_btc: Offers both pool and merged mining and cloud mining services for Bitcoin.
    desc_ltc: Offers both pool and merged mining and cloud mining services for Litecoin.
@@ -35,7 +35,7 @@
    desc_btc: NiceHash is unique in that it uses an orderbook to match mining contract buyers and sellers. Check its website for up-to-date prices.
    
  - company: Eobot
-   url: http://profit.hashflare.eu/en/?ref_id=539A7635
+   url: http://geni.us/hashflare
    desc_general: Claims to be the easiest, cheapest, and best cloud mining solution. Start with as little as $10 using PayPal and choose between any cryptocurrency including Bitcoin, Litecoin, Peercoin, Namecoin, Feathercoin, Dogecoin, NautilusCoin, and Vertcoin.
    desc_btc: Start cloud mining Bitcoin with as little as $10. Eobot claims customers can break even in 14 months.
    desc_ltc: Eobot offers Litecoin cloud mining contracts with 0.0071 LTC monthly payouts. 
