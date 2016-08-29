@@ -16,14 +16,14 @@ toc:
 
 <h3 id="ht"> AntMiner S7 - How To Setup A Bitmain Antminer S7</h3>
 
-The Bitmain Antminer S7 is the best bitcoin miner on the market with 4.73GH/s using 0.25 J/GHA. Have you purchased a <A href="http://www.runtogold.com/1155ghsantminerbitcoinminer">Bitmain Antminer S7</a> Bitcoin miner and need to learn how to set it up?
+The Bitmain Antminer S7 is the best bitcoin miner on the market with 4.73GH/s using 0.25 J/GHA. Have you purchased a <A href="http://geni.us/pOtlDhj">Bitmain Antminer S7</a> Bitcoin miner and need to learn how to set it up?
 
 <br /><br />
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/lKumS6PS-Fg" frameborder="0" allowfullscreen></iframe>
 
 
-The AntMiner S5 is about four times more powerful than the AntMiner S3 but otherwise they are very similiar. Have you purchased an <A href="http://www.runtogold.com/1155ghsantminerbitcoinminer">Antminer S3</a> Bitcoin miner and need to learn how to set it up?
+The AntMiner S5 is about four times more powerful than the AntMiner S3 but otherwise they are very similiar. Have you purchased an <A href="http://geni.us/3i0s">Antminer S3</a> Bitcoin miner and need to learn how to set it up?
 
 <h3 id="s5"> AntMiner S5 - Unboxing Bitcoin Miner Setup with Power Supply</h3>
 
