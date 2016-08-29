@@ -11,7 +11,7 @@ published: true
 Want to learn how to mine bitcoins? First, mining bitcoins is done via SHA256.
 <iframe width="700" height="394" src="https://www.youtube.com/embed/j7opj5-32hw" frameborder="0" allowfullscreen></iframe>
 
-To get started mining bitcoins you could get a <a href="http://www.runtogold.com/1155ghsantminerbitcoinminer">Antminer S5</a> for about $500 or a <a href="http://www.runtogold.com/17thsspondooliesbitcoinminer">Spondoolies Tech SP20</a> for about $500.
+To get started mining bitcoins you could get a <a href="http://geni.us/pOtlDhj">Antminer S9</a> for about $500 or a <a href="http://geni.us/3mnh">Spondoolies Tech SP20</a> for about $500.
 <iframe width="700" height="394" src="https://www.youtube.com/embed/ZEV3QFj19u8" frameborder="0" allowfullscreen></iframe>
 
 Learn about how to use the best Bitcoin mining pools.

@@ -6,7 +6,7 @@ authorurl: /
 published: true
 ---
 
-Have you purchased a <A href="http://www.runtogold.com/17thsspondooliesbitcoinminer">Spondoolies-Tech SP20</a> Bitcoin miner and need to learn how to set it up?
+Have you purchased a <A href="http://geni.us/3mnh">Spondoolies-Tech SP20</a> Bitcoin miner and need to learn how to set it up?
 
 ### Spondoolies-Tech SP20 Quick Start Guide
 

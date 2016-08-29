@@ -63,7 +63,7 @@ title: Bitcoin Mining FAQ
 <p>These abbreviations stand for the hashing power that your miner is generating. MH/s stands for <i>megahash per second</i> and GH/s stands for <i>gigahash per second</i>. There is a direct correlation between how fast your miner works and how profitable it will be. </p>
 
 <h3 id="what-does-wgh-mean">What does W/Gh and W/Th mean?</h3>
-<p>W/Gh and W/Th are abbreviations for <i>watts per gigahash</i> and <i>watts per terahash</i>. These metrics calculate how many hashes a miner can run per watt of electricity. Mining hardware with lower W/Gh and W/Th are more efficient. Currently, the <a href="http://www.runtogold.com/antminers7">Antminer S7</a> and <a href="http://www.runtogold.com/avalon6">Avalon6</a> are the most efficient miners available for purchase, at  0.25 W/Gh  and  0.29 W/Gh, respectively.</p>
+<p>W/Gh and W/Th are abbreviations for <i>watts per gigahash</i> and <i>watts per terahash</i>. These metrics calculate how many hashes a miner can run per watt of electricity. Mining hardware with lower W/Gh and W/Th are more efficient. Currently, the <a href="http://geni.us/37CM">Antminer S7</a> and <a href="http://geni.us/3upk">Avalon6</a> are the most efficient miners available for purchase, at  0.25 W/Gh  and  0.29 W/Gh, respectively.</p>
 
 <h3 id="calculate-bitcoin-mining-profitability">How do I calculate my Bitcoin mining profitability?</h3>
 <p>You can use <a href="https://alloscomp.com/bitcoin/calculator">bitcoin mining profitability calculators</a> to calculate the <a href="/bitcoin-mining-profitability/">profitability of mining</a> under varying circumstances, to include difficulty increases, power consumption, and average hashrate, for example.</p>

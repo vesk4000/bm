@@ -7,7 +7,7 @@ published: true
 ---
 
 
-Have you purchased a <a href="http://www.runtogold.com/2ghsbitfuryusbbitcoinminer">USB</a> Bitcoin miner and need to learn how to set it up?
+Have you purchased a <a href="http://geni.us/gekkoscienceusb">USB</a> Bitcoin miner and need to learn how to set it up?
 
 ### USB - Bitcoin Mining Setup Guide
 
@@ -15,11 +15,11 @@ Have you purchased a <a href="http://www.runtogold.com/2ghsbitfuryusbbitcoinmine
 
 ### Additional Supplies you will need
 
-<ul><li><a href="http://www.runtogold.com/raspberrypi2">Complete Raspberry Pi Kit</a></li>
-<li><a href="http://www.runtogold.com/10portusbhub">10 Port Powered USB Hub</a></li>
-<li><a href="http://www.runtogold.com/usbfan">USB Fan</a></li>
-<li><a href="http://www.runtogold.com/microusbcable">Micro USB Cable</a></li>
-<li><a href="http://www.runtogold.com/ethernetcable">Ethernet Cable</a></li></ul>
+<ul><li><a href="http://geni.us/raspberrypi">Complete Raspberry Pi Kit</a></li>
+<li><a href="http://geni.us/10portusbhub">10 Port Powered USB Hub</a></li>
+<li><a href="http://geni.us/usbfan">USB Fan</a></li>
+<li><a href="http://geni.us/usbcable">Micro USB Cable</a></li>
+<li><a href="http://geni.us/ethernetcable">Ethernet Cable</a></li></ul>
 
 <div class="hardware-comparison">
 {% for miner in site.data.hardware %}
