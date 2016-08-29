@@ -94,5 +94,5 @@ You will learn <b>(1)</b> how bitcoin mining works, <b>(2)</b> how to start mini
 <ul>
 <li><a href="https://www.kraken.com/">Kraken</a> - The largest European exchange with same-day SEPA</li>
 <li><a href="https://www.buybitcoinworldwide.com/">Buy Bitcoin Worldwide</a> - Get help finding a Bitcoin exchange in your country.</li>
-<li><a href="http://www.runtogold.com/localbitcoins">Local Bitcoins</a> - This fantastic service allows you to search for people in your community willing to sell bitcoins to you directly. But be careful!</li>
+<li><a href="http://geni.us/localbitcoins">Local Bitcoins</a> - This fantastic service allows you to search for people in your community willing to sell bitcoins to you directly. But be careful!</li>
 </ul>
