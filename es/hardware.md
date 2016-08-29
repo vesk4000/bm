@@ -45,7 +45,7 @@ title: Learn about Bitcoin mining hardware
 {% endfor %}
 </div>
 
-<h1 id="best-bitcoin-cloud-mining-services">Best Bitcoin Cloud Mining Services</h2>
+<h2 id="best-bitcoin-cloud-mining-services">Best Bitcoin Cloud Mining Services</h2>
 <div class="mining-software-wrap">
 
 <img src="/images/icons/cloud.png" class="pull-right bitcoin-icon">
