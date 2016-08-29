@@ -12,7 +12,7 @@ toc:
 
 Du wirst lernen **(1)** wie Bitcoinmining funktioniert, **(2)** wie du anfängst Bitcoin zu verdienen, **(3)** was die beste Bitcoinminingsoftware ist, **(4)** was [die beste Bitcoinmininghardware](/bitcoin-mining-hardware/) ist, **(5)** wo du die besten Bitcoinminingpools findest und **(6)** wie du dein Bitcoinverdienst optimierst.
 
-Bitcoinmining ist schwer profitabel zu machen, aber wenn du es probierst dann ist dieser [Bitcoinminer](http://www.runtogold.com/bitcoinminer) vermutlich ein guter Anfang.
+Bitcoinmining ist schwer profitabel zu machen, aber wenn du es probierst dann ist dieser [Bitcoinminer](http://geni.us/pOtlDhj) vermutlich ein guter Anfang.
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
 <hr style="width: 100%; margin: 20px 0; color: #eee;" />
