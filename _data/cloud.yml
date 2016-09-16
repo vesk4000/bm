@@ -14,7 +14,7 @@
    desc_general: <a href="https://www.genesis-mining.com/a/177546">Genesis Mining</a> is the largest Bitcoin and scrypt cloud mining provider. Use the code mWpwy4 to get a 2.5% discount.
    
  - company: Minergate
-   url: http://geni.us/minergate
+   url:
    desc_general: MinerGate is a mining pool created by a group of cryptocoin enthusiasts. It is the first pool which provides service for merged mining. This means that while mining on our pool you can mine different coins simultaniously without decrease of hashrate for major coin.
    desc_btc: Offers both pool and merged mining and cloud mining services for Bitcoin.
    desc_ltc: Offers both pool and merged mining and cloud mining services for Litecoin.
