@@ -14,7 +14,7 @@ toc:
 
 Ethereum's recent price rise, from less than $1 per ether to more than ten times that witin six months, has created a gold rush centered around it. And among people who want to capitalize on this gold rush are Bitcoin miners, many of whom have now also started to mine Ether. 
 
-<center>[Ethereum gold rush[(https://www.bitcoinmining.com/images/ethereum-gold-rush.jpg)</center>
+<center>[Ethereum gold rush](https://www.bitcoinmining.com/images/ethereum-gold-rush.jpg)</center>
 
 <a href="/some-fast-facts-about-bitcoin-mining-14/"> Bitcoin mining </a> is the process in which miners create new blocks, which are groupings of transactions, that satisfy some specific constraints. Creating such blocks is not easy, and requires huge computing power. The hardware required is costly, as is the electricity needed to run the hardware. Miners make up for this cost by earning a reward in the cryptocurrency they are mining.
 
