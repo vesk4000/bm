@@ -14,6 +14,8 @@ toc:
 
 Ethereum's recent price rise, from less than $1 per ether to more than ten times that witin six months, has created a gold rush centered around it. And among people who want to capitalize on this gold rush are Bitcoin miners, many of whom have now also started to mine Ether. 
 
+<center>[Ethereum gold rush[(https://www.bitcoinmining.com/images/ethereum-gold-rush.jpg)</center>
+
 <a href="/some-fast-facts-about-bitcoin-mining-14/"> Bitcoin mining </a> is the process in which miners create new blocks, which are groupings of transactions, that satisfy some specific constraints. Creating such blocks is not easy, and requires huge computing power. The hardware required is costly, as is the electricity needed to run the hardware. Miners make up for this cost by earning a reward in the cryptocurrency they are mining.
 
 With the increase in Ether price, it is becoming more and more attractive to mine Ether too. This is what is attracting leading Bitcoin miners to Ethereum mining. One such miner is Chandler Guo, CEO of Chinese mining company BW.com, who owns up to 10% of world's bitcoin mining computing power. He recently declared on his facebook page that, "I am a miner of #ethereum." With this announcement, he also started a crowdfunding campign to fund his new <a href="/ethereum-mining/">Ethereum mining</a> operation. A lot of other leading miners are now also mining ethereum.
