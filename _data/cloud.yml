@@ -56,7 +56,10 @@
    desc_scam: Appears to have been a <a href="https://bitcoinmagazine.com/20702/exclusive-possible-500000-bitcoin-cloud-mining-ponzi-scheme-uncovered/">$500,000 Ponzi scam fraud</a>.    
    
  - company: Zeushash
-   desc_scam: Appears to have halted payouts.      
+   desc_scam: Appears to have halted payouts.
+   
+ - company: Bitminer.io
+   desc_scam:  Based on <a href="https://www.reddit.com/r/Bitcoin/comments/54a2vt/its_been_verified_bitminerio_does_not_pay_out/">user reports</a> they appear to have halted payouts.
 
 ##### Discontinued ########### 
   
