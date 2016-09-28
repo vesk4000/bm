@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Getting started with Bitcoin mining
-permalink: /getting-started/
 toc:
   hbmw: How Bitcoin Mining Works
   gmhw: Get The Best Bitcoin Mining Hardware

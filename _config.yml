@@ -131,6 +131,7 @@ defaults:
     scope:
       path: "es"
     values:
+      layout: "default"
       lang: "es"
   -
     scope:

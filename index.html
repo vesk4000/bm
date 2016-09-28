@@ -16,17 +16,17 @@ toc:
 
 <div class="home-grid">
 	<a href="/getting-started/" class="section">
-		<img src="/images/icons/mining.png"> 
+		<img src="/images/icons/mining-small.png"> 
 		<div class="section-title">New to Mining?</div> 
 		<div class="section-view">Get started ›</div> 
 	</a>
 	<a href="/bitcoin-mining-hardware/" class="section">
-		<img src="/images/icons/mining2.png"> 
+		<img src="/images/icons/mining2-small.png"> 
 		<div class="section-title">Mining Hardware</div> 
 		<div class="section-view">Learn More ›</div> 
 	</a>
 	<a href="/best-bitcoin-cloud-mining-contract-reviews/" class="section">
-		<img src="/images/icons/cloud.png"> 
+		<img src="/images/icons/cloud-small.png"> 
 		<div class="section-title">Cloud Mining</div> 
 		<div class="section-view">Learn More ›</div> 
 	</a>
@@ -65,15 +65,16 @@ toc:
 {% endfor %}
 </div>
 
-<hr style="width: 100%; margin: 20px 0; color: #eee;" />
-<h2 id="wibm">What is Bitcoin Mining?</h2>
-<center><img src="/images/what-is-bitcoin-mining.png" width="700" height="auto">
-<a href="/images/what-is-bitcoin-mining-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center>
-
 {% include page-toc.html %}
 
 <p>Bitcoin mining is the process of adding transaction records to Bitcoin's public ledger of past transactions or <b>blockchain</b>. This ledger of past transactions is called the block chain as it is a chain of blocks. The block chain serves to confirm transactions to the rest of the network as having taken place.
 <p>Bitcoin nodes use the <b>block chain</b> to distinguish legitimate Bitcoin transactions from attempts to re-spend coins that have already been spent elsewhere.
+
+<hr style="width: 100%; margin: 20px 0; color: #eee;" />
+<h2 id="wibm">What is Bitcoin Mining?</h2>
+<center><img src="/images/what-is-bitcoin-mining.jpg" width="700" height="auto">
+<a href="/images/what-is-bitcoin-mining.jpg" target="_blank">Visualize and Download High-Resolution Infographic</a></center>
+
 <h3 id="what-is-blockchain">What is the Blockchain?</h3>
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/YIVAluSL9SU" frameborder="0" allowfullscreen></iframe></center>
 <p><a href="http://bitcoinminer.com/">Bitcoin mining</a> is intentionally designed to be resource-intensive and difficult so that the number of blocks found each day by miners remains steady. Individual blocks must contain a <a href="/what-is-proof-of-work/">proof of work</a> to be considered valid. This proof of work is verified by other Bitcoin nodes each time they receive a block. Bitcoin uses the <a href="/what-is-hashcash/">hashcash</a> proof-of-work function.
@@ -81,13 +82,9 @@ toc:
 <p>This both serves the purpose of disseminating new coins in a decentralized manner as well as motivating people to provide security for the system.
 <p>Bitcoin mining is so called because it resembles the mining of other commodities: it requires exertion and it slowly makes new currency available at a rate that resembles the rate at which commodities like gold are mined from the ground.
 <h2 id="wipow">What is Proof of Work?</h2>
-<center><img src="/images/what-is-proof-of-work.png" width="700" height="auto">
-<a href="/images/what-is-proof-of-work-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center></center>
 <p>A <a href="/what-is-proof-of-work/">proof of work</a> is a piece of data which was difficult (costly, time-consuming) to produce so as to satisfy certain requirements. It must be trivial to check whether data satisfies said requirements.
 <p>Producing a proof of work can be a random process with low probability, so that a lot of trial and error is required on average before a valid proof of work is generated. Bitcoin uses the Hashcash proof of work.
 <h2 id="md">What is Bitcoin Mining Difficulty?</h2>
-<center><img src="/images/what-is-bitcoin-mining-difficulty.png" width="700" height="auto">
-<a href="/images/what-is-bitcoin-mining-difficulty-high-resolution.png" target="_blank">Visualize and Download High-Resolution Infographic</a></center>
 <h3 id="tcdp">The Computationally-Difficult Problem</h3>
 <p>Bitcoin mining a block is difficult because the SHA-256 hash of a block's header must be lower than or equal to the target in order for the block to be accepted by the network.
 <p>This problem can be simplified for explanation purposes: The hash of a block must start with a certain number of zeros. The probability of calculating a hash that starts with many zeros is very low, therefore many attempts must be made. In order to generate a new hash each round, a nonce is incremented. See Proof of work for more information.

@@ -32,9 +32,9 @@ toc:
 
 The Litecoin mining industry is less developed than Bitcoin’s. ASICs—powerful computers designed to solve Bitcoin’s proof of work function—are available for litecoin but difficult to purchase. Because Litecoin uses a different proof of work function [Bitcoin miners](https://www.bitcoinmining.com/bitcoin-mining-hardware/) cannot mine litecoins.  
 
-It’s possible, for example, to [buy a Bitcoin Antminer S7 ASIC on Amazon](http://www.runtogold.com/antminers7) for $714\. No such miners are available for Litecoin.
+It’s possible, for example, to [buy a Bitcoin Antminer S7 ASIC on Amazon](http://geni.us/37CM) for $714. No such miners are available for Litecoin.
 
-The best Litecoin mining hardware available for purchase are [graphic cards](http://www.runtogold.com/graphicscards), but they are not profitable. If you are serious about mining litecoins, one option is to simply mine bitcoins with [hardware like the Antminer S7](http://www.runtogold.com/antminers7) and convert the earned bitcoins to litecoin.
+The best Litecoin mining hardware available for purchase are [graphic cards](http://geni.us/37CM), but they are not profitable. If you are serious about mining litecoins, one option is to simply mine bitcoins with [hardware like the Antminer S7](http://geni.us/37CM) and convert the earned bitcoins to litecoin.
 
 <h2 id="how-litecoin-mining-works">How Litecoin Mining Works</h2>
 
@@ -80,7 +80,7 @@ Watch the video below for more information on Litecoin’s block reward:
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/tf3s-zBTNoQ" frameborder="0" allowfullscreen></iframe>
 
-To get started mining litecoins you could get a <a href="http://www.runtogold.com/70khslitecoinminer">70KHs litecoin miner</a> for about $100 or a <a href="http://www.runtogold.com/30mhslitecoinminer">30MHs litecoin miner</a> for about $285.
+To get started mining litecoins you could get a <a href="http://geni.us/litecoinminer">70KHs litecoin miner</a> for about $100 or a <a href="http://geni.us/litecoinminer">30MHs litecoin miner</a> for about $285.
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/cKjiw7nAZYc" frameborder="0" allowfullscreen></iframe>
 
@@ -92,7 +92,7 @@ Finding the easiest way to buy Litecoin, minding the nature of cryptocurrencies 
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/NRSZT2emHw4" frameborder="0" allowfullscreen></iframe>
 
-To get started mining litecoins you could get a <a href="http://www.runtogold.com/70khsdogecoinminer">70KHs litecoin miner</a> for about $100.
+To get started mining litecoins you could get a <a href="http://geni.us/litecoinminer">70KHs litecoin miner</a> for about $100.
 
 <h2 id="windows">How to mine Litecoins on Windows</h2>
 
@@ -190,7 +190,7 @@ So what that will do is it will enable you to start mining, because now they hav
 
 And yeah, once you're done here you can move on and download the mining software.  And one of them is CPU miner which you can find in here on this thread at bitcointalk.org.  And I'll have all these links and stuff in my description and on my website so don't worry about that.  You can check it out from there.  Basically, yeah, here is the CPU miners available in 32 bit, 64 bit versions for Windows and I'm using the 64 bit one.  So you just download it from here and then you extract it to your desired location.  I put it actually in my Litecoin folder.  I made another folder called miners.  And then I put both the CPU and a GPU miner in here.  So that's what I did, but you can do it differently of course.
 
-But any way extract it to your desired location and then you need to make a BAT file so that you can like log into the Kattare -- to Burnside's Litecoin mining pool.  And the way I did that as like on my desktop here for example.  It's just an example.  You can right click and make in your text document.  Now if you have the suffixes here so that you can see them, you can edit that and just rename it BAT.  And then rename the file to minerd_64.  Just click yes and then you right click that and edit.  And what you want to put here is minerd.exe - o <a href="http://ltc.kattare.com-9332/">http://ltc.kattare.com-9332</a> that's the port number and then space - O and this is for your user name and password and space and user name.  This is where you put your -- you don't type username.  Type your name that you created for the website and then dot workers suffix.  And that's the one like CPU1 that I put in here.  This one.  That's the suffix, worker suffix.  And colon worker password and that's the worker password here, that one.
+But any way extract it to your desired location and then you need to make a BAT file so that you can like log into the Kattare -- to Burnside's Litecoin mining pool.  And the way I did that as like on my desktop here for example.  It's just an example.  You can right click and make in your text document.  Now if you have the suffixes here so that you can see them, you can edit that and just rename it BAT.  And then rename the file to minerd_64.  Just click yes and then you right click that and edit.  And what you want to put here is minerd.exe - o that's the port number and then space - O and this is for your user name and password and space and user name.  This is where you put your -- you don't type username.  Type your name that you created for the website and then dot workers suffix.  And that's the one like CPU1 that I put in here.  This one.  That's the suffix, worker suffix.  And colon worker password and that's the worker password here, that one.
 
 And then you just go ahead.  Well, you can still -- I'll put the Q there it just make quite, but there's a bunch of options here if you go with your like CMD EXE file or whatever like in your command prompt.  And you go here and you type minerd help.  Then you'll see all these different options here like threads.  By default it has number -- the number of threads attached by default is the number of processors you have but you can modify that as well by, you know, putting T like if I want like one thread then I just dash T space one and so on.  And then you basically just save that and then from your desktop, control C, copy it and then you paste it in here where your mining executable file is.  But this needs to be in the same folder.  And then after that you can create like a shortcut of the BAT file to your desktop.  Like that.  And then you just run it off that when you want to mine.
 

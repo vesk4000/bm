@@ -1,62 +1,65 @@
- - company: Hashflare
-   url: http://profit.hashflare.eu/en/?ref_id=539A7635
+ - company: Hashflare Review
+   url: http://geni.us/hashflare
    desc_general: An Estonian cloud miner with SHA-256, Scrypt and Scrypt-N options and currently appears to be the <b>best value</b>.
    desc_btc: Hashflare offers SHA-256 mining contracts for $1.60/10 GH/s. More profitable SHA-256 coins can be mined while automatic payouts are still in BTC. Customers must purchase at least 10 GH/s. 
    desc_ltc: Hashflare offers scrypt mining contracts at $6.60 per 1 MH/s with a minimum purchase of 1 MH/s. 
    desc_eth: "Hashflare is a large Ether cloud mining provider. Ethereum cloud mining contracts cost 100KH/s = $4.25 for a one year contract."
 
- - company: Genesis Mining
-   url: https://www.genesis-mining.com/a/177546
+ - company: Genesis Mining Review
+   url: http://geni.us/advendorgm
    desc_btc: "Genesis Mining is the largest Bitcoin and scrypt cloud mining provider. Use the code mWpwy4 to get a 2.5% discount. GM offers three Bitcoin cloud mining plans: 100 GH/s ($26/Lifetime Contract), 2,000 GH/s ($499/Lifetime Contract), and 10,000 GH/s ($2,400/Lifetime Contract). These plans cost $0.26, $0.25, and $0.24 per GH/s, respectively."
    desc_dash: "Genesis Mining is the largest X11 cloud mining provider. Use the code mWpwy4 to get a 2.5% discount and no maintenance fees. GM offers three Dash X11 cloud mining plans: 1 MH/s ($24 per MH/s per year), 20 MH/s ($420 per 20 MH/s per year), and 100 MH/s ($1,900 per 100 MH/s per year). These plans cost $24, $21, and $19 per MH/s, respectively."
    desc_ltc: Genesis Mining offers Litecoin cloud mining contracts.
    desc_eth: "Genesis Mining is the largest Ether cloud mining provider. Ethereum cloud mining contracts cost 1MH/s = $37 (1 Year Ether Mining), 25 MH/s= $925  (1 Year Ether Mining) and 100 MH/s= $3700 (1 Year Ether Mining)."
    desc_general: <a href="https://www.genesis-mining.com/a/177546">Genesis Mining</a> is the largest Bitcoin and scrypt cloud mining provider. Use the code mWpwy4 to get a 2.5% discount.
    
- - company: Minergate
-   url: https://minergate.com/a/59307dbcea288017
+ - company: Minergate Review
+   url:
    desc_general: MinerGate is a mining pool created by a group of cryptocoin enthusiasts. It is the first pool which provides service for merged mining. This means that while mining on our pool you can mine different coins simultaniously without decrease of hashrate for major coin.
    desc_btc: Offers both pool and merged mining and cloud mining services for Bitcoin.
    desc_ltc: Offers both pool and merged mining and cloud mining services for Litecoin.
  
- - company: Hashnest
-   url: https://www.hashnest.com/
+ - company: Hashnest Review
+   url: http://geni.us/hashnestdemo
    desc_general: Hashnest is operated by Bitmain, producer of the Antminer line of miners. HashNest currently has over 600 Antminer S7s for rent. You can view the most up-to-date pricing and availability on Hashnest's website. 
    desc_btc: Hashnest is operated by Bitmain, the producer of the Antminer line of Bitcoin miners. HashNest currently has over 600 Antminer S7s for rent. You can view the most up-to-date pricing and availability on Hashnest's website. At the time of writing one Antminer S7's hash rate can be rented for $1,200.   
    
- - company: Bitcoin Cloud Mining
+ - company: Bitcoin Cloud Mining Review
    url:
    desc_btc: Currently all Bitcoin Cloud Mining contracts are sold out. 
    desc_general: Supposedly has been mining Bitcoin since mid-2013. All Bitcoin miners are located in a state-of-the-art data centre in Australia and they have direct access to high quality equipment and 24/7 support.
    
- - company: NiceHash
+ - company: NiceHash Review
    url:
    desc_general: NiceHash offers you to sell and buy hashing power. Selling hashing power is as simple as connecting your miner to our stratum mining pools while buyers can buy hashing power on demand, on pay-as-you-go basis. Claims to bring an innovative easy-to-use and risk-free cloud mining service. You can mine the vast majority of popular coins, based on SHA-256 (Bitcoin, etc.), Scrypt (Litecoin, Dogecoin, etc.), Scrypt-N (Vertcoin, etc.) and X11 (DarkCoin, etc.).
    desc_btc: NiceHash is unique in that it uses an orderbook to match mining contract buyers and sellers. Check its website for up-to-date prices.
    
- - company: Eobot
-   url: http://profit.hashflare.eu/en/?ref_id=539A7635
+ - company: Eobot Review
+   url: http://geni.us/hashflare
    desc_general: Claims to be the easiest, cheapest, and best cloud mining solution. Start with as little as $10 using PayPal and choose between any cryptocurrency including Bitcoin, Litecoin, Peercoin, Namecoin, Feathercoin, Dogecoin, NautilusCoin, and Vertcoin.
    desc_btc: Start cloud mining Bitcoin with as little as $10. Eobot claims customers can break even in 14 months.
    desc_ltc: Eobot offers Litecoin cloud mining contracts with 0.0071 LTC monthly payouts. 
    desc_eth: Eobot offers Ethereum cloud mining contracts with 0.0060 ETH monthly payouts. 
    
- - company: MineOnCloud
+ - company: MineOnCloud Review
    url:
    desc_general: MineOnCloud appears to have obselete hardware. It was launched on November 2013. They offer Bitcoin mining contracts for SHA256 using a very stable ASIC 28nm chip. They have two bitcoin mining contract options - a day pass and an annual contract. Customers can choose the Bitcoin mining pool and change every month for free with year contract.
    desc_btc: MineOnCloud currently has about 35 TH/s of mining equipment for rent in the cloud. Some miners available for rent include AntMiner S4s and S5s. 
    
- - company: Scrypt.cc
+ - company: Scrypt.cc Review
    desc_scam: Scrypt.cc allows purchase of KHS in a matter of seconds, start mining right away and even be able to trade your KHS in real time with prices based on supply and demand! All KHashes are safely stored and maintained in 2 secured data-centres.
    
- - company: PB Mining
+ - company: PB Mining Review
    desc_scam: Claims to operate Bitcoin mining ASIC hardware. When customers buy a bitcoin mining contract then they will begin earning Bitcoins instantly. At Piggyback Mining, they cover the electricity costs and all Bitcoin mining pool fees. The Bitcoin mining contract is 100% insured because they want customers to succeed.
    
- - company: Bitcoin Cloud Services (BCS)
+ - company: Bitcoin Cloud Services (BCS) Review
    desc_scam: Appears to have been a <a href="https://bitcoinmagazine.com/20702/exclusive-possible-500000-bitcoin-cloud-mining-ponzi-scheme-uncovered/">$500,000 Ponzi scam fraud</a>.    
    
- - company: Zeushash
-   desc_scam: Appears to have halted payouts.      
+ - company: Zeushash Review
+   desc_scam: Appears to have halted payouts.
+   
+ - company: Bitminer.io Review
+   desc_scam:  Based on <a href="https://www.reddit.com/r/Bitcoin/comments/54a2vt/its_been_verified_bitminerio_does_not_pay_out/">user reports</a> they appear to have halted payouts.
 
 ##### Discontinued ########### 
   

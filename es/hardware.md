@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Learn about Bitcoin mining hardware
-permalink: /bitcoin-mining-hardware/
-seotitle: Best Bitcoin Mining Hardware ASICs Comparison 
 ---
 
 <h1>Bitcoin Mining Hardware Guide</h1>

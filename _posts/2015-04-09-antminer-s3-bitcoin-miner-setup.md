@@ -14,7 +14,7 @@ toc:
 ---
 {% include page-toc.html %}
 
-The AntMiner S5 is about four times more powerful than the AntMiner S3 but otherwise they are very similiar. You can also check out the latest [Antminer S7](/how-to-setup-bitcoin-mining-hardware-bitmain-antminer/). Have you purchased an <A href="http://www.runtogold.com/1155ghsantminerbitcoinminer">Antminer S3</a> Bitcoin miner and need to learn how to set it up?
+The AntMiner S5 is about four times more powerful than the AntMiner S3 but otherwise they are very similiar. You can also check out the latest [Antminer S7](/how-to-setup-bitcoin-mining-hardware-bitmain-antminer/). Have you purchased an <A href="http://geni.us/pOtlDhj">Antminer S3</a> Bitcoin miner and need to learn how to set it up?
 
 <h3 id="ub">AntMiner S5 - Unboxing Bitcoin Miner Setup with Power Supply</h3>
 

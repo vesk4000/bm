@@ -111,14 +111,19 @@
     ghash_s_usd: 2.666
     watts: 1,210
     powerefficiencywgh: 0.25
-    priceusd: 595.99
+    priceusd: 479.95
     currently_shipping: No
     comm_ports: Ethernet
     dev_friendly: GPL infringement
     gsg: https://www.bitcoinmining.com/antminer-s3-bitcoin-miner-setup/
     buy: http://geni.us/37CM
+<<<<<<< HEAD
     btcpm: 0.3994
+    img: bitcoin-miner-antminer-s7-small.jpg
+=======
+    btcpm: .1665
     img: bitcoin-miner-antminer-s7.jpg
+>>>>>>> origin/gh-pages
     cat: featured
     weight: 8.8 pounds
 -
@@ -148,12 +153,12 @@
     ghash_s_usd: 0.115
     watts: 2
     powerefficiencywgh: 1.00
-    priceusd: 32.99
+    priceusd: 49.66
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: code
     gsg: /usb-bitcoin-miner-setup-guide/
-    buy: http://www.runtogold.com/2ghsantminerusb
+    buy: http://geni.us/bitmainu2
     btcpm: 0.0002
     weight: 0.8 ounces
     cat: usbminer
@@ -356,16 +361,16 @@
     ghash_s_usd: x
     watts: x
     powerefficiencywgh: 0.29
-    priceusd: 750.95
+    priceusd: 499.95
     currently_shipping: Yes
     comm_ports: USB or Ethernet
     dev_friendly: code, docs, samples
     gsg: 
     buy: http://geni.us/3upk
-    btcpm: 0.2955
+    btcpm: 0.1232
     weight: 9.5 pounds
     cat: featured
-    img: avalon6.jpg    
+    img: avalon6-small.jpg    
 -
     product: bi*fury
     advertised_mhashs: 5,000
@@ -971,12 +976,12 @@
     ghash_s_usd: 0.004
     watts: 2.5
     powerefficiencywgh: 0.96
-    priceusd: 
+    priceusd: 44.99
     currently_shipping: Discontinued
     comm_ports: USB
     dev_friendly: code, samples
     gsg: https://www.bitcoinmining.com/usb-bitcoin-miner-setup-guide/
-    buy: http://www.runtogold.com/2ghsbitfuryusbbitcoinminer
+    buy: http://geni.us/bitfuryredfury
     btcpm: 0.00021
     img: bitcoin-miner-bitfury-usb.jpg
     cat: usbminer
@@ -1117,8 +1122,13 @@
     dev_friendly: code, samples
     gsg: https://www.bitcoinmining.com/spondoolies-tech-SP20-bitcoin-miner-setup/
     buy: http://geni.us/3mnh
+<<<<<<< HEAD
     btcpm: 0.1593
+    img: bitcoin-miner-spondoolies-small.jpg
+=======
+    btcpm: 0.0599
     img: bitcoin-miner-spondoolies.jpg
+>>>>>>> origin/gh-pages
     cat: featured
     weight: 20 pounds
 -
@@ -1273,8 +1283,29 @@
     comm_ports: USB
     dev_friendly: code, samples
     gsg: /usb-bitcoin-miner-setup-guide/
-    buy: http://www.runtogold.com/36avalonusbbitcoinminer
+    buy: http://geni.us/gekkoscienceusb
+    btcpm: 0.0003    
+    weight: 0.8 ounces
+    cat: 
+    img: usb-bitcoin-miner-avalon-nano3.jpg
+    
+-
+    product: GekkoScience
+    advertised_mhashs: 9,500
+    advertised_ghashs: 9.5
+    mhashJ: 1174
+    ghashJ: 1.174
+    mhash_s_usd: 20
+    ghash_s_usd: 0.02
+    watts: 3.83
+    powerefficiencywgh: 0.33
+    priceusd: 49.97
+    currently_shipping: Yes
+    comm_ports: USB
+    dev_friendly: code, samples
+    gsg: /usb-bitcoin-miner-setup-guide/
+    buy: http://geni.us/gekkoscienceusb
     btcpm: 0.0003    
     weight: 0.8 ounces
     cat: usbminer
-    img: usb-bitcoin-miner-avalon-nano3.jpg
+    img: usb-bitcoin-miner-gekko-science.jpg

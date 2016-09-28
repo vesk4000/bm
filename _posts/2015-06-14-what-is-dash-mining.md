@@ -9,7 +9,7 @@ published: true
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/tNpEmo3y0VQ" frameborder="0" allowfullscreen></iframe>
 
-To get started mining DASH you could get a <a href="http://www.runtogold.com/70khsdogecoinminer">70KHs DASH miner</a> for about $100 or a <a href="http://www.runtogold.com/30mhslitecoinminer">30MHs DASH miner</a> for about $285.
+To get started mining DASH you could get a <a href="http://geni.us/litecoinminer">70KHs DASH miner</a> for about $100 or a <a href="http://geni.us/litecoinminer">30MHs DASH miner</a> for about $285.
 
 ### Transcript - How to Mine Darkcoin -- The GUI Friendly Simple way of mining Dark Coin
 

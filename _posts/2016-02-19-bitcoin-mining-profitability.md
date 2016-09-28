@@ -16,7 +16,7 @@ The most obvious expense in Bitcoin mining is mining hardware. Better, newer min
 
 ### Efficiency  
 
-A bitcoin miner’s job is to convert electricity into hash power. Miners that do this using the least amount of electricity per hash are the most efficient. The [Antminer S7](http://www.runtogold.com/antminers7), for example, converts electricity to hash power at 0.25 W/Gh. The [SP20 Jackson](http://www.runtogold.com/17thsspondooliesbitcoinminer), a popular miner by Spondoolies Tech, converts at 0.65 w/Gh.
+A bitcoin miner’s job is to convert electricity into hash power. Miners that do this using the least amount of electricity per hash are the most efficient. The [Antminer S9](http://geni.us/pOtlDhj), [Antminer S7](http://geni.us/37CM), for example, converts electricity to hash power at 0.25 W/Gh. The [SP20 Jackson](http://geni.us/3mnh), a popular miner by Spondoolies Tech, converts at 0.65 w/Gh.
 
 Electricity costs vary by location, but this means that an Antminer S7 run in the same place as an SP20 converts electricity nearly three times more efficiently. It’s important to compare both hardware prices and efficiency when purchasing a miner.
 

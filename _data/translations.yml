@@ -20,6 +20,27 @@ en:
           <p>Visit us on <a href="%github-url%">GitHub</a> and learn how to contribute.</p>
   post:
     written-by: 'Written by <a href="%authorurl%">%author%</a> on %date%.'
+es:
+  native: Español
+  navigation:
+   iniciando: Iniciando
+   piscinas: Piscinas
+   nube: Nube
+   software: Software
+   hardware: Hardware
+  footer:
+   contribute: Contribuye
+   links:
+     advertencia: Advertencia
+     faq: FAQ
+     acerca: Acerca de Nosotros
+  contribute-notif:
+    heading: Contribuye y Traduce!
+    text: >
+         <p>Nosotros queremos expandir el conocimiento acerca de los Bitcoins donde sea, si crees que puedes ayudarnos con la traducción de nuestro contenido para aquellos que no hablan Ingles</p>
+         <p>Visitanos en <a href="%github-url%">GitHub</a> y aprende como contribuir.</p>
+  post:
+   written-by: 'Escrito por <a href="%authorurl%">%author%</a> el %date%.'
 de:
   native: Deutsch
   navigation:
@@ -44,7 +65,5 @@ nl:
   native: Nederlands
 ru:
   native: Pусский
-es:
-  native: Español
 pt:
   native: Português

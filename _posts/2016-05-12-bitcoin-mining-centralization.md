@@ -40,7 +40,7 @@ Ethereum creator Vitalik Buterin [also suggests](https://bitcoinmagazine.com/art
 
 ## 16nm Chips
 
-[Andreas Antonopoulos](/andreas-antonopoulos-bitcoin-expert/) believes that 16nm ASICs could mark the end of mining centralization. Up until 16nm chips, the improvements made to [ASICs](/how-to-setup-bitcoin-mining-hardware-bitmain-antminer/) had been exponential. This is visible in charts of Bitcoin's hash rate (and [difficulty](/what-is-bitcoin-mining-difficulty/)):
+Andreas Antonopoulos believes that 16nm ASICs could mark the end of mining centralization. Up until 16nm chips, the improvements made to [ASICs](/how-to-setup-bitcoin-mining-hardware-bitmain-antminer/) had been exponential. This is visible in charts of Bitcoin's hash rate (and [difficulty](/what-is-bitcoin-mining-difficulty/)):
 
 <a href="https://blockchain.info/charts/hash-rate?timespan=all&showDataPoints=false&daysAverageString=7&show_header=true&scale=0&address="><img src="/images/hashrate2.png"></a>
 

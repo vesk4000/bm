@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Learn about the best Bitcoin mining software
-permalink: /bitcoin-mining-software/
 toc:
   nc: Network Consensus
   bw: Bitcoin Wallet Software
