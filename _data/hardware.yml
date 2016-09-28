@@ -117,16 +117,8 @@
     dev_friendly: GPL infringement
     gsg: https://www.bitcoinmining.com/antminer-s3-bitcoin-miner-setup/
     buy: http://geni.us/37CM
-<<<<<<< HEAD
-<<<<<<< HEAD
-    btcpm: 0.3994
+    btcpm: 0.1665
     img: bitcoin-miner-antminer-s7-small.jpg
-=======
-=======
->>>>>>> origin/gh-pages
-    btcpm: .1665
-    img: bitcoin-miner-antminer-s7.jpg
->>>>>>> origin/gh-pages
     cat: featured
     weight: 8.8 pounds
 -
@@ -1125,16 +1117,8 @@
     dev_friendly: code, samples
     gsg: https://www.bitcoinmining.com/spondoolies-tech-SP20-bitcoin-miner-setup/
     buy: http://geni.us/3mnh
-<<<<<<< HEAD
-<<<<<<< HEAD
-    btcpm: 0.1593
-    img: bitcoin-miner-spondoolies-small.jpg
-=======
-=======
->>>>>>> origin/gh-pages
     btcpm: 0.0599
-    img: bitcoin-miner-spondoolies.jpg
->>>>>>> origin/gh-pages
+    img: bitcoin-miner-spondoolies-small.jpg
     cat: featured
     weight: 20 pounds
 -
