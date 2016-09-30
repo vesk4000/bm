@@ -7,7 +7,7 @@ published: true
 ---
 
 <h2>You Don't Have To Own Bitcoin To Profit From Them</h2>
-<p>Bitcoin is an incredible movement. This new crypto-currency has caught the attention of many, and for good reason. Bitcoin is essentially a bet against central banks. A bet that financial markets will level themselves. But that's a different story entirely.
+<p>Bitcoin is an incredible movement. This new crypto-currency has caught the attention of many and for good reason. Bitcoin is essentially a bet against central banks. A bet that financial markets will level themselves. But that's a different story entirely.
 <p>Today, we're going to talk about something I get asked quite a bit. That question is, “Do I have to own bitcoin to profit from the currency?”
 <p>The answer is no! Today, we'll talk about why bitcoin is actually a great asset for derivative investments like <a href="http://www.thebinaryadvisor.com/binary-options/">binary options</a>. 
 <h2>Why Do I Get Asked This Question In The First Place</h2>
