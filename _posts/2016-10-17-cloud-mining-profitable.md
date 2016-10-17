@@ -40,7 +40,7 @@ Let’s put one of the most profitable cloud mining companies to the test  - <a 
 If you go to [the company’s pricing page](http://geni.us/advendorhf1) and purchase 10Th/s of Bitcoin mining power (SHA-256) it will cost you $1,200 or the equivalent in Bitcoins around October 17, 2016. 
 If I use a Bitcoin mining calculator and try to predict my profits with 10Th/s of mining power assuming I have no other expenses I get the following results:
 
-<center><img src="/images/mining_profits.png"></center>
+<center><img src="/images/mining-profits.png"></center>
 
 So after one month I make around 0.34172190 Bitcoins (~$217), meaning after 1 year I will make around 4.1 Bitcoins. 
 Seems pretty profitable, this means that I’ll break even after about six months and from there on it’s pure profit.
