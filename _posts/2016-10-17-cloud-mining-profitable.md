@@ -2,46 +2,48 @@
 layout: post
 title: Is Bitcoin Cloud Mining Actually Profitable?
 author: Ofir Beigel
-authorurl: /
+authorurl: https://www.weusecoins.com/ofir-beigel/
 published: true
 ---
 
-A lot of people wished they hadn’t missed the Bitcoin mining bus before the great Bitcoin boom started back in 2013. 
+Many people wished they had not missed the Bitcoin mining bus before the great Bitcoin boom started back in 2013. 
 Back then you could mine Bitcoins pretty easily at home and make a very nice profit on the exchange rate.
 
-However since then, the mining difficulty has increased immensely and today it’s almost impossible to [mine Bitcoin profitably at home](/getting-started/) with your own hardware. 
+However since then, the mining difficulty has increased immensely and today it is almost impossible to [mine Bitcoin profitably at home](/getting-started/) with your own hardware. 
 The only exception is if you have very low electricity costs and manage to mine efficiently for at least 6 months without any major changes in this competitive landscape.
 
-##And that’s one of the reasons cloud mining was born
+## And that’s one of the reasons cloud mining was born
 A seemingly sophisticated way to allow people to jump on the Bitcoin mining bus without the need of costly expenses. 
-With cloud mining you can “rent” mining equipment from a company that will give you back the profits from your rented mining rigs.
+With cloud mining you can <i>rent</i> mining equipment from a company that will give you back the profits from your rented mining rigs.
 
-You don’t need to deal with the electricity costs, cooling down the miners or storing them, all you need to do is send out a periodical payment and you’re all set.
+You do not need to deal with the electricity costs, cooling down the miners or storing them, all you need to do is send out a periodical payment and you are all set.
 Of course this cloud mining idea quickly took off as people are always looking for new ways to make money online, however how legit and profitable are these cloud mining contracts? 
 That’s exactly what I’m about to unveil in the following post.
 
-##99% of cloud mining companies are complete a Ponzi scheme
-How do I know this? Well, I run a website dedicated to helping people get started with Bitcoin and every day I get another complaint about another cloud mining company that doesn’t pay and the website seems to have gone away.
-Even Gavin Andresen, the previous chief scientist of the Bitcoin foundation [once said](https://www.reddit.com/r/Bitcoin/comments/2d8vhc/do_mining_contracts_ever_make_sense/):
+<img width="700" height="247" src="/images/bitcoin-cloud-mining-scams.jpg" class="aligncenter" alt="bitcoin cloud mining scams"/>
+
+## 99% of cloud mining companies are complete a Ponzi scheme
+How do I know this? Well, I run a website dedicated to helping people get started with Bitcoin and every day I get another complaint about another cloud mining company that does not pay and the website seems to have gone away.
+Even Gavin Andresen, the previous chief scientist of the Bitcoin Foundation who has now been widely discredited because of his involvement with the charlatan Craig Wright, [once said](https://www.reddit.com/r/Bitcoin/comments/2d8vhc/do_mining_contracts_ever_make_sense/):
 
 <i>“I suspect many of them will turn out to be Ponzi schemes.”</i>
 
-Also just looking at our [cloud mining reviews](/best-bitcoin-cloud-mining-contract-reviews/) page you can see the amount of fraud and companies that fail to payout.
+Also just looking at our [cloud mining reviews](/best-bitcoin-cloud-mining-contract-reviews/) page you can see the amount of <a href="https://www.weusecoins.com/bitcoin-scams-how-stay-safe/">fraud</a> and companies that fail to payout.
 
 When consider a cloud mining company make sure to due your due diligence on every company you think of investing in. 
-One the tools created for this task is the [Bitcoin scam test](https://99bitcoins.com/bitcoin-scam-test/). <b>If it doesn’t pass the test - don’t invest.</b>
+One the tools created for this task is the [Bitcoin scam test](https://99bitcoins.com/bitcoin-scam-test/). <b>If it does not pass the test - do not invest.</b>
 
 But even if you do find a legit cloud mining company is it really worth your money? 
-Let’s put one of the most profitable cloud mining companies to the test  - Hashflare
+Let’s put one of the most profitable cloud mining companies to the test  - <a href="http://geni.us/advendorhf1">Hashflare</a>
 
-##Doing the math
-If you go to [the company’s pricing page](https://hashflare.io/panel/upgrade?target=sha#sha) and purchase 10Th/s of Bitcoin mining power (SHA-256) it will cost you $1200 or the equivalent in Bitcoins at the time of writing this post. 
+## Doing the math
+If you go to [the company’s pricing page](http://geni.us/advendorhf1) and purchase 10Th/s of Bitcoin mining power (SHA-256) it will cost you $1,200 or the equivalent in Bitcoins around October 17, 2016. 
 If I use a Bitcoin mining calculator and try to predict my profits with 10Th/s of mining power assuming I have no other expenses I get the following results:
 
 <center><img src="/images/mining_profits.png"></center>
 
-So after 1 month I make around 0.34172190 Bitcoins (~$217), meaning after 1 year I’ll make around 4.1 Bitcoins. 
-Seems pretty profitable, this means that I’ll break even after about 6 months and from there on it’s pure profit.
+So after one month I make around 0.34172190 Bitcoins (~$217), meaning after 1 year I will make around 4.1 Bitcoins. 
+Seems pretty profitable, this means that I’ll break even after about six months and from there on it’s pure profit.
 
 But here’s the kicker, something called MEF - Maintenance and Electricity Fees. For Hashflare they are as followed:
 The MEF is linear and equals 0.0045 USD per every 10 GH/s of SHA-256 and 0.01 USD per every 1 MH/s of Scrypt. 
@@ -65,7 +67,7 @@ However, the examples given above are actually the best case scenario where the 
 Most of the cloud mining site today are unfortunately Ponzi schemes masquerading as legit investments. 
 Usually they’ll just take money from newcomers and pay it out to senior members and themselves until this whole scheme finally falls apart and the site goes down.
  
-Bottom line - Cloud mining companies are like a casino - the house always wins. 
-If you do start making profits with them it’s after a very long and risky period in which Bitcoin’s price probably went up and you could have made more money by just HODLing.
+Bottom line - Cloud mining companies are usually always like a casino - the house always wins. 
+If you do start making profits with them it is after a very long and risky period in which Bitcoin’s price probably went up and you could have made more money by just <b>HODLing</b>.
 
-Be careful with your coins!
+Be careful with your bitcoins!
