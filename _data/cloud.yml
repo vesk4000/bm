@@ -13,6 +13,13 @@
    desc_eth: "Genesis Mining is the largest Ether cloud mining provider. Ethereum cloud mining contracts cost 1MH/s = $37 (1 Year Ether Mining), 25 MH/s= $925  (1 Year Ether Mining) and 100 MH/s= $3700 (1 Year Ether Mining)."
    desc_general: <a href="http://geni.us/advendorgm">Genesis Mining</a> is the largest Bitcoin and scrypt cloud mining provider.
    
+ - company: Minex Review
+   url: http://geni.us/minex
+   desc_btc: Minex is an innovative aggregator of blockchain projects presented in an economic simulation game format. Users purchase Cloudpacks which can then be used to build an index from pre-picked sets of cloud mining farms, lotteries, casinos, real-world markets and much more.
+   desc_ltc: Minex is an innovative aggregator of blockchain projects presented in an economic simulation game format. Users purchase Cloudpacks which can then be used to build an index from pre-picked sets of cloud mining farms, lotteries, casinos, real-world markets and much more.
+   desc_eth: Minex is an innovative aggregator of blockchain projects presented in an economic simulation game format. Users purchase Cloudpacks which can then be used to build an index from pre-picked sets of cloud mining farms, lotteries, casinos, real-world markets and much more.
+   desc_general: Minex is an innovative aggregator of blockchain projects presented in an economic simulation game format. Users purchase Cloudpacks which can then be used to build an index from pre-picked sets of cloud mining farms, lotteries, casinos, real-world markets and much more.
+   
  - company: Minergate Review
    url:
    desc_general: MinerGate is a mining pool created by a group of cryptocoin enthusiasts. It is the first pool which provides service for merged mining. This means that while mining on our pool you can mine different coins simultaniously without decrease of hashrate for major coin.
