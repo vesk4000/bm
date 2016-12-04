@@ -50,7 +50,7 @@ Software development, writing, design, making websites or apps, audio transcript
 <li><a href="https://openbazaar.org/">OpenBazaar</a></li>
 <li><a href="https://purse.io/merchants/">Purse.io</a></li>
 <li><a href="https://bitify.com/">Bitify</a></li>
-<li><a href="/r/bitmarket">/r/bitmarket</a></li>
+<li><a href="https://www.reddit.com/r/bitmarket">/r/bitmarket</a></li>
 <li><a href="https://21.co/mkt/">21 Market</a></li>
 </ul>
 
@@ -59,8 +59,6 @@ Software development, writing, design, making websites or apps, audio transcript
 <ul>
 <li><a href="http://www.watchmybit.com/">Watchmybit</a></li>
 <li><a href="https://streamium.io/">Streamium.io</a></li>
-<li><a href="https://otika.tv/">OTika.tv</a></li>
-<li><a href="https://xotika.tv/">XOtika.tv</a> NSFW</li>
 </ul>
 
 <p><strong>Tasks</strong></p>
@@ -87,7 +85,7 @@ Software development, writing, design, making websites or apps, audio transcript
 <li><a href="https://coinzilla.io/">Coinzilla.io</a></li>
 </ul>
 
-<p>Also, check <a href="/r/BitcoinGames">/r/BitcoinGames</a> for ideas on earning bitcoin and blockchain game assets.</p>
+<p>Also, check <a href="https://www.reddit.com/r/BitcoinGames">BitcoinGames</a> for ideas on earning bitcoin and blockchain game assets.</p>
 
 
 <h3 id="sll">Sell for bitcoin</h3>
@@ -133,7 +131,7 @@ Currently, based on (1) price per hash and (2) electrical efficiency the best Bi
 </div>
 
 
-<h3 id="clf">Cloud Mining</h3>
+<h3 id="cld">Cloud Mining</h3>
 There are a number of service providers that allow you to rent computational hardware from them, which can then be used to do bitcon mining. Some of these services are designed with bitcoin mining in mind, whereas others such as Amazon AWS are general purpose services that can also be used to do bitcoin mining.  
 
 Some of the cloud mining services which can be used to do bitcoin mining on the cloud are:
