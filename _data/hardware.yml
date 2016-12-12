@@ -122,6 +122,27 @@
     cat: featured
     weight: 8.8 pounds
 -
+    product: AntMiner S9
+    advertised_mhashs: 13,500,000
+    advertised_ghashs: 13,500
+    advertised_thashs: 13.5
+    mhashJ: 4000
+    ghashJ: 4
+    mhash_s_usd: 2666
+    ghash_s_usd: 2.666
+    watts: 1,372
+    powerefficiencywgh: 0.98
+    priceusd: 2,279.95
+    currently_shipping: Yes
+    comm_ports: Ethernet
+    dev_friendly: GPL infringement
+    gsg: https://www.bitcoinmining.com/antminer-s3-bitcoin-miner-setup/
+    buy: http://geni.us/antminers9search
+    btcpm: 0.3603
+    img: bitcoin-miner-antminer-s9.jpg
+    cat: featured
+    weight: 8.1 pounds
+-
     product: AntMiner U1 
     advertised_mhashs: 1,600
     advertised_ghashs: 2
@@ -1119,7 +1140,7 @@
     buy: http://geni.us/3mnh
     btcpm: 0.0599
     img: bitcoin-miner-spondoolies-small.jpg
-    cat: featured
+    cat:
     weight: 20 pounds
 -
     product: Spondooliestech SP30 Yukon
