@@ -1,6 +1,6 @@
 # Contribute Articles to Bitcoin Mining
 
-BM is one of the highest profile and visited websites in Bitcoin. Our video What Is Bitcoin Mining? has had over 1.2 million views. We want BM to be a classy resource to introduce people to the concept of crypto-currency. You can responsibly leverage BM to build your Bitcoin business! For example, you could use WUC for your blog which would have several advantages such as higher search engine visibility and extremely optimized hosting.<p>
+<p><a href="https://www.bitcoinmining.com/">Bitcoin Mining</a> is one of the highest profile and visited websites in Bitcoin. Our <a href="https://www.youtube.com/watch?v=Um63OQz3bjo">video</a> <a href="https://www.youtube.com/watch?v=Gc2en3nHxA4">What Is Bitcoin?</a> has had over 7.5 million views and <a href="https://www.youtube.com/watch?v=GmOzih6I1zs">What Is Bitcoin Mining?</a> has had over 2 million views. We want <a href="http://bitcoinminer.com/">BM</a> to be a classy resource to introduce people to the concept of crypto-currency. You can responsibly leverage BM to build your Bitcoin business! For example, you could use WUC for your blog which would have several advantages such as higher search engine visibility and extremely optimized hosting.<p>
 <h2>Earn Money Contributing</h2>
 <p>Due to a generous donation there is a budget for content creation. The goal is to pay about $25/hour of work for new articles. Want to earn money submitting new articles?
 <p>Follow the instructions below and submit an article. If the pull request gets merged then you will get paid $25 via bitcoins. To get paid you will need to contact Trace Mayer either in the WeUseCoins Slack (send an email request to advertising@weusecoins.com) or <a href="https://bitcoincore.slack.com/signup">Bitcoin Core Slack</a> channel (@TraceMayer). Future articles can then be assigned so you can earn more!
@@ -15,10 +15,10 @@ To increase the probability of success please follow these guidelines:
 ### Writing Articles For BM<p>
 1. Create an objective article in the _posts folder<p>
 2. Use the Year-Month-Date in the file name. Ex. 2015-1-23-bitcoin.md<p>
-3. Length should be 500-1,200 words. However, the main criteria is quality and usefulness. Do not be afraid to create a 5,000 word guide if it is awesome.
+3. Length should be 500-1,200 words. However, the main criteria is quality and usefulness. Do not be afraid to create a 5,000 word <a href="https://www.bitcoinmining.com/best-bitcoin-cloud-mining-contract-reviews/">guide</a> if it is awesome.
 4. Even better, develop a <b>content creation plan</b>. Take advantage of the ZMOT with a [hub and spoke model](http://www.verticalmeasures.com/content-strategy/build-your-content-marketing-around-a-hub-and-spoke-model/).
 5. Perform at least basic Search Engine Optimization (Ex. [Free Tool](http://www.weusecoins.com/en/questions/)).<p>
-6. Link to and from other relevant pages on weusecoins.com like the extensive [FAQ](https://www.weusecoins.org/en/questions/)<p>
+6. Link to and from other relevant pages on <a href="https://www.weusecoins.com/">weusecoins.com</a> like the extensive [FAQ](https://www.weusecoins.org/en/questions/)<p>
 7. Optimize images (Ex. [Kraken.io](http://www.kraken.io))<p>
 8. Find websites that will link to the article<p>
 9. Mention the article on social media like Twitter, Facebook, Reddit, etc.<p>
