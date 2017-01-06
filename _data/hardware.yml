@@ -131,7 +131,7 @@
     mhash_s_usd: 2666
     ghash_s_usd: 2.666
     watts: 1,372
-    powerefficiencywgh: 0.98
+    powerefficiencywgh: 0.098
     priceusd: 2,279.95
     currently_shipping: Yes
     comm_ports: Ethernet
