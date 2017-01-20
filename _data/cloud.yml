@@ -12,6 +12,11 @@
    desc_ltc: Genesis Mining offers Litecoin cloud mining contracts.
    desc_eth: "Genesis Mining is the largest Ether cloud mining provider. Ethereum cloud mining contracts cost 1MH/s = $37 (1 Year Ether Mining), 25 MH/s= $925  (1 Year Ether Mining) and 100 MH/s= $3700 (1 Year Ether Mining)."
    desc_general: <a href="http://geni.us/advendorgm">Genesis Mining</a> is the largest Bitcoin and scrypt cloud mining provider.
+
+ - company: Hashing 24 Review
+   url: http://geni.us/hashing24
+   desc_btc: "Hashing24 has been involved with Bitcoin mining since 2012. They have facilities in Iceland and Georgia. They use modern ASIC chips from BitFury deliver the maximum performance and efficiency possible."
+   desc_general: "Hashing24 has been involved with Bitcoin mining since 2012. They have facilities in Iceland and Georgia. They use modern ASIC chips from BitFury deliver the maximum performance and efficiency possible."
    
  - company: Minex Review
    url: http://geni.us/minex
