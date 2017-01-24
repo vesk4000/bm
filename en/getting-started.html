@@ -11,6 +11,7 @@ toc:
   dms: Download Bitcoin Mining Software
   mp: Join a Bitcoin Mining Pool
   bw: Set Up A Bitcoin Wallet
+  news: Bitcoin News
 ---
 
 <h1>Bitcoin Mining Guide - Getting started with Bitcoin mining</h1>
@@ -97,3 +98,13 @@ You will learn <b>(1)</b> how bitcoin mining works, <b>(2)</b> how to start mini
 <li><a href="https://www.weusecoins.com/en/how-buy-bitcoins-online-best-bitcoin-exchange-rate-bitcoin-price/">Buying Bitcoin Guide</a> - Get help finding a Bitcoin exchange in your country.</li>
 <li><a href="http://geni.us/localbitcoins">Local Bitcoins</a> - This fantastic service allows you to search for people in your community willing to sell bitcoins to you directly. But be careful!</li>
 </ul>
+
+<h2 id="news"><em><b>Step 5</b> - Stay Up To Date With Bitcoin News</em></h2>
+<p>Staying up to date with Bitcoin news is important for your bitcoin mining profits. If you want general Bitcoin news then we recommend the <a href="https://www.weusecoins.com/news/">WeUseCoins news</a> section.
+<p>There is the <a href="/news/">Bitcoin Mining News Section</a> and these are the 5 most recent articles:
+  <ul>
+    {% for post in site.posts limit:10 %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+<ul>

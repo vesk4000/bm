@@ -11,7 +11,17 @@ toc:
   archive: Archive
 ---
 
+<p>Read the ten most recent Bitcoin Mining news articles or review the <a href="#archive">Archives</a>.
+
+  <ul>
+    {% for post in site.posts limit:10 %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
 {% include page-toc.html %}
+
+<p>Bitcoin has been in the news and discussed by many technological and political leaders. It has made international news with major countries declaring it legal and starting to regulate it including the United States, Russia, China, United Kingdom, Europe and Japan.
 
 Your journey to Bitcoin Mining has begun. We hope you find these articles very interesting and inspiring:
 
