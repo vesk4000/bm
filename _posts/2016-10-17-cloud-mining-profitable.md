@@ -31,7 +31,7 @@ Even Gavin Andresen, the previous chief scientist of the Bitcoin Foundation who 
 Also just looking at our [cloud mining reviews](/best-bitcoin-cloud-mining-contract-reviews/) page you can see the amount of <a href="https://www.weusecoins.com/bitcoin-scams-how-stay-safe/">fraud</a> and companies that fail to payout.
 
 When consider a cloud mining company make sure to due your due diligence on every company you think of investing in. 
-One the tools created for this task is the [Bitcoin scam test](https://99bitcoins.com/bitcoin-scam-test/). <b>If it does not pass the test - do not invest.</b>
+One the tools created for this task is the [Bitcoin scam test](https://www.weusecoins.com/avoid-bitcoin-cloud-mining-scams/). <b>If it does not pass the test - do not invest.</b>
 
 But even if you do find a legit cloud mining company is it really worth your money? 
 Let’s put one of the most profitable cloud mining companies to the test  - <a href="http://geni.us/advendorhf1">Hashflare</a>
@@ -53,7 +53,7 @@ So let’s go back to our investment and calculate in the fees. 0.0045USD per 10
 So in one month this adds up to $135. So now we’re making only $82/m and are breaking even in about 15 months. 
 If everything stayed constant in the Bitcoin universe I’d only get my money back after a year and 3 months. 
 After that I’d be doing $82/m in revenue which is 6.8% monthly interest. 
-However, if you take a look at [Bitcoin’s historical price figures](https://99bitcoins.com/price-chart-history/) you see that nothing ever stays constant for such a long time. 
+However, if you take a look at [Bitcoin’s historical price figures](https://www.weusecoins.com/modeling-bitcoin-price/) you see that nothing ever stays constant for such a long time. 
 Exchange rates will fluctuate and mining difficulty will probably increase. 
 
 Assuming the BTC exchange rate rises you’ll be making more money and so will the mining company. 

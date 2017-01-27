@@ -58,7 +58,7 @@ According to <a href="https://www.weusecoins.com/bitgold-filing.pdf">page 20 of 
 
 <h2 id="is-bitgold-financially-solid">Is Bitgold financially solid?</h2>
 
-On May 27, 2015 there was a <a href="https://www.bullionvault.com/gold-news/bitgold-goldmoney-052720152">very thorough article</a> by Bullionvault CEO Paul Tustain on the <a href="https://bitcoinmagazine.com/20291/bitgold-announces-bitcoin-like-system-gold-storage-payments/">Bitgold</a> and Goldmoney merger where he raises very interesting points about the financial stability of the <a href="http://www.runtogold.com/goldmoney/bitgold-review/">Bitgold</a> and Goldmoney combination and presents a three year comparison chart between competitors Bullionvault and Goldmoney.
+On May 27, 2015 there was a very thorough article by Bullionvault CEO Paul Tustain on the <a href="https://bitcoinmagazine.com/20291/bitgold-announces-bitcoin-like-system-gold-storage-payments/">Bitgold</a> and Goldmoney merger where he raises very interesting points about the financial stability of the <a href="http://www.runtogold.com/goldmoney/bitgold-review/">Bitgold</a> and Goldmoney combination and presents a three year comparison chart between competitors Bullionvault and Goldmoney.
 
 <blockquote>Those results made scary reading.
 <ul><li>GoldMoney's sales have collapsed – by 78.7% over three years.</li>
