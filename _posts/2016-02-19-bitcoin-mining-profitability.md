@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bitcoin Mining Profitability
+description: Most Bitcoin mining hardware appears profitable at first glance.
 author: Jordan Tuwiner
 authorurl: https://www.jordantuwiner.com/
 published: true
