@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bitcoin Mining Heart Attack
+description: The only ironclad solution is to replace the sudden halving of the Bitcoin coinbase with a continuous, gradual decrease.
 author: Bitcoin Mining
 authorurl: /
 published: true
