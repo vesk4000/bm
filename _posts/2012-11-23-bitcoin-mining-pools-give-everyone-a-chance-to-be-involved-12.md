@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bitcoin Mining Pools Give Everyone a Chance To Be Involved
+description: A bitcoin mining pool is definitely something you should look into.
 author: Bitcoin Mining
 authorurl: /bitcoin-mining-pools-give-everyone-a-chance-to-be-involved-12
 published: true
