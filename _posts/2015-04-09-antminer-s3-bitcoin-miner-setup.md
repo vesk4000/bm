@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Antminer S5 and S3 - Bitcoin Mining Setup
+description: The AntMiner S5 is about four times more powerful than the AntMiner S3 but otherwise they are very similar. 
 author: Bitcoin Mining
 authorurl: /
 published: true
