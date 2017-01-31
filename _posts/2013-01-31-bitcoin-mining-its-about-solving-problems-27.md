@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bitcoin Mining – It’s About Solving Problems
+description: The discovery of bitcoins is itself called solving a block.
 author: Bitcoin Mining
 authorurl: /bitcoin-mining-its-about-solving-problems-27/
 published: true
