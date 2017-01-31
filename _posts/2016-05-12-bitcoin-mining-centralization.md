@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bitcoin Mining Centralization
+description: Bitcoin community has pushed developers and pool owners to create new solutions
 author: Jordan Tuwiner
 authorurl: https://www.jordantuwiner.com/
 published: true

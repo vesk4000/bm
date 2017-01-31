@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Learn How To Mine Bitcoins
+description: Want to learn how to mine bitcoins? First, mining bitcoins is done via SHA256.
 author: Bitcoin Mining
 authorurl: /
 published: true

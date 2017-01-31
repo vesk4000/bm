@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Banks and Brokerages Should Be Mining The Blockchain
+description: The blockchain is an ideal platform to build these sorts of applications (clearing, settlement, etc) on.
 author: Bitcoin Mining
 authorurl: /banks-and-brokerages-should-be-mining-the-blockchain/
 published: true

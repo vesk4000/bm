@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bitcoins May Be Virtual, But They’re Very Very Real
+description: Bitcoins may not be coins, per se, but they can be used to buy and sell products and services around the world. 
 author: Bitcoin Mining
 authorurl: /bitcoins-may-be-virtual-but-theyre-very-very-real-6/
 published: true
