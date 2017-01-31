@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Certain Traits Necessary For Bitcoin Mining Success
+description: There are certain personality traits that would adapt very well to the avocation of bitcoin mining. 
 author: Bitcoin Mining
 authorurl: /certain-traits-necessary-for-bitcoin-mining-success-21/
 published: true
