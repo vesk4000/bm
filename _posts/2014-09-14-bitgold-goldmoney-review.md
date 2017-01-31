@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bitgold Review - GoldMoney Review - What to beware of!
+description: Bitgold is a brand new platform for that intends to offer gold payments to customers.
 author: BitcoinMining
 authorurl: /
 published: true
