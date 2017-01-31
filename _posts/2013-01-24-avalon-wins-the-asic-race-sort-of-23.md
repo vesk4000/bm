@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Avalon Wins the ASIC Race – Sort Of
+description: Bitcoin Magazine has already dubbed Avalon the winner of the ASIC race
 author: Bitcoin Mining
 authorurl: /avalon-wins-the-asic-race-sort-of-23/
 published: true
