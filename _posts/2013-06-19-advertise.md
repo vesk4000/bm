@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Become A Sponsor and Advertise
+description: To ensure sustainability we accept advertising and sponsorship.
 author: Sponsorships
 authorurl: /
 published: true
