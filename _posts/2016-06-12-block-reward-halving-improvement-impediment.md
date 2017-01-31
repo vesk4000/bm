@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Will Bitcoin Block Reward Halving Prove an Improvement or an Impediment for Bitcoin?
+description: The Bitcoin block reward, currently at 25 bitcoins per block
 author: Bitcoin Mining
 authorurl: /
 published: true
