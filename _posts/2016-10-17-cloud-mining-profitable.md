@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Is Bitcoin Cloud Mining Actually Profitable?
+description: Bitcoins pretty easily at home and make a very nice profit on the exchange rate.
 author: Ofir Beigel
 authorurl: https://www.weusecoins.com/ofir-beigel/
 published: true
