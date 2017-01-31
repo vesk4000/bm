@@ -52,4 +52,4 @@ Mining farms in hot areas will overheat and require large amounts of cooling fan
 
 Large mining operations have employees working 24/7 to ensure that all hardware is working properly. A few hours offline could be the difference between thousands of dollars in profits.
 
-Now that you understand the many factors that will affect your mining profitability, plug in some numbers to any Bitcoin mining calculator. Multiple calculators should be used ([1](http://www.coinwarz.com/calculators/bitcoin-mining-calculator), [2](https://tradeblock.com/bitcoin/mining/), [3](http://www.bitcoinx.com/profit/) options) to get the most accurate data.
+Now that you understand the many factors that will affect your mining profitability, plug in some numbers to any Bitcoin mining calculator. Multiple calculators should be used ([1](http://www.coinwarz.com/calculators/bitcoin-mining-calculator),[2](https://99bitcoins.com/c/btc/mining), [3](https://tradeblock.com/bitcoin/mining/), [4](http://www.bitcoinx.com/profit/) options) to get the most accurate data.
