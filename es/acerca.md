@@ -1,5 +1,7 @@
 ---
 layout: default
+title: BitcoinMining.com es un sitio web dedicado
+description: BitcoinMining.com es un sitio web dedicado a hacer que la minería de Bitcoins
 ---
 <p>BitcoinMining.com es un sitio web dedicado a hacer que la minería de Bitcoins sea más fácil de entender y más accesible para principiantes. Nos esforzamos para proporcionar la información lo más actualizada posible acerca de la minería de Bitcoin a la par que facilitamos la iniciación a la minería para principiantes.</p>
 
