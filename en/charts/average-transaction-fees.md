@@ -1,5 +1,6 @@
 ---
 title: Average Transaction Fees
+description: Average Transaction Fees
 chart: true
 charts:
   - averageTransactionFees
