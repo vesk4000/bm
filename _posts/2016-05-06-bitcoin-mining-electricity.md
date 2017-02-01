@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Is Bitcoin Mining a Waste of Electricity?
+description: Is Bitcoin Mining a Waste of Electricity?
 author: Jordan Tuwiner
 authorurl: https://www.jordantuwiner.com/
 published: true
