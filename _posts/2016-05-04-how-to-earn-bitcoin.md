@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to earn Bitcoin?
+description: How to earn Bitcoin?
 author: Bitcoin Mining
 authorurl: /
 published: true
