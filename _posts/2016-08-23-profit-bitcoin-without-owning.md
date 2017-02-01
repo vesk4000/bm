@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How To Profit From Bitcoin Without Owning Them
+description: How To Profit From Bitcoin Without Owning Them
 author: Bitcoin Mining
 authorurl: /
 published: true
