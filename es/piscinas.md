@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Learn about Bitcoin mining pools
+title: Aprender acerca de los fondos de minería Bitcoin
+description: Aprender acerca de los fondos de minería Bitcoin
 toc:
   nc: Network Consensus
   bmp: Bitcoin Mining Pools
