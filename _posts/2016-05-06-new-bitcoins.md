@@ -1,8 +1,9 @@
 ---
 layout: post
 title: How are New Bitcoins Created and Generated?
-author: Jordan Tuwiner
-authorurl: https://www.jordantuwiner.com/
+description: How are New Bitcoins Created and Generated?
+author: Melvin Draupnir
+authorurl: https://www.weusecoins.com/melvin-draupnir/
 published: true
 seotitle: How are New Bitcoins Generated and Created?
 permalink: "/how-are-new-bitcoins-created/"

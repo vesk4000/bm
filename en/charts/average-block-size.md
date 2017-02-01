@@ -1,5 +1,6 @@
 ---
 title: Average Block Size
+description: Average Block Size
 chart: true
 charts:
   - averageBlockSize

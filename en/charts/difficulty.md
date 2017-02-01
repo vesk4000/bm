@@ -1,5 +1,6 @@
 ---
-title: Difficulty
+title: Charts - Difficulty
+description: Charts - Difficulty
 chart: true
 charts:
   - difficulty

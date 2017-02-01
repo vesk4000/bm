@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How Does MetaTrader 4 For Mac Match Up?
+description: How Does MetaTrader 4 For Mac Match Up?
 author: MetaTrader 4
 authorurl: /
 published: true

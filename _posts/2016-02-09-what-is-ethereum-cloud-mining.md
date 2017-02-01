@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is Ethereum cloud mining?
+description: What is Ethereum cloud mining?
 author: Ethereum Cloud Mining
 authorurl: /what-is-ethereum-cloud-mining/
 published: true

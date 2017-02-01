@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How To Setup Bitcoin Mining Hardware Bitmain Antminer S7 S5 and S3
+description: How To Setup Bitcoin Mining Hardware Bitmain Antminer S7 S5 and S3
 author: Bitcoin Mining
 authorurl: /
 published: true

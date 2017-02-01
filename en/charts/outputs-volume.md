@@ -1,5 +1,6 @@
 ---
 title: Outputs Volume
+description: Outputs Volume
 chart: true
 charts:
   - outputsVolume

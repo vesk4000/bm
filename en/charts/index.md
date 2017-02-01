@@ -1,5 +1,6 @@
 ---
-title: Charts
+title: Charts -Charts
+description: Charts - Charts
 ---
 {% assign charts = site.pages|where:'chart','true'|where:'lang',page.lang %}
 

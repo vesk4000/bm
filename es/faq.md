@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Bitcoin Mining FAQ
+title: Bitcoin Minería Preguntas Frecuentes
+description: Bitcoin Minería Preguntas Frecuentes
 ---
 
 <h2>Table of contents</h2>

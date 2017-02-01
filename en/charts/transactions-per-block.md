@@ -1,5 +1,6 @@
 ---
 title: Transactions per Block
+description: Transactions per Block
 chart: true
 charts:
   - transactionsPerBlock

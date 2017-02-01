@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is Proof of Work
+description: What is Proof of Work
 author: Bitcoin Mining
 authorurl: /
 published: true

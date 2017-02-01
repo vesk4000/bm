@@ -1,5 +1,6 @@
 ---
 title: Transactions per Day
+description: Transactions per Day
 chart: true
 charts:
   - transactionsPerDay

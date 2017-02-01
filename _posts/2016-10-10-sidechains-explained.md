@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sidechains Explained
+description: Sidechains Explained
 author: Bitcoin Mining
 authorurl: /
 published: true

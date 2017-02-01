@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Conviértase en un patrocinador y anúnciese
+description: Conviértase en un patrocinador y anúnciese
 author: Sponsorships
 authorurl: /
 published: true

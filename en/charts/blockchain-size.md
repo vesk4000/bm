@@ -1,5 +1,6 @@
 ---
 title: Blockchain Size
+description: Blockchain Size
 chart: true
 charts:
   - blockchainSize

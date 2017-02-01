@@ -1,5 +1,6 @@
 ---
 title: Erste Schritte zum Bitcoinmining
+description: Erste Schritte zum Bitcoinmining
 toc:
   wie-bitcoin-mining-funktioniert: Wie Bitcoinmining funktioniert
   schritt-1---besorge-dir-die-beste-mininghardware: Besorge dir die beste Mininghardware

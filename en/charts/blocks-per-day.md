@@ -1,5 +1,6 @@
 ---
 title: Blocks per Day
+description:  Blocks per Day
 chart: true
 charts:
   - blocksPerDay

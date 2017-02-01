@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is DASH mining?
+description: What is DASH mining?
 author: DASH Mining
 authorurl: /what-is-dash-mining/
 published: true
