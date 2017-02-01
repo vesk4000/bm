@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Everything you need to know about Bitcoin mining
+title: Tudo o que você precisa saber sobre a mineração Bitcoin
+description: Tudo o que você precisa saber sobre a mineração Bitcoin
 toc:
   hwc: Mining Hardware Comparison
   wibm: What is Bitcoin Mining?
