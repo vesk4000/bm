@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How Does Bitcoin Mining Really Operate?
+description: How Does Bitcoin Mining Really Operate?
 author: Melvin Draupnir
 authorurl: https://www.weusecoins.com/melvin-draupnir/
 published: true
