@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ethereum (Ether) Mining
+description: Ethereum (Ether) Mining
 author: Jordan Tuwiner
 authorurl: https://www.jordantuwiner.com/
 published: true
