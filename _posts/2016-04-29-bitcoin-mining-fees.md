@@ -2,8 +2,8 @@
 layout: post
 title: How do Bitcoin Mining Fees Work?
 description: Miners need an incentive to pay for electricity and hardware costs.
-author: Jordan Tuwiner
-authorurl: https://www.jordantuwiner.com/
+author: Melvin Draupnir
+authorurl: https://www.weusecoins.com/melvin-draupnir/
 published: true
 seotitle: How Bitcoin Mining Fees Work
 permalink: "/bitcoin-mining-fees/"
