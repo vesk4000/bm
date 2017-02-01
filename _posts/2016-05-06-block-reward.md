@@ -2,8 +2,8 @@
 layout: post
 title: What is the Bitcoin Mining Block Reward?
 description: What is the Bitcoin Mining Block Reward?
-author: Jordan Tuwiner
-authorurl: https://www.jordantuwiner.com/
+author: Melvin Draupnir
+authorurl: https://www.weusecoins.com/melvin-draupnir/
 published: true
 seotitle: What is the Bitcoin Mining Block Reward?
 permalink: "/what-is-the-bitcoin-block-reward/"
