@@ -1,5 +1,6 @@
 ---
 title: Transaction Fees
+description: Transaction Fees
 chart: true
 charts:
   - transactionFees
