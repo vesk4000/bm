@@ -57,7 +57,23 @@ published: true
 
 <p>So you’re probably not going to get rich by mining Bitcoins at home unless you buy some heavy duty equipment and have very low electricity costs. Here’s a list of the most efficient Bitcoin mining hardware out there today. There’s not a lot of variety to pick from since home mining is a dying art.</p>
 
-<p><center><img src="/images/antminer-ofir-beigel.jpg" alt="antminer-ofir-beigel"/></center></p>
+<h2>Bitcoin Mining Hardware Comparison</h2>
+
+<p>Currently, based on <b>(1)</b> price per hash and <b>(2)</b> electrical efficiency the best Bitcoin miner options are:</p>
+
+<hr id="hwc" style="width: 100%; margin: 20px 0; color: #eee;" />
+
+<h2>Bitcoin Mining Hardware Comparison</h2>
+
+<p>Currently, based on <b>(1)</b> price per hash and <b>(2)</b> electrical efficiency the best Bitcoin miner options are:</p>
+
+<div class="hardware-comparison">
+{% for miner in site.data.hardware %}
+{% if miner.cat contains 'featured' %}
+{% include hardware-compare.html %}
+{% endif %}
+{% endfor %}
+</div>
 
 <p>So even though home mining is an expensive business there are still other option that may be relevant for you to get into the mining game at a lower cost.</p>
 
@@ -83,21 +99,5 @@ published: true
 
 <hr id="hwc" style="width: 100%; margin: 20px 0; color: #eee;" />
 
-<h2>Bitcoin Mining Hardware Comparison</h2>
 
-<p>Currently, based on <b>(1)</b> price per hash and <b>(2)</b> electrical efficiency the best Bitcoin miner options are:</p>
-
-<hr id="hwc" style="width: 100%; margin: 20px 0; color: #eee;" />
-
-<h2>Bitcoin Mining Hardware Comparison</h2>
-
-<p>Currently, based on <b>(1)</b> price per hash and <b>(2)</b> electrical efficiency the best Bitcoin miner options are:</p>
-
-<div class="hardware-comparison">
-{% for miner in site.data.hardware %}
-{% if miner.cat contains 'featured' %}
-{% include hardware-compare.html %}
-{% endif %}
-{% endfor %}
-</div>
 
