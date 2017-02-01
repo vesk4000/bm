@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Spondoolies-Tech SP20 Quick Start Guide
+description: Spondoolies-Tech SP20 Quick Start Guide
 author: Bitcoin Mining
 authorurl: /
 published: true
