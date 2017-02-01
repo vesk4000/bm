@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is Bitcoin Mining Difficulty
+description: What is Bitcoin Mining Difficulty
 author: Bitcoin Mining
 authorurl: /
 published: true
