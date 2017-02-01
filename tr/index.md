@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Bitcoin madenciliği hakkında bilmeniz gereken her şey
+description: Bitcoin madenciliği hakkında bilmeniz gereken her şey
 toc:
   mdk: Madencilik Donanımı Karşılaştırması
   bmn: Bitcoin Madenciliği Nedir?
