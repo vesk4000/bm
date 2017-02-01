@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Best Bitcoin Cloud Mining Contract Reviews
+title: Nube mejores Bitcoin Mining Contrato críticas
+description: Nube mejores Bitcoin Mining Contrato críticas
 toc:
   what-is-bitcoin-cloud-mining: What is Bitcoin Cloud Mining?
   what-are-bitcoin-cloud-mining-advantages: What are Bitcoin Cloud Mining Advantages?
