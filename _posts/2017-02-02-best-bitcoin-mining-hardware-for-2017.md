@@ -51,10 +51,6 @@ published: true
 
 <p>According to our calculations this miner should break even in about 24 months, making it a pretty risky investment. You can also connect up to 5 Avalon 721s in a row creating a powerful 30 TH/s mining rig.</p>
 
-<h2>Bitcoin Mining Hardware Comparison</h2>
-
-<p>Currently, based on <b>(1)</b> price per hash and <b>(2)</b> electrical efficiency the best Bitcoin miner options are:</p>
-
 <hr id="hwc" style="width: 100%; margin: 20px 0; color: #eee;" />
 
 <h2>Bitcoin Mining Hardware Comparison</h2>
