@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Learn about the best Bitcoin mining software
+title: Aprender sobre el mejor software de minería Bitcoin
+description: Aprender sobre el mejor software de minería Bitcoin
 toc:
   nc: Network Consensus
   bw: Bitcoin Wallet Software
