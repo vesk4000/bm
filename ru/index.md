@@ -1,5 +1,6 @@
 ---
-title: Everything you need to know about Bitcoin mining
+title: Все, что вам нужно знать о добыче Bitcoin
+decription: Все, что вам нужно знать о добыче Bitcoin
 ---
 
 <center>
