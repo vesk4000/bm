@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Some Fast Facts About Bitcoin Mining
+description: Some Fast Facts About Bitcoin Mining
 author: Bitcoin Mining
 authorurl: /some-fast-facts-about-bitcoin-mining-14/
 published: true
