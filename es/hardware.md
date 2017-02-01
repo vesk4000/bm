@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Learn about Bitcoin mining hardware
+title: Obtener información sobre el hardware de minería Bitcoin
+description: Obtener información sobre el hardware de minería Bitcoin
 ---
 
 <h1>Bitcoin Mining Hardware Guide</h1>
