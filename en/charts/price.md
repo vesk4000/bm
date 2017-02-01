@@ -1,5 +1,6 @@
 ---
 title: Bitcoin Price Chart
+description: Bitcoin Price Chart
 chart: true
 charts:
   - priceUSD
