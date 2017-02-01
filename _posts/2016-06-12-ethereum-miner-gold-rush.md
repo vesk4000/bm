@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ethereum's Gold Rush is Drawing Bitcoin Miners to Ethereum
+description: Ethereum's Gold Rush is Drawing Bitcoin Miners to Ethereum
 author: Bitcoin Mining
 authorurl: /
 published: true
