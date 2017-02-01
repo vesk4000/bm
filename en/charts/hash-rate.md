@@ -1,5 +1,6 @@
 ---
 title: Hash Rate
+description: Hash Rate
 chart: true
 charts:
   - hashRate
