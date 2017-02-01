@@ -1,6 +1,7 @@
 ---
 layout: post
 title: USB - Bitcoin Mining Setup Guide
+description: USB - Bitcoin Mining Setup Guide
 author: Bitcoin Mining
 authorurl: /
 published: true
