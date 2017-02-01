@@ -1,5 +1,6 @@
 ---
 title: Average Volume per Transaction
+description: Average Volume per Transaction
 chart: true
 charts:
   - averageVolumePerTransaction
