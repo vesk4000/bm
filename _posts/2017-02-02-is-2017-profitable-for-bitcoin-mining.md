@@ -81,6 +81,18 @@ published: true
 
 <p>I’d currently stay away from Altcoins but that’s my own personal opinion. If you don’t have the time or the money – stay away from mining and just invest in buying Bitcoins for the long run.</p>
 
+<hr id="hwc" style="width: 100%; margin: 20px 0; color: #eee;" />
+
+<h2>Bitcoin Mining Hardware Comparison</h2>
+
+<p>Currently, based on <b>(1)</b> price per hash and <b>(2)</b> electrical efficiency the best Bitcoin miner options are:</p>
+
+<hr id="hwc" style="width: 100%; margin: 20px 0; color: #eee;" />
+
+<h2>Bitcoin Mining Hardware Comparison</h2>
+
+<p>Currently, based on <b>(1)</b> price per hash and <b>(2)</b> electrical efficiency the best Bitcoin miner options are:</p>
+
 <div class="hardware-comparison">
 {% for miner in site.data.hardware %}
 {% if miner.cat contains 'featured' %}
@@ -88,5 +100,4 @@ published: true
 {% endif %}
 {% endfor %}
 </div>
-
 
