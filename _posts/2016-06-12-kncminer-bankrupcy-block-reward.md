@@ -1,6 +1,7 @@
 ---
 layout: post
 title: KnCMiner Declares Bankruptcy Pending Upcoming Bitcoin Reward Halving
+description: KnCMiner Declares Bankruptcy Pending Upcoming Bitcoin Reward Halving
 author: Bitcoin Mining
 authorurl: /
 published: true
