@@ -2,8 +2,8 @@
 layout: post
 title: Ethereum (Ether) Mining
 description: Ethereum (Ether) Mining
-author: Jordan Tuwiner
-authorurl: https://www.jordantuwiner.com/
+author: Melvin Draupnir
+authorurl: https://www.weusecoins.com/melvin-draupnir/
 published: true
 seotitle: Ethereum (Ether) Mining How-To & Guide
 permalink: "/ethereum-mining/"
