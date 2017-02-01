@@ -1,5 +1,6 @@
 ---
 title: Coins in Circulation
+description: Coins in Circulation
 chart: true
 charts:
   - coinsInCirculation
