@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is Hashcash?
+description: What is Hashcash?
 author: Bitcoin Mining
 authorurl: /
 published: true
