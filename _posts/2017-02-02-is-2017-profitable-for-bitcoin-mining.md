@@ -47,7 +47,7 @@ published: true
 
 <p>But of course this doesn’t take into account the hardware cost, electricity cost, pool fees, etc. Let’s try to calculate all of these together.</p>
 
-<p><center><img src="/images/mining-with-s9-ofir-beigel.jpg" alt="mining-with-s9-ofir-beigel"/></center></p>
+<p><center><img src="/images/mining-with-s9-ofir-beigel.png" alt="mining-with-s9-ofir-beigel"/></center></p>
 
 <p>This data was taken from an advanced Bitcoin mining calculator using the following stats: 2% mining pool fees, 25 Bitcoins as a block reward, 14 TH/s hash rate, 1375W power consumption. </p>
 
