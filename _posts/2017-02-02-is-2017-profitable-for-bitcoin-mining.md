@@ -15,7 +15,8 @@ published: true
 
 <p>The Hash Rate can also refer to your miner’s performance. Today Bitcoin miners (those super powerful computers talked about in the video) come with different Hash Rates. Miners’ performance is measured in MH/s (Mega hash per second), GH/s (Giga hash zper second), TH/s (Terra hash per second) and even PH/s (Peta hash per second).</p>
 
-<p><strong>Bitcoins per Block</strong> – Each time a <a href="/bitcoin-mining-centralization/">mathematical problem is solved</a>, a constant amount of Bitcoins are created. The number of Bitcoins generated per block starts at 50 and is halved every 210,000 blocks (about four years). The current number of Bitcoins awarded per block is 25. However soon enough the block halving will occur and the reward will be downgraded to only 12.5 Bitcoins.</p>
+<p><strong>Bitcoins per Block</strong> – Each time a <a href="/bitcoin-mining-centralization/">mathematical problem is solved</a>, a constant amount of Bitcoins are created. The number of Bitcoins generated per block starts at 50 and is halved every 210,000 blocks (about four years).
+<p>The current number of Bitcoins awarded per block is 25. However soon enough the block halving will occur and the reward will be downgraded to only 12.5 Bitcoins.</p>
 
 <p><strong>Bitcoin Difficulty</strong> – Since the Bitcoin network is designed to produce a constant amount of Bitcoins every 10 minutes, the difficulty of solving the mathematical problems has to increase in order to adjust to the network’s Hash Rate increase. Basically this means that the more miners that join, the harder it gets to actually mine Bitcoins.</p>
 
