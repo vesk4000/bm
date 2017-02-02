@@ -19,6 +19,7 @@ published: true
 {% endfor %}
 </div>
 
+
 <p>USB <a href="/what-is-dogecoin-mining/">Bitcoin miners are available to buy</a>, but they don’t really generate any significant profits. You should buy one to learn how mining works, but other than that don’t expect much! If you are serious about making profit then check out better Bitcoin mining hardware.</p>
 
 <p>If you want bitcoins don't bother trying with a USB miner. You are better off buying bitcoins.</p>
@@ -43,7 +44,9 @@ published: true
 <h2>Bitmain Antrouter R1 Wifi Solo Bitcoin Miner</h2>
 
 
-<p><a href="/bitcoin-mining-for-beginners-how-to-mine-bitcoins/">The Bitmain AntRouter</a> isn't exactly a USB miner, but it is similar. It's low cost, but with that you get a low GH/s at just 5.5 GH/s which is a little over $1 per year. The plus side is it works as a wireless router, so you can do some mining while providing internet for all your devices.</p>
+<p><a href="/bitcoin-mining-for-beginners-how-to-mine-bitcoins/">The Bitmain AntRouter</a> isn't exactly a USB miner, but it is similar. It's low cost, but with that you get a low GH/s at just 5.5 GH/s which is a little over $1 per year. </p>
+
+<p>The plus side is it works as a wireless router, so you can do some mining while providing internet for all your devices.</p>
 
 <h2>21 Bitcoin Computer</h2>
 
