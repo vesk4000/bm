@@ -21,7 +21,7 @@ published: true
 {% endfor %}
 </div>
 
-<p><h2>The SP20 Jackson is a Bitcoin ASIC miner made by Spondoolies-Tech. The miner's claimed hash rate is 1.3-1.7TH/s.</h2></p>
+<p>The SP20 Jackson is a Bitcoin ASIC miner made by Spondoolies-Tech. The miner's claimed hash rate is 1.3-1.7TH/s.</p>
 
 <h2>PROS</h2>
 
@@ -37,7 +37,9 @@ published: true
 
 <h2>The Spondoolies SP20: Better Value than the AntMiner S5?</h2>
 
-<p>Spondoolies unfortunately shut down on May 4th 2016. In late 2014, they released the SP20. <a href="/bitgold-goldmoney-review/">Spondoolies crammed</a> a total of eight 28nm RockerBox ASIC mining chips onto 2 circuit boards within a compact form factor. The SP20 is a neat miner, powerful for its low price with a size and noise level suitable for home miners. The major drawback is its relative inefficiency. The SP20 draws a lot of power for its hashrate, which is low by modern standards.</p>
+<p>Spondoolies unfortunately shut down on May 4th 2016. In late 2014, they released the SP20. <a href="/bitgold-goldmoney-review/">Spondoolies crammed</a> a total of eight 28nm RockerBox ASIC mining chips onto 2 circuit boards within a compact form factor.</p>
+
+<p>The SP20 is a neat miner, powerful for its low price with a size and noise level suitable for home miners. The major drawback is its relative inefficiency. The SP20 draws a lot of power for its hashrate, which is low by modern standards.</p>
 
 <h2>Power Supply</h2>
 
@@ -64,7 +66,9 @@ published: true
 
 <h2>Setup</h2>
 
-<p>Spondoolies’ <a href="/how-to-setup-bitcoin-mining-hardware-bitmain-antminer/">user interface provides</a> all the configuration settings and monitoring information you’re likely to need. The SP20 simplicity itself to setup. The GUI displays temperatures and hashrate for each individual chip, plus other vital info. You can even use it to adjust voltages (within reason) on the board, to find that sweet spot between hashrate, power and heat.</p>
+<p>Spondoolies’ <a href="/how-to-setup-bitcoin-mining-hardware-bitmain-antminer/">user interface provides</a> all the configuration settings and monitoring information you’re likely to need. The SP20 simplicity itself to setup. </p>
+
+<p>The GUI displays temperatures and hashrate for each individual chip, plus other vital info. You can even use it to adjust voltages (within reason) on the board, to find that sweet spot between hashrate, power and heat.</p>
 
 <p>The SP20 connects via Ethernet only.</p>
 
@@ -74,4 +78,6 @@ published: true
 
 <h2>Verdict</h2>
 
-The Spondoolies SP20 was a great mining device in its day. <a href="/what-is-dash-mining/">With the Bitcoin network’s</a> current Difficulty, it no longer makes economic sense to run an SP20 given its low efficiency. The AntMiner S5 is far more power-efficient and costs around the same. Unless there’s some specific hardware mod you’d like to perform with the SP20, it’s not a great purchase except as a piece of mining memorabilia.</p>
+The Spondoolies SP20 was a great mining device in its day. <a href="/what-is-dash-mining/">With the Bitcoin network’s</a> current Difficulty, it no longer makes economic sense to run an SP20 given its low efficiency. </p>
+
+<p>The AntMiner S5 is far more power-efficient and costs around the same. Unless there’s some specific hardware mod you’d like to perform with the SP20, it’s not a great purchase except as a piece of mining memorabilia.</p>
