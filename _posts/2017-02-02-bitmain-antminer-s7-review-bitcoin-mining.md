@@ -22,7 +22,7 @@ published: true
 </div>
 
 
-<p><h2>The Bitmain Antminer S7 is Bitmain Tech's latest version of its Antminer series of Bitcoin miners.</h2></p>
+<p>The Bitmain Antminer S7 is Bitmain Tech's latest version of its Antminer series of Bitcoin miners.</p>
 
 <h2>PROS</h2>
 
