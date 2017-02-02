@@ -49,11 +49,15 @@ published: true
 
 <h2>Bitcoins / Month (Profitability)</h2>
 
-<p>The S9 has more hashing power than any previous device crammed into its silicon; a massive 14 TH/s (TeraHash per second). A total of 189 chips, spread over 3 circuit boards, are combined to achieve this phenomenal hashrate. Excluding a 15 brief TH/s spike which occurred late 2011, a single S9 unit boasts a <a href="/bitcoin-mining-pools-give-everyone-a-chance-to-be-involved-12/">hashrate equivalent to the peak</a> capacity of the entire Bitcoin network from its bootstrapping until mid-2012!</p>
+<p>The S9 has more hashing power than any previous device crammed into its silicon; a massive 14 TH/s (TeraHash per second). A total of 189 chips, spread over 3 circuit boards, are combined to achieve this phenomenal hashrate. </p>
+
+<p>Excluding a 15 brief TH/s spike which occurred late 2011, a single S9 unit boasts a <a href="/bitcoin-mining-pools-give-everyone-a-chance-to-be-involved-12/">hashrate equivalent to the peak</a> capacity of the entire Bitcoin network from its bootstrapping until mid-2012!</p>
 
 <p>Let’s calculate the projected profits from all that hashpower via CoinWarz’ Bitcoin mining calculator :</p>
 
-<p>Note that Power Cost will be specific to your location and that Difficulty changes every 2 weeks, usually to the upside… Although keep in mind that post-halving, it’s entirely possible that a lot of marginal miners will be forced to either upgrade to better hardware or shut down. Your Pool Fees will be determined by your mining pool; although the S9 is plenty powerful, a single unit is highly unlikely to find any blocks when solo-mining. Finally, the Bitcoin to Dollar (USD) price is notorious for its constant state of flux.</p>
+<p>Note that Power Cost will be specific to your location and that Difficulty changes every 2 weeks, usually to the upside… Although keep in mind that post-halving, it’s entirely possible that a lot of marginal miners will be forced to either upgrade to better hardware or shut down. </p>
+
+<p>Your Pool Fees will be determined by your mining pool; although the S9 is plenty powerful, a single unit is highly unlikely to find any blocks when solo-mining. Finally, the Bitcoin to Dollar (USD) price is notorious for its constant state of flux.</p>
 
 <p>According to the above inputs, the S9 will produce 0.285 BTC / $159 per month and 3.36 BTC / $1939 per year.</p>
 
