@@ -23,13 +23,13 @@ published: true
 
 <p>The Bitmain Antminer S5 is Bitmain Tech's second newest version of its Antminer series of Bitcoin miners</p>
 
-<p><h2>PROS</p>
+<p><h2>PROS</h2></p>
 
 <p>Low cost miner, with second-hand units available for under $200</p>
 <p>Relatively low power demand of 590 Watts</p>
 <p>Good for learning and experimentation</p>
 
-<p><h2>CONS</p>
+<p><h2>CONS</h2></p>
 
 <p>Noisy (~75dB) single fan design, although mods can quieten it</p>
 <p>Spec hashrate of around 1155 GH/s is low by today’s standards</p>
