@@ -1,29 +1,35 @@
 ---
 layout: post
-title: Avalon Nano 3 USB Bitcoin Miner Review
-description: Avalon Nano 3 USB Bitcoin Miner Review
+title: Bitcoin Miner Review For Avalon Nano 3 USB
+description: Bitcoin Miner Review For Avalon Nano 3 USB
 author: Melvin Draupnir
 authorurl: https://weusecoins.com/melvin-draupnir/
 published: true
 ---
 
 <h2>Bitcoins per Month (Profit)</h2>
-<p>You will earn about $1 per year with the Avalon Nano 3, which is less than 10 cents per month.</p>
+
+<p>Earning less than a dime per month, Avalon Nano 3 will give you about $1 per year.</p>
 
 <h2>Power Consumption</h2>
-<p>This miner will use slightly more electricity via your computer, but nothing noticeable unless you are trying to use it with a laptop that isn’t plugged in. Now that would drain your battery fast!</p>
+
+<p><a href="/bitmain-antminer-s9-review-bitcoin-mining/">Slightly more electricity</a> will be used by this miner via your computer but  can hardly be noticed unless you use it with an unplugged laptop. That will surely consume your battery fast!</p>
 
 <h2>Price</h2>
-<p>The <a href="/bitmain-antminer-s9-review-bitcoin-mining/">cheapest place to buy an Avalon 3</a> is eBay, where they go for about $20.</p>
+
+<p>For just about $20, you can buy Avalon 3 in eBay, <a href="/bitmain-antminer-s7-review-bitcoin-mining/">the cheapest place to buy</a>.</p>
 
 <h2>Setup</h2>
-<p>You will need to setup your miner with mining software and also decide on a <a href="/bitmain-antminer-s7-review-bitcoin-mining/">Bitcoin mining pool</a>.</p>
+
+<p>Setting up your miner with mining software is needed, as well as deciding on a Bitcoin mining pool.</p>
 
 <h2>Temperature</h2>
-<p>There is no need to worry about temperature or fans with any type of USB miner. They don’t get hot enough to require a fan.</p>
+
+<p>Temperature will be the least of your concerns with any <a href="/bitmain-antminer-s5-review-bitcoin-mining/">type of USB miner</a>. It won't get hot as much as you need a fan. </p>
 
 <h2>Power Supply</h2>
-<p>No power supply is required. Just plug into your computer’s USB port and <a href="/bitmain-antminer-s5-review-bitcoin-mining/">start mining</a>!</p>
+
+<p>This is just plug n' play so no need for power supply. Plug it into your computer’s USB port and start mining!</p>
 
 <h2>Bitcoin Mining Hardware Comparison</h2>
 
