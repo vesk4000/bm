@@ -11,10 +11,12 @@ published: true
 
 <h2>Bitcoin Mining Hardware Comparison</h2>
 
+<p>Currently, based on <b>(1)</b> price per hash and <b>(2)</b> electrical efficiency the best Bitcoin miner options are:</p>
+
 <div class="hardware-comparison">
 {% for miner in site.data.hardware %}
-{% if miner.cat contains 'usbminer' %}
-{% include hardware-compare-usb.html %}
+{% if miner.cat contains 'featured' %}
+{% include hardware-compare.html %}
 {% endif %}
 {% endfor %}
 </div>
