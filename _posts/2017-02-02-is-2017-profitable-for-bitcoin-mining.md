@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Bitcoin Mining in 2017: Profitable or Not? 
-description: Bitcoin Mining in 2017: Profitable or Not? 
+title: Bitcoin Mining in 2017 Profitable or Not? 
+description: Bitcoin Mining in 2017 Profitable or Not? 
 author: Melvin Draupnir
 authorurl: https://www.weusecoins.com/melvin-draupnir/
 published: true
