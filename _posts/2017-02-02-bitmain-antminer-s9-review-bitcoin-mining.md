@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Bitmain Antminer S9 Review:  All You Need to Know
-description: Bitmain Antminer S9 Review:  All You Need to Know
+title: Bitmain Antminer S9 Review All You Need to Know
+description: Bitmain Antminer S9 Review All You Need to Know
 author: Melvin Draupnir
 authorurl: https://www.weusecoins.com/melvin-draupnir/
 published: true
