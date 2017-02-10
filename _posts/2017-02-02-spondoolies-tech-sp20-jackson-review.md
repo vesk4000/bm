@@ -49,9 +49,6 @@ published: true
 
 <p>It’s highly unlikely that the SP20 will ever pay for itself, never mind make a profit unless you have free electricity. If we write the SP20’s stats and some average costs into the CoinWarz mining profitability calculator:</p>
 
-
-<p>the results are fairly poor.</p>
-
 <p>Far less than a single BTC will be mined in a year, therefore concluding the SP20 a waste of electricity.</p>
 
 <h2>Price</h2>
