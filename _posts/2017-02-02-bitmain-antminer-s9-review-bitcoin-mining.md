@@ -63,7 +63,7 @@ published: true
 
 <p>Compared to any previous device crammed into its silicon, the S9 has more hashing power which is a massive 14 TH/s (TeraHash per second). We combined a total of 189 chips, spread over 3 circuit boards to achieve this phenomenal hashrate.  Not to include the 15 brief TH/s spike that happened late 2011, a single S9 unit boasts a hashrate equivalent to the peak capacity of the entire Bitcoin network from its bootstrapping until mid-2012!</p>
  
-<h2>Let’s compute the projected profits from all that hashpower via CoinWarz’ Bitcoin mining calculator:</h2>
+<p>Let’s compute the projected profits from all that hashpower via CoinWarz’ Bitcoin mining calculator:</p>
  
 <p>Bear in mind that Power Cost will be depending to your location and that Difficulty differs every two weeks, usually to the upside. Always remember that during post-halving, a number of marginal miners will most likely be pushed to either upgrade to a better hardware or shut down.</p>
 
