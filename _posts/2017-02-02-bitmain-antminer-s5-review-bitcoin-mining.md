@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Bitmain Antminer S5 Review - Bitcoin Mining
-description: Bitmain Antminer S5 Review - Bitcoin Mining
+title: Bitmain Antminer S5 Review All You Need to Know
+description: Bitmain Antminer S5 Review All You Need to Know
 author: Melvin Draupnir
 authorurl: https://www.weusecoins.com/melvin-draupnir/
 published: true
@@ -21,92 +21,93 @@ published: true
 {% endfor %}
 </div>
 
-<p>The Bitmain Antminer S5 is Bitmain Tech's second newest version of its Antminer series of Bitcoin miners</p>
-
-<p><h2>PROS</h2></p>
-
-<p>Low cost miner, with second-hand units available for under $200</p>
-<p>Relatively low power demand of 590 Watts</p>
-<p>Good for learning and experimentation</p>
-
-<p><h2>CONS</h2></p>
-
-<p>Noisy (~75dB) single fan design, although mods can quieten it</p>
-<p>Spec hashrate of around 1155 GH/s is low by today’s standards</p>
-
+<p>Bitmain Tech introduces, second newest version of its Antminer series of Bitcoin miners, the Bitmain Antminer S5</p>
+ 
+<h2>PROS</h2>
+<ul>
+<li><p>Low-priced miner, with second-hand units available for under $200</p></li>
+<li><p>Relatively low power demand of 590 Watts</p></li>
+<li><p>Suitable for learning and experimentation</p></li>
+</ul>
+<h2>CONS</h2>
+<ul>
+<li><p>Noisy at ~75dB, single fan design, nevertheless mods can quieten it</p></li>
+<li><p>Low by today’s standards, it’s spec hashrate of around 1155 GH/s</p></li>
+</ul>
 <h2>The AntMiner S5: Still Relevant to Modern Mining?</h2>
 
-<p>Bitmain released their AntMiner S5 Bitcoin miner in late 2014. At that time, it was one of <a href="/certain-traits-necessary-for-bitcoin-mining-success-21/">the fastest and most efficient ASIC miners</a> available, rivalled by the Spondoolies-Tech SP20. However, the S5 has long since been surpassed by newer models.</p>
+<p>The AntMiner S5 Bitcoin miner was released by Bitmain in late 2014. It was one of the <a href="/certain-traits-necessary-for-bitcoin-mining-success-21/">fastest and most</a> efficient ASIC miners available during that period, and was a contender to the Spondoolies-Tech SP20. However it didn’t last long, because the S5 has long since been outshined by latest models.</p>
 
-<p>As a product of a 28nm fabrication process, the S5 can’t be reasonably expected to compete with modern 16nm or 14nm ASIC designs in terms of hashrate or power efficiency.</p>
-
+<p>In terms of hashrate or power efficiency, the S5 can’t reasonably be competitive with modern 16nm or 14nm ASIC designs since it is a product of a 28nm fabrication process.</p>
+ 
 <h2>Is there still a place for the venerable S5?</h2>
 
-<p>If you’re a hobbyist miner on a budget, with no <a href="/avalon-wins-the-asic-race-sort-of-23/">interest in the profitability</a> of transmogrifying electricity into bitcoins, then the S5 is worth considering.</p>
+<p>The S5 is worth considering if you’re a hobbyist miner on a budget, with no interest in the <a href="/avalon-wins-the-asic-race-sort-of-23/">profitability of transmogrifying electricity</a> into bitcoins.</p>
 
 <h2>Power Supply</h2>
 
-<p>The S5 will draw between 560 to 590 Watts at around 115 Volts. Any sufficiently-powered ATX Power Supply Unit will run the S5 without problems. That means that your old PC power supply - or someone else’s second hand one - can be easily repurposed for Bitcoin mining.</p>
+<p>At around 115 Volts, the S5 will use between 560 to 590 Watts. The S5 will run without problems with any sufficiently-powered ATX Power Supply Unit. So even the power supply from your old PC - or someone else’s second hand unit, it can be easily reused for Bitcoin mining.</p>
 
-<p>Note that the <a href="/bitcoin-mining-its-about-solving-problems-27/">efficiency of power supplies</a> is rated as gold (10% of electricity wasted), silver (20% wasted) or bronze (30% wasted). The efficiency of power supplies is a worthy topic of investigation for any aspiring Bitcoin miner; inefficient, unrated power supplies will waste electricity and create extra noise and heat. A list of PSU ratings may be found here.</p>
+<p>Take note that the power supplies’ efficiency is rated as gold (10% of electricity wasted), silver (20% wasted) or bronze (30% wasted). A good topic of investigation for any aspiring Bitcoin miner is the power supplies’ efficiency. Power supplies that are inefficient and unrated will throw around electricity and make unnecessary noise and heat. Here is a list of PSU ratings.</p>
 
 <h2>Recommended for use with the S5:</h2>
 
-<p>Ideally, get a PSU from the Corsair Enthusiast Series Bronze Certified PSU; either the 650 or 750 Watt model. The 650W model is available second hand for a little over $100. Corsair has a good reputation among Bitcoin miners and other tech enthusiasts for building reliable hardware. The Bronze series offers good value.</p>
+<p>With either the 650 or 750 Watt model, preferably you can get a PSU from the Corsair Enthusiast Series Bronze Certified PSU. For a little over $100, the 650W model is available second hand. Corsair upholds a good reputation for setting up a reliable hardware among Bitcoin miners and other tech enthusiasts. The Bronze series offers good value.</p>
 
-<p>One thing to note is that under-clocking the S5 is difficult without a special, 9 Volt-capable PSU.</p>
+<p>Take note also that under-clocking the S5 is challenging in the absence of a special, 9 Volt-capable PSU.</p>
 
 <h2>Bitcoins per Month (Profitability)</h2>
 
-<p>CoinWarz’ Bitcoin mining calculator is helpful for calculating the profitability of any Bitcoin miner, based on relevant data. Be sure to run your own calculations, using your local power rate, preferred mining pool and the price at which you intend to buy your S5.</p>
+<p>According to relevant data, CoinWarz’ <a href="/bitcoin-mining-its-about-solving-problems-27/">Bitcoin mining calculator</a> is useful for computing the profitability of any Bitcoin miner.  Remember to use your local power rate, preferred mining pool and your intended price to buy your S5 by the time you do your own calculations.</p>
 
-<p>The CoinWarz site will automatically fill in the current BTC-USD price, Difficulty and Block Reward. Note that in July 2016, the Block Reward will halve to 12.5 BTC for every block solved. In order to see any bitcoins from a single S5, you will need to join a Pool. The odds of solo-mining a block with a single or even several S5s are virtually zero.</p>
+<p>Using the CoinWarz site, it will automatically put in the present BTC-USD price, Difficulty and Block Reward. Take note that the Block Reward will halve to 12.5 BTC in July 2016 for every block solved. It’s necessary for you to join a Pool in order to see any bitcoins from a single S5. The probability of solo-mining a block with a single or even several S5s are virtually zero.</p>
 
-<p>The post-halving Reward, relatively expensive Power and AntPool’s Pool Fees are entered, along with <a href="/advertise/">the current Bitcoin price</a> and all the relevant stats of the AntMiner S5.</p>
+<p>The post-halving Reward, relatively expensive Power and AntPool’s Pool Fees are entered, along with the <a href="/advertise/">current Bitcoin price</a> and all the relevant stats of the AntMiner S5.</p>
 
-<p>The results are, as expected, highly unprofitable:</p>
+<p>The results are, as expected, very nonprofitable:</p>
 
 <p>Red bracketed numbers indicate negative returns.</p>
 
-<p>Even if Bitcoin price were to double to a new all-time high around $1400, the returns would remain negative. However, if you’re able to bring your electricity costs below 10c per KWh, you could just about break even at the current price of ~$700. So, given a much higher Bitcoin price, cheap power, stable Difficulty and perhaps modifications to improve efficiency, profiting from a new or used S5 is not impossible…</p>
+<p>For instances where the Bitcoin price were to double to a new all-time high around $1400, the returns would remain negative. But, if you’re electricity cost goes below 10c per KWh, it would just be a break even at the current price of ~$700. Therefore, if only the Bitcoin price is higher, power is cheap, Difficulty is stable and there’s adjustment to improve efficiency, it is not impossible to profit from a new or used s5.</p>
 
 <h2>Power Efficiency</h2>
 
-<p>The S5 will produce 1 Gigahash for every 0.51 Watts it consumes. This figure can be expressed as 0.51 J/GH. The S5’s real power consumption, as measured by your electric bill, will vary depending on your PSU’s efficiency and the ambient temperature.</p>
+<p>For every 0.51 Watts consumed, the S5 will produce 1 Gigahash. This figure can be expressed as 0.51 J/GH. As measured by your electric bill, the S5’s real power consumption will differ depending on the efficiency of your PSU and the ambient temperature.</p>
 
-<p>0.51 J/GH is a lot more efficient than the S3 (0.78 J/GH) but a lot less efficient than the more expensive AntMiner S7 (0.25 J/GH) or S9 (0.098 J/GH) models. Traditionally, each new BitMain miner series doubles efficiency.</p>
+<p>S5’s 0.51 J/GH is a lot more efficient than the S3’s 0.78 J/GH, however a lot less efficient than the more expensive AntMiner S7 (0.25 J/GH) or S9 (0.098 J/GH) models. Traditionally, each new BitMain miner series doubles efficiency.</p>
 
-<p>It’s possible to upgrade the S5’s hashrate, primarily by increasing its frequency (aka overclocking) but this increases the miner’s power and cooling requirements. There are ways, ranging from simple to extreme, to manage the overclocking burdens. Gains of up to ~400 GH/s are achievable but require serious effort. This video demonstrates oil immersion cooling.</p>
-
+<p>Primarily by increasing its frequency (aka overclocking), it’s possible to upgrade the S5’s hashrate, but this increases the miner’s power and cooling requirements. Ranging from simple to extreme, there are ways to manage the overclocking burdens. Needing serious effort, gains of up to ~400 GH/s are achievable. Oil immersion cooling can be seen in this video.</p>
+ 
 <h2>Price</h2>
 
-<p>Used AntMiner S5s are available on eBay and Amazon in a price range between $190 and $299; most ship from America. New S5s ship from Bitmain in China for $413, although there may be a waiting period before stock becomes available.</p>
+<p>Prices ranging from $190 to $299, second-hand or used AntMiner S5s are available on eBay  and Amazon  and is mostly shipped from America. For $413, brand new S5s ship from Bitmain in China, though stocks aren’t always available so there may be a waiting period for some.</p>
 
-<p>Remember to factor in shipping costs and possible customs duties.</p>
-
+<p>Always bear in mind the shipping costs and possible customs duties.</p>
+ 
 <h2>Casing</h2>
 
-<p>The S5 is open at the top and bottom and the sides are constructed of fairly lightweight plastic. This limits the placement of the unit and somewhat reduces its safety. One upside of the plastic casing is that the unit only weight 2.5 kg. / 6.5 lbs.</p>
-
+<p>Limiting the placement of the unit therefore reduces its safety is due to the fact that the S5 is open at the top and bottom and the sides are constructed of fairly lightweight plastic. The good thing about the plastic casing is that the unit only weight 2.5 kg. / 6.5 lbs.</p>
+ 
 <h2>Noise</h2>
 
-<p>The noise from a stock S5’s 120mm fan has been <a href="/usb-bitcoin-miner-setup-guide/">compared to an industrial vacuum</a>. It’s definitely an unsuitable device to run in your living environment; it’ll drown out conversation and irritate people or pets.</p>
-
+<p>The noise from a stock S5’s 120mm fan has been compared to an industrial vacuum. It’s without doubt an <a href="/usb-bitcoin-miner-setup-guide/">inappropriate device to run</a> in your living environment, engulfing conversation and irritating people as well as pets.</p>
 <p>The only solution is to replace the stock ~75 decibel fan with a quieter kind. Often a secondary fan is added to the back-end, where screw holes exist for this purpose.</p>
-
+ 
 <h2>Setup</h2>
 
-<p>The S5 will automatically search out an available IP address to use and features an intuitive control panel. The MinerLink software will allow you to monitor the status of your miner(s), easily configure your mining pool settings, upgrade the device’s firmware and share access privileges to the miner over a network connection.</p>
+<p>In order to use and likewise features an intuitive control panel, the S5 will automatically search out an available IP address.  To configure easily your mining pool settings, upgrade the device’s firmware and share access privileges to the miner over a network connection, the MinerLink software will permit you to observe the status of your miner(s). </p>
+
+<p>The MinerLink interface.</p>
 
 <h2>Temperature</h2>
 
-<p>Onboard temperature must be maintained below 80^C / 175^F. Keeping the onboard temperature below 60^C / 140^F will prolong the lifetime of the S5. As with all miners, the lower the operating temperature, the higher they can be overclocked.</p>
+<p>The maintained onboard temperature should be below 80°C / 175°F.</p>
+
+<p>The lifetime of the S5 will prolong, if onboard temperature is kept below 60°C / 140°F.  The lower the operating temperature, the higher they can be overclocked, as with all miners.</p>
 
 <h2>Verdict</h2>
 
-<p>The S5 is unlikely to ever turn a profit, so it’s hard to justify the cost of buying one new. That said, a cheap, second-hand S5 in decent condition is a great tool for learning the ropes of Bitcoin mining. It represents a low-cost introduction to the complex business of Bitcoin mining.</p>
+<p>It’s hard to justify the cost of buying a new S5 since it’s unlikely to ever turn a profit. A cheaper, second-hand S5 still in excellent used condition is enough already to learn the ropes of Bitcoin mining. It shows a low-cost introduction to the complex business of Bitcoin mining.</p>
 
-<p>The S5 is also a good platform to experiment with hardware, firmware and software tweaks and mods. At roughly one tenth the price of the cutting-edge Antminer S9, the S5 is cheap enough to try potentially damaging operations like over/under-clocking and immersion cooling.</p>
+<p>If you want to experiment with hardware, firmware and software tweaks and mods, the S5 is likewise a good platform. The S5 is inexpensive enough to test possibly harmful operations like over/under-clocking and immersion cooling at roughly one tenth the price of the cutting-edge Antminer S9</p>
 
-
- 
