@@ -33,7 +33,7 @@ The situation in Venezuela is an extreme example, but shows how cheap electricit
 
 When taking difficulty into account, note that:
 
-* The network difficulty has been on a [steady uptrend](https://kaiko.com/mining) since Bitcoin’s creation. Expect mining to become more competitive as time goes on.
+* The network difficulty has been on a steady uptrend since Bitcoin’s creation. Expect mining to become more competitive as time goes on.
 
 * Bitcoin price increases can cancel out difficulty increases if you measure your profits in fiat currency. While a rising difficulty with no change in your hash power will always mean you have less BTC earnings, a higher BTC price could mean the BTC you do earn has the same purchasing power.
 

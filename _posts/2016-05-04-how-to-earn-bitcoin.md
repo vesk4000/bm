@@ -58,7 +58,7 @@ Software development, writing, design, making websites or apps, audio transcript
 <p><strong>Video Streaming</strong></p>
 
 <ul>
-<li><a href="http://www.watchmybit.com/">Watchmybit</a></li>
+<li>Watchmybit</li>
 <li><a href="https://streamium.io/">Streamium.io</a></li>
 </ul>
 

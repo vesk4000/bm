@@ -24,7 +24,7 @@ Mining fees are paid each time a user sends a transaction on the network. In the
 
 <img src="/images/fee.png" />
 
-Fees incentivize miners to include transactions in a block. Once a transaction has been included in a block it is _confirmed_. Unconfirmed transactions sit in something called the [_mempool_](https://kaiko.com/analytics/post/an-in-depth-guide-into-how-the-mempool-works) until they are confirmed. 
+Fees incentivize miners to include transactions in a block. Once a transaction has been included in a block it is _confirmed_. Unconfirmed transactions sit in something called the mempool until they are confirmed. 
 
 Since miners want to maximize income, they will include transactions that include higher fees. 
 
