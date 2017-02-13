@@ -234,7 +234,7 @@ Imported 256 block(s) (0 queued 0 ignored) in 449.34258ms #block_number.
 Imported 1 block(s) (0 queued 0 ignored) in 3.2345ms #block_number.
 ```
 
-Also, you can see what is the current block of the livenet by viewing the [Ethereum net stats dashboard](https://stats.ethdev.com/) under the heading **Best Block**. For example, if under Best Block you have 610,002 and you reach this number in the download process, then you have finished downloading the blockchain. 
+Also, you can see what is the current block of the livenet by viewing the Ethereum net stats dashboard under the heading **Best Block**. For example, if under Best Block you have 610,002 and you reach this number in the download process, then you have finished downloading the blockchain. 
 
 * Once this process is completed, you can type ctrl+c to **exit geth**
 
