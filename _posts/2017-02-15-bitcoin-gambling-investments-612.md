@@ -3,7 +3,7 @@ layout: post
 title: Bitcoin Gambling Investments 6/12
 description: Bitcoin Gambling Investments 6/12
 author: Melvin Draupnir
-authorurl: /melvin-draupnir/
+authorurl: https://www.weusecoins.com/melvin-draupnir/
 published: true
 ---
 
