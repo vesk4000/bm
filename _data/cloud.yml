@@ -1,16 +1,16 @@
  - company: Hashflare Review
    url: http://geni.us/hashflare
    desc_general: An Estonian cloud miner with SHA-256, Scrypt and Scrypt-N options and currently appears to be the <b>best value</b>.
-   desc_btc: Hashflare offers SHA-256 mining contracts for $1.20/10 GH/s. More profitable SHA-256 coins can be mined while automatic payouts are still in BTC. Customers must purchase at least 10 GH/s. 
-   desc_ltc: Hashflare offers scrypt mining contracts at $6.60 per 1 MH/s with a minimum purchase of 1 MH/s. 
-   desc_eth: "Hashflare is a large Ether cloud mining provider. Ethereum cloud mining contracts cost 100KH/s = $2.90 for a one year contract."
+   desc_btc: Hashflare offers SHA-256 mining contracts and more profitable SHA-256 coins can be mined while automatic payouts are still in BTC. Customers must purchase at least 10 GH/s. 
+   desc_ltc: Hashflare offers scrypt mining contracts with a minimum purchase of 1 MH/s. 
+   desc_eth: "Hashflare is a large Ether cloud mining provider with reasonably priced Ethereum cloud mining contracts."
 
  - company: Genesis Mining Review
    url: http://geni.us/advendorgm
-   desc_btc: "Genesis Mining is the largest Bitcoin and scrypt cloud mining provider. GM offers three Bitcoin cloud mining plans: 100 GH/s ($26/Lifetime Contract), 2,000 GH/s ($499/Lifetime Contract), and 10,000 GH/s ($2,400/Lifetime Contract). These plans cost $0.26, $0.25, and $0.24 per GH/s, respectively. <b>Zcash mining contracts</b> are $29 for 0.1 H/s $280 for 1 H/s, $2,600 for 10 H/s."
-   desc_dash: "Genesis Mining is the largest X11 cloud mining provider. GM offers three Dash X11 cloud mining plans: 1 MH/s ($24 per MH/s per year), 20 MH/s ($420 per 20 MH/s per year), and 100 MH/s ($1,900 per 100 MH/s per year). These plans cost $24, $21, and $19 per MH/s, respectively."
+   desc_btc: "Genesis Mining is the largest Bitcoin and scrypt cloud mining provider. Genesis Mining offers three Bitcoin cloud mining plans that are reasonably priced. <b>Zcash mining contracts</b> are also available."
+   desc_dash: "Genesis Mining is the largest X11 cloud mining provider. Genesis Mining offers three Dash X11 cloud mining plans that are reasonably priced."
    desc_ltc: Genesis Mining offers Litecoin cloud mining contracts.
-   desc_eth: "Genesis Mining is the largest Ether cloud mining provider. Ethereum cloud mining contracts cost 1MH/s = $37 (1 Year Ether Mining), 25 MH/s= $925  (1 Year Ether Mining) and 100 MH/s= $3700 (1 Year Ether Mining)."
+   desc_eth: "Genesis Mining is the largest Ether cloud mining provider. Ethereum cloud mining contracts are reasonably priced."
    desc_general: <a href="http://geni.us/advendorgm">Genesis Mining</a> is the largest Bitcoin and scrypt cloud mining provider.
 
  - company: Hashing 24 Review
