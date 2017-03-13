@@ -20,6 +20,8 @@ toc:
 
 <p>On 23rd of April 2015, <a href="/arguments-in-new-york-court-with-a-french-bitcoiner/">HashFlare has been propelled authoritatively</a> by HashCoins and that is a direct result of those underlying offer amid end of 2014 on facilitated mining contract. Both altcoins and Bitcoin has been offered by HashFlare for cloud mining administration. Non-stock variant of Apollo digger has been utilized for Bitcoin mining with SHA-256. </p>
 
+{% include page-toc.html %}
+
 <p>Then again they used Ares <a href="/reasons-why-dash-price-soar-high-exponentially/">mineworker for Scrypt mining</a>. As a parent business, HashCoins organization gives all equipment to use in their server farm of two Megawatt. HashCoins was established by Sergei Potapenko on 2013 and was situated in Talin, Estonia. </p>
 
 <p>HashFlare on 30th of June 2015, came to more than Ten thousand purchasers that are utilizing their administrations of cloud mining with more than 1 PH/S of hash rate created. </p>
@@ -69,3 +71,5 @@ toc:
 <h2 id="conclusion">Conclusion</h2>
 
 <p>HashFlare has a focused cost and a great deal of offers like upkeep expenses and rewards. They are not the most trusted cloud mining organization however but rather they runs easily that later on could acquire certainty from clients.</p>
+
+Feel Free to use my referral link to sign up for <a href="http://geni.us/hashflare">HashFlare’s Cloud Mining Service!</a>
