@@ -18,7 +18,7 @@ toc:
 
 <h2 id="history">HashFlare History</h2>
 
-<p>On 23rd of April 2015, <a href="/arguments-in-new-york-court-with-a-french-bitcoiner/">HashFlare has been propelled authoritatively</a> by HashCoins and that is a direct result of those underlying offer amid end of 2014 on facilitated mining contract. Both altcoins and Bitcoin has been offered by HashFlare for cloud mining administration. Non-stock variant of Apollo digger has been utilized for Bitcoin mining with SHA-256. </p>
+<p>On 23rd of April 2015, <a href="/arguments-in-new-york-court-with-a-french-bitcoiner/">HashFlare has been propelled authoritatively</a> by HashCoins and that is a direct result of those underlying offer amid end of 2014 on facilitated mining contract. Both altcoins and Bitcoin has been offered by <a href="http://geni.us/hashflare">HashFlare for cloud mining services</a>. Non-stock variant of Apollo digger has been utilized for Bitcoin mining with SHA-256. </p>
 
 {% include page-toc.html %}
 
@@ -71,5 +71,3 @@ toc:
 <h2 id="conclusion">Conclusion</h2>
 
 <p>HashFlare has a focused cost and a great deal of offers like upkeep expenses and rewards. They are not the most trusted cloud mining organization however but rather they runs easily that later on could acquire certainty from clients.</p>
-
-Feel Free to use my referral link to sign up for <a href="http://geni.us/hashflare">HashFlare’s Cloud Mining Service!</a>
