@@ -11,7 +11,7 @@ published: true
  
 <p><a href="/venezuela-troubles-continue-while-bitcoin-at-usd-1010/">Development information in China</a> have surfaced nowadays especially with regards to new policies about the bitcoin transactions of China. It was on the day of March 9, when a local reporter was informed by the congresswoman for the National People’s Congress and past deputy governor of the People’s Bank of China (PBOC) named Wu Xiaolin that central bank should be the one in charged for such types of bitcoin trading platforms</p>
  
-<h2>Bitcoin, A Digitl Asset in China</h2>
+<h2>Bitcoin, A Digital Asset in China</h2>
  
 <p>Since that Bitcoin market engages a substantial part of anti-money laundering (AML), management of other countries currency and payment agreement, the congresswoman is convinced that PBOC should be responsible for its regulation. It was explained by Wu that inspections recently were a must therefore saying that bitcoin is not used as means for the purposes of money laundering. </p>
 
