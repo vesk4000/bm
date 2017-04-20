@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Bitcoin Mining - Not A Waste Of Electricity
-description: Bitcoin Mining - Not A Waste Of Electricity
+title: Chinas Dominance In Bitcoin Mining
+description: Chinas Dominance In Bitcoin Mining
 author: Melvin Draupnir
 authorurl: https://www.weusecoins.com/melvin-draupnir/
 published: true
