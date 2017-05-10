@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: The Impending Need of Universities to Open the Blockchain Education
