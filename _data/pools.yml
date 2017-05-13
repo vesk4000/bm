@@ -8,9 +8,9 @@
    desc: Slush Pool is run by <a href="http://satoshilabs.com/">Satoshi Labs</a>, a Bitcoin company based in the Czech Republic. Slush Pool was the first mining pool and maintains around 7% of the network hash rate.
    img: slush.png
    
- - pool: <strong class="red accent-4 white-text">Antpool [WARNING]</strong>
+ - pool: Antpool 
    url: 
-   desc: Bitmain operates Antpool and some consider them to be a malicious actor in the Bitcoin ecosystem because of the <a href="https://www.antbleed.com">AntBleed scandal</a> where they were <a href="https://cointelegraph.com/news/bitmain-claims-antbleed-had-no-malicious-intent-does-it-really-matter-for-bitcoin-miners">intentionally including malware</a> within mining equipment they sell. In a <a href="/images/bitmain-antbleed.pdf">corporate communication</a>, Bitmain claimed this was a feature and not a bug. This malware would enable Bitmain to remotely shut down equipment of customers or competitors thus increasing their own profitability. Additionally, such behavior could pose a risk to the entire Bitcoin network.
+   desc: <strong class="red accent-4 white-text">[WARNING]</strong> - Bitmain operates Antpool and some consider them to be a malicious actor in the Bitcoin ecosystem because of the <a href="https://www.antbleed.com">AntBleed scandal</a> where they were <a href="https://cointelegraph.com/news/bitmain-claims-antbleed-had-no-malicious-intent-does-it-really-matter-for-bitcoin-miners">intentionally including malware</a> within mining equipment they sell. In a <a href="/images/bitmain-antbleed.pdf">corporate communication</a>, Bitmain claimed this was a feature and not a bug. This malware would enable Bitmain to remotely shut down equipment of customers or competitors thus increasing their own profitability. Additionally, such behavior could pose a risk to the entire Bitcoin network.
    img: bitmain.jpg
    
  - pool: Eligius
