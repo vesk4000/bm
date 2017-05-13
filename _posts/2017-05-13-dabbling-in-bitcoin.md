@@ -6,7 +6,6 @@ authorurl: /
 published: true
 ---
 
-<p><h2>Dabbling in Bitcoin?</h2>
 <p>Check out what apps are available for you!
 <p>Bitcoin has revolutionized <a href="https://futurism.com/by-this-summer-bitcoin-will-be-accepted-at-more-than-260000-stores-in-japan/">the global world</a> of finance, technology, and digital currency. Whilst being a bit of a legal and regulatory nightmare for the legal, regulatory, and banking systems.
 <p>It has proven a hit with the online world as it offers a safe, secure method of transferring small to large amounts of currency with just a click of a button. Like it or not, Bitcoin is <a href="http://fortune.com/2015/09/21/bitcoin-here-to-stay/">here to stay</a>!
