@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Small Computers - Now The Latest Trend for High Performance Machines
-description: Small Computers - Now The Latest Trend for High Performance Machines
+title: Buying Bitcoins
+description: Buying Bitcoins
+author: Melvin Draupnir
+authorurl: https://www.weusecoins.com/melvin-draupnir/
 published: true
 toc:
   step: 5 Step Guide to Buying Bitcoins
@@ -110,7 +112,7 @@ Once everything is linked, you’re ready to trade bitcoins using your PayPal ba
 <h4>Wire Transfers</h4>
 
 Wire or bank transfer is considered to be the most common method for buying bitcoins. Sellers like this option because once the money is transferred, there’s no going back.
-
+{% include page-toc.html %}
 <h2 id="find">3. Find An Exchange</h2>
 
 An “exchange” is commonly understood as the place for selling and buying bitcoins. That said, there are a few types of exchanges you should be aware of.
