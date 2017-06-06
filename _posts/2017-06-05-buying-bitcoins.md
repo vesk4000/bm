@@ -19,7 +19,6 @@ toc:
 
 Bitcoin is unlike other currencies in that it has no central governing agency, so you have to buy your way in. Here's our 5 step guide to buying bitcoins.
 
-<h4>Keyword(s): buying bitcoins</h4>
 {% include page-toc.html %}
 Back in 2009 when bitcoin was first introduced, most people would had regarded it as a laughable investment. Another tech bubble, one might say.
 
