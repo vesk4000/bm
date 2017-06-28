@@ -4,106 +4,105 @@ title: Bitcoin Minería Preguntas Frecuentes
 description: Bitcoin Minería Preguntas Frecuentes
 ---
 
-<h2>Table of contents</h2>
+<h2>Tabla de contenidos</h2>
 
 <ul>
-  <li><a href="#what-is-bitcoin-mining">What is Bitcoin mining?</a></li>
-  <li><a href="#how-does-bitcoin-mining-work">How does Bitcoin mining work?</a></li>
-  <li><a href="#isnt-bitcoin-mining-a-waste-of-energy">Isn't Bitcoin mining a waste of energy?</a></li>
-  <li><a href="#how-does-mining-help-secure-bitcoin">How does mining help secure Bitcoin?</a></li>
-  <li><a href="#what-do-i-need-to-start-mining">What do I need to start mining?</a></li>
-  <li><a href="#what-does-mhs-ghs-mean">What does MH/s, GH/s mean?</a></li>
-  <li><a href="#what-does-wgh-mean">What does W/Gh mean?</a></li>
-  <li><a href="#calculate-bitcoin-mining-profitability">How do I calculate my Bitcoin mining profitability?</a></li>
-  <li><a href="#what-does-hashing-mean">What does hashing mean?</a></li>
-  <li><a href="#bitcoin-mining-pool">What is a Bitcoin mining pool?</a></li>
-  <li><a href="#what-does-GPU-stand-for">What does GPU stand for?</a></li>
-  <li><a href="#bitcoin-mining-share">What is a Bitcoin mining share?</a></li>
-  <li><a href="#bitcoin-mining-module">What is a Bitcoin mining module?</a></li>
-  <li><a href="#what-does-ASIC-stand-for">What does ASIC stand for?</a></li>
-  <li><a href="#what-does-FPGA-stand-for">What does FPGA stand for?</a></li>
-  <li><a href="#data">Where can I view mining data about each block?</a></li>
+  <li><a href="#what-is-bitcoin-mining">A que se refiere la mineria de Bitcoin?</a></li>
+  <li><a href="#how-does-bitcoin-mining-work">Cómo funciona la minería de Bitcoin?</a></li>
+  <li><a href="#isnt-bitcoin-mining-a-waste-of-energy">Que el Bitcoin no es un desperdicio de energía?</a></li>
+  <li><a href="#how-does-mining-help-secure-bitcoin">¿Cómo ayuda la minería a proteger Bitcoin?</a></li>
+  <li><a href="#what-do-i-need-to-start-mining">¿Qué necesito para comenzar la minería?</a></li>
+  <li><a href="#what-does-mhs-ghs-mean">¿Qué significa MH/s, GH/s?</a></li>
+  <li><a href="#what-does-wgh-mean">¿Qué significa W/Gh y W/Th?</a></li>
+  <li><a href="#calculate-bitcoin-mining-profitability">¿Cómo calculo mi rentabilidad de minería de Bitcoin?</a></li>
+  <li><a href="#what-does-hashing-mean">¿Qué significa hashing?</a></li>
+  <li><a href="#bitcoin-mining-pool">¿Qué es una mancomunidad minera("mining pool") Bitcoin?</a></li>
+  <li><a href="#what-does-GPU-stand-for">¿Qué significa GPU?</a></li>
+  <li><a href="#bitcoin-mining-share">¿Qué es una participacion de minería de Bitcoin</a></li>
+  <li><a href="#bitcoin-mining-module">¿Qué es un módulo de minería de Bitcoin?</a></li>
+  <li><a href="#what-does-ASIC-stand-for">¿Qué significa ASIC?</a></li>
+  <li><a href="#what-does-FPGA-stand-for">¿Qué significa FPGA?</a></li>
+  <li><a href="#data">¿Dónde puedo ver los datos de minería de cada bloque?</a></li>
 </ul>
 
-<h3 id="what-is-bitcoin-mining">What is Bitcoin mining?</h3>
+<h3 id="what-is-bitcoin-mining">A que se refiere la mineria de Bitcoin?</h3>
 
 <img src="/images/icons/mining.png" class="pull-left bitcoin-icon">
 
-<p>Mining is the process of spending computing power to process transactions, secure the network, and keeps everyone in the system synchronized together. It can be perceived like the Bitcoin data center except that it has been designed to be fully decentralized with miners operating in all countries and no individual having control over the network. </p>
+<p>La minería es el proceso de gastar recursos computacionales para procesar transacciones, asegurar la red, y mantener a cada participante en el sistema mutualmente sincronizado. Se puede percibir como datos de Bitcoin centralizados excepto que el systema fue diseñado para estar totalmente descentralizado con mineros operando y distribuidos en todos los países sin ningún individuo con control exclusivo sobre la red. </p>
 
-<p>This process is referred to as "mining" as an analogy to gold mining because it is also a temporary mechanism used to issue new bitcoins. Unlike gold mining, however, Bitcoin mining provides a reward in exchange for useful services required to operate a secure payment network. Mining will still be required after the last bitcoin is issued.</p>
+<p>Este proceso se conoce como "minería" ya que es una analogía a la minería de oro porque también es un mecanismo temporal usado para emitir nuevos bitcoins. A diferencia de la minería de oro, la minería Bitcoin ofrece una recompensa a cambio de servicios útiles que son necesarios para mantener una red de pago segura. La minería seguirá siendo necesaria aun después de que se emita el ultimo bitcoin.</p>
 
-<h3 id="how-does-bitcoin-mining-work">How does Bitcoin mining work?</h3>
-<p>Anybody can become a Bitcoin miner by running Bitcoin mining software and Bitcoin mining modules with <a href="/bitcoin-mining-hardware/">specialized Bitcoin mining hardware</a>. Mining software listens for transaction broadcasts through the peer-to-peer network and performs appropriate tasks to process and confirm these transactions. Bitcoin miners perform this work because they can earn transaction fees paid by users for faster transaction processing, and newly created bitcoins issued into existence according to a fixed formula.</p>
+<h3 id="how-does-bitcoin-mining-work">Cómo funciona la minería de Bitcoin?</h3>
+<p>Cualquier persona puede convertirse en un minero de Bitcoin ejecutando el software y los modulos de minería de Bitcoin usando <a href="/bitcoin-mining-hardware/"> hardware especializado para la minería de Bitcoin  </a>. El software de minería escucha las transmisiones de transacciones a través de una red igual-a-igual (peer-to-peer) y realiza ciertas tareas necesarias para procesar y confirmar las transacciones. Los mineros de Bitcoin realizan este trabajo porque pueden ganar honorarios por cada transacción que son pagados por los usuarios con fines de procesamiento de transacciones más rápidas, y los bitcoins recién creados se emiten según una fórmula fija.</p>
 
-<p>For new transactions to be confirmed, they need to be included in a block along with a <a href="/what-is-proof-of-work/">mathematical proof of work</a>. Such proofs are very hard to generate because there is no way to create them other than by trying billions of calculations per second. This requires miners to perform these calculations before their blocks are accepted by the network and before they are rewarded. As more people start to mine, the difficulty of finding valid blocks is automatically increased by the network to ensure that the average time to find a block remains equal to 10 minutes. As a result, mining is a very competitive business where no individual miner can control what is included in the block chain.</p>
+<p>Cada nueva transaccion se confirma incluyendo en cada bloque una <a href="/what-is-proof-of-work/"> prueba matemática de trabajo </a>. Tales pruebas son muy difíciles de generar porque no hay forma de crearlas aparte de intentar miles de millones de cálculos por segundo. Esto requiere que los mineros realicen estos cálculos antes de que sus respectivos bloques sean aceptados por la red y antes de que el minero sea recompensado. A medida que más personas comienzan a minar, la dificultad de encontrar bloques válidos es aumentada automáticamente por la red para asegurar que el promedio de tiempo para encontrar un bloque permanezca a la par de 10 minutos. Por consequencia, la minería es un negocio muy competitivo donde ningún minero singular podra controlar lo incluido en toda la cadena de bloques.</p>
 
-<p>The video below of a Bitcoin mining farm in China will give you a better idea of just how competitive Bitcoin mining has become:</p>
+<p>El video de abajo de una granja minera de Bitcoin en China le dará una mejor idea en cuan competitivo la minería de Bitcoin se ha convertido:</p>
 
 <iframe width="740" height="360" src="https://www.youtube.com/embed/K8kua5B5K3I?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-<p>The proof of work is also designed to depend on the previous block to force a chronological order in the block chain. This makes it exponentially difficult to reverse previous transactions because this requires the recalculation of the proofs of work of all the subsequent blocks. When two blocks are found at the same time, miners work on the first block they receive and switch to the longest chain of blocks as soon as the next block is found. This allows mining to secure and maintain a global consensus based on processing power.</p>
-<p>Bitcoin miners are neither able to cheat by increasing their own reward nor process fraudulent transactions that could corrupt the Bitcoin network because all Bitcoin nodes would reject any block that contains invalid data as per the rules of the Bitcoin protocol. Consequently, the network remains secure even if not all Bitcoin miners can be trusted.</p>
+<p>La prueba de trabajo también está diseñada para depender del bloque anterior para forzar un orden cronológico en la cadena de bloques. Esto hace que sea exponencialmente difícil invertir las transacciones anteriores porque esto requiere el recálculo de las pruebas de trabajo de todos los bloques subsiguientes. Cuando dos bloques se encuentran al mismo tiempo, los mineros trabajan en el primer bloque que reciben y cambian a la cadena de bloques más larga tan pronto como se encuentra el bloque siguiente. Esto permite que la minería sea segura y mantenga un consenso global basado en el potencia computacional.</p>
+<p>Los mineros de Bitcoin no son capaces de defraudar aumentando la recompensa propia, ni tampoco pueden procesar transacciones fraudulentas que podrían dañar la red de Bitcoin porque todos los nodos de Bitcoin rechazan cualquier bloque que contiene datos inválidos según las reglas del protocolo Bitcoin. En consecuencia, la red permanece segura aun incluso si no todos los mineros de Bitcoin son confiables.</p>
 
-<h3 id="isnt-bitcoin-mining-a-waste-of-energy">Isn't Bitcoin mining a waste of energy?</h3>
-<p>Spending energy to secure and operate a payment system is hardly a waste. Like any other payment service, the use of Bitcoin entails processing costs. Services necessary for the operation of currently widespread monetary systems, such as banks, credit cards, and armored vehicles, also use a lot of energy. Although unlike Bitcoin, their total energy consumption is not transparent and cannot be as easily measured. The total Bitcoin network hash rate is <a href="https://bitcoinwisdom.com/bitcoin/difficulty">publicly available</a> and can be used to estimate the network's total electricity costs.</p>
+<h3 id="isnt-bitcoin-mining-a-waste-of-energy">Que el Bitcoin no es un desperdicio de energía?</h3>
+<p>Gasto de energía para asegurar y operar un sistema de pago no es un desperdicio. Como cualquier otro servicio de pago, el uso de Bitcoin implica costos de procesamiento. Los servicios necesarios para el funcionamiento de los sistemas monetarios actuales mundiales, como los bancos, las tarjetas de crédito y los vehículos blindados, también utilizan mucha energía. Aunque a diferencia de Bitcoin, su consumo total de energía no es transparente y no puede ser tan fácilmente medido. La tasa de hash total de la red Bitcoin es <a href="https://bitcoinwisdom.com/bitcoin/difficulty"> disponible públicamente </a> y puede usarse para estimar los costos totales de electricidad de la red.</p>
 
 <img src="/images/hashrate.png" />
 
-<p>Bitcoin mining has been designed to become more optimized over time with specialized hardware consuming less energy, and the operating costs of mining should continue to be proportional to demand. When Bitcoin mining becomes too competitive and less profitable, some miners choose to stop their activities. Furthermore, all energy expended mining is eventually transformed into heat, and the most profitable miners will be those who have put this heat to good use. Some miners, for example, [use the heat generated by bitcoin miners to supplement regular heating systems](http://www.waters.nyc/writing/325). </p>
+<p>A lo largo del tiempo la minería Bitcoin se ha optimizado con soporte fisico (hardware) especializado que consume menos energía, y los costos operativos de la minería seguiran siendo proporcionales a la demanda. Cuando la minería Bitcoin se vuelve demasiada competitiva y menos rentable, algunos mineros optan por suspender sus actividades. Además, toda la energia gastada en la mineria se transforma finalmente en calor, y los mineros más rentables serán aquellos que han puesto este calor a buen uso. Algunos mineros, por ejemplo, [utilizan el calor generado por mineros bitcoin para complementar sistemas de calefacción regulares] (http://www.waters.nyc/writing/325).</p>
 
-<p>An optimally efficient mining network is one that isn't actually consuming any extra energy. While this is an ideal, the economics of mining are such that miners individually strive toward it.</p>
+<p>Una red de minería óptimamente eficiente es aquella cual no consume ninguna energía adicional. Si bien esto es un ideal, la economía de la minería es tal que los mineros se esfuerzan individualmente hacia esta meta.</p>
 
-<h3 id="how-does-mining-help-secure-bitcoin">How does mining help secure Bitcoin?</h3>
-<p>Mining creates the equivalent of a competitive lottery that makes it very difficult for anyone to consecutively add new blocks of transactions into the block chain. This protects the neutrality of the network by preventing any individual from gaining the power to block certain transactions. This also prevents any individual from replacing parts of the block chain to roll back their own spends, which could be used to defraud other users. Mining makes it exponentially more difficult to reverse a past transaction by requiring the rewriting of all blocks that occurred after the target transaction.</p>
+<h3 id="how-does-mining-help-secure-bitcoin">¿Cómo ayuda la minería a proteger Bitcoin?</h3>
+<p>La minería crea el equivalente de una lotería competitiva que hace muy difícil que cualqier individuo agrege nuevos bloques de transacciones consecutivos a la cadena. Esto protege la neutralidad de la red impidiendo que cualquier persona obtenga el poder de bloquear ciertas transacciones. Esto también impide que cualquier individuo reemplaze partes de la cadena de bloques para revertir sus propios gastos, que podría ser utilizado para defraudar a otros usuarios. La minería hace que sea exponencialmente más difícil revertir una transacción anterior requiriendo la reescritura de todos los bloques que ocurrieron después de la transacción dirigida.</p>
 
-<h3 id="what-do-i-need-to-start-mining">What do I need to start mining?</h3>
-<p>In the early days of Bitcoin, anyone could find a new block using their computer's CPU. As more and more people started mining, the difficulty of finding new blocks increased greatly to the point where the only cost-effective method of mining today is using specialized <a href="https://www.hobbymining.com/mining-hardware/">hardware</a>.</p>
+<h3 id="what-do-i-need-to-start-mining">¿Qué necesito para comenzar la minería?</h3>
+<p>En los primeros días de Bitcoin, cualquiera podía encontrar un nuevo bloque usando la CPU de su computadora. A medida que más y más personas empezaron a minar, la dificultad de encontrar nuevos bloques aumentó grandemente hasta el punto donde el único método costo-efectivo de la minería hoy en día es el uso de <a href = "https://www.hobbymining.com/mining-hardware / "> hardware </a>especializado.</p>
 
-<h3 id="what-does-mhs-ghs-mean">What does MH/s, GH/s mean?</h3>
-<p>These abbreviations stand for the hashing power that your miner is generating. MH/s stands for <i>megahash per second</i> and GH/s stands for <i>gigahash per second</i>. There is a direct correlation between how fast your miner works and how profitable it will be. </p>
+<h3 id="what-does-mhs-ghs-mean">¿Qué significa MH/s, GH/s?</h3>
+<p>Estas abreviaturas representan el poder de hashing que su minero está generando. MH/s significa <i> megahash por segundo </ i> y GH/s significa <i> gigahash por segundo </ i>. Existe una correlación directa entre la rapidez con la que trabaja su minero y la rentabilidad de la misma. </p>
 
-<h3 id="what-does-wgh-mean">What does W/Gh and W/Th mean?</h3>
-<p>W/Gh and W/Th are abbreviations for <i>watts per gigahash</i> and <i>watts per terahash</i>. These metrics calculate how many hashes a miner can run per watt of electricity. Mining hardware with lower W/Gh and W/Th are more efficient. Currently, the <a href="http://geni.us/37CM">Antminer S7</a> and <a href="http://geni.us/3upk">Avalon6</a> are the most efficient miners available for purchase, at  0.25 W/Gh  and  0.29 W/Gh, respectively.</p>
+<h3 id="what-does-wgh-mean">¿Qué significa W/Gh y W/Th?</h3>
+<p>W/Gh y W/Th son abreviaturas para <i> vatios por gigahash </ i> y <i> vatios por terahash </ i>. Estas métricas calculan cuántos hashes un minero puede ejecutar por vatio de electricidad. El hardware de minería con menor W/Gh y W/Th son más eficientes. Actualmente, el <a href="http://geni.us/37CM"> Antminer S7 </a> y el <a href="http://geni.us/3upk"> Avalon6 </a> son los más Eficientes mineros disponibles para la compra, a 0,25 W/Gh y 0,29 W/Gh, respectivamente.</p>
 
-<h3 id="calculate-bitcoin-mining-profitability">How do I calculate my Bitcoin mining profitability?</h3>
-<p>You can use <a href="https://alloscomp.com/bitcoin/calculator">bitcoin mining profitability calculators</a> to calculate the <a href="/bitcoin-mining-profitability/">profitability of mining</a> under varying circumstances, to include difficulty increases, power consumption, and average hashrate, for example.</p>
+<h3 id="calculate-bitcoin-mining-profitability">¿Cómo calculo mi rentabilidad de minería de Bitcoin?</h3>
+<p>Puede utilizar <a href="https://alloscomp.com/bitcoin/calculator"> calculadoras de rentabilidad de minería bitcoin </a> para calcular la <a href="/bitcoin-mining-profitability/"> rentabilidad de la minería </a> bajo diversas circunstancias, que pueden incluir, por ejemplo, aumentos de dificultad, consumo de energía, y pormedio de hashrate.</p>
 
-<h3 id="what-does-hashing-mean">What does hashing mean?</h3>
-<p>The term "hashing" means how quickly your hardware is processing data from the Blockchain and solving the complex mathematical equations that are required to earn bitcoins.</p>
+<h3 id="what-does-hashing-mean">¿Qué significa hashing?</h3>
+<p>El término "hashing" significa la rapidez con la que el hardware procesa los datos del Blockchain (BloqueCadena) y resuelve las complejas ecuaciones matemáticas necesarias para obtener bitcoins.</p>
 
-<h3 id="bitcoin-mining-pool">What is a Bitcoin mining pool?</h3>
-<p>A <a href="/bitcoin-mining-pools/">mining pool is a group of miners</a> who have shared their hashing resources to solve blocks together and the rewards are then distributed amongst the members.</p>
+<h3 id="bitcoin-mining-pool">¿Qué es una mancomunidad minera("mining pool") Bitcoin?</h3>
+<p>Una mancomunidad minera <a href="/bitcoin-mining-pools/"> es un grupo de mineros </a> que comparten recursos de hashing para juntamente resolver bloques.  Los miembros luego disfrutan en distribuyendo las recompenzas entre si mismos.</p>
 
-<p>Let's say Bob runs a Bitcoin mining farm with 1% of the Bitcoin network hash rate. His machines only find, on average, one out of every 100 blocks. Bob becomes impatient and wants more frequent payouts. He joins a mining pool with 20% of the network hash rate. Instead of getting paid on average once per 100 blocks, Bob now receives smaller but more frequent payouts every five blocks.</p>
+<p>Digamos que Bob ejecuta una granja minera Bitcoin con un 1% de la tasa de hash de la red de Bitcoin. Sus máquinas sólo encuentran, en promedio, uno de cada 100 bloques. Bob se vuelve impaciente y quiere pagos más frecuentes. Se une a un grupo minero con un 20% de la tasa de hash de la red. En lugar de ser pagado en promedio una vez por cada 100 bloques, Bob ahora recibe pagos más pequeños pero más frecuentes cada cinco bloques.</p>
 
-<h3 id="what-does-GPU-stand-for">What does GPU stand for?</h3>
-<p>A Graphics Processing Unit powers most computer video cards and can be used to mine Bitcoins.</p>
+<h3 id="what-does-GPU-stand-for">¿Qué significa GPU?</h3>
+<p>Una Unidad de Procesamiento de Gráficos(GPU) alimenta la mayoría de las tarjetas de video de computadora y puede ser usada para minar Bitcoins.</p>
 
-<h3 id="bitcoin-mining-share">What is a Bitcoin mining share?</h3>
-<p>A share is merely an accounting method to keep the miners honest and fairly divide any rewards earned by the pool.</p>
+<h3 id="bitcoin-mining-share">¿Qué es una participacion de minería de Bitcoin?</h3>
+<p>Una participacion es simplemente un método de contabilidad para mantener a los mineros honestos y dividir justamente cualquier recompensa ganada por la mancomunidad o grupo.</p>
 
-<h3 id="bitcoin-mining-module">What is a Bitcoin mining module?</h3>
-<p>A Bitcoin mining module is usually a worker as assigned in the Bitcoin mining software. For example, four GPUs are plugged into the motherboard constituting the Bitcoin mining hardware. Then the Bitcoin mining software identifies each GPU as a unique worker. So, this small Bitcoin mining rig would be composed for four Bitcoin mining modules.</p>
+<h3 id="bitcoin-mining-module">¿Qué es un módulo de minería de Bitcoin?</h3>
+<p>Un módulo de minería de Bitcoin normalmente es un trabajador asignado en el software de minería Bitcoin. Por ejemplo, cuatro GPUs están conectadas a la placa madre que constituye el hardware de minería Bitcoin. A continuación, el software de minería Bitcoin identifica cada GPU como un trabajador único. Por lo tanto, este pequeno aparejo de minería de Bitcoin estaría compuesto por cuatro módulos de minería Bitcoin.</p>
 
-<h3 id="what-does-ASIC-stand-for">What does ASIC stand for?</h3>
-<p>An Application-Specific Integrated Circuit is a special chip designed specifically for mining Bitcoin and is much more energy-efficient and faster than GPU or FPGA mining.</p>
+<h3 id="what-does-ASIC-stand-for">¿Qué significa ASIC?</h3>
+<p>Un Circuito Integrado Específico de Aplicación es un chip especial diseñado específicamente para la minería de Bitcoin y es mucho más eficiente en energía y más rápido que la mineria basada en GPU o FPGA.</p>
 
-<h3 id="what-does-FPGA-stand-for">What does FPGA stand for?</h3>
-<p>A Field-Progammable Gate Array was already an established hardware product that can be used for different purposes, but in this case the technology was repurposed for mining Bitcoin.</p>
+<h3 id="what-does-FPGA-stand-for">¿Qué significa FPGA?</h3>
+<p>Una matriz de compuertas campo-programables ya era un producto de hardware establecido que podría utilizarse para diferentes propósitos, pero en este caso la tecnología fue reutilizada para la minería de Bitcoin.</p>
 
-<h3 id="data">Where can I view mining data about each block?</h3>
-<p>The mining rewards and transaction fees for each block can be viewed online with any block explorer.</p>
+<h3 id="data">¿Dónde puedo ver los datos de minería de cada bloque?</h3>
+<p>Las recompensas de minería y las comisiones de transacción de cada bloque se pueden ver en línea con cualquier explorador de bloques.</p>
 
 <img src="/images/blockinfo.png" />
 
-<p>In the example above, we get information on block <a href="https://blockchain.info/block/00000000000000000459fd9e1ee16c2f10a834bdc5c1b5fd2f1a4485063c8e18">#408450</a>:</p>
+<p>En el ejemplo anterior, obtenemos información sobre el bloque <a href="https://blockchain.info/block/00000000000000000459fd9e1ee16c2f10a834bdc5c1b5fd2f1a4485063c8e18">#408450</a>:</p>
 
 <ul>
-<li><b>Number of transactions:</b> Block #408450 contained 185 transactions.</li>
-<li><b>Transaction fees:</b> There were 0.05502059 BTC worth of transaction fees in block #408450. The miner or mining pool (explained below) that mined this block receives the entirety of these fees.</li>
-<li><b>Height:</b> Height is another name for block number. The first block mined was <a href="https://blockchain.info/block/00000000839a8e6886ab5951d76f411475428afc90947ee320161bbf18eb6048">block #1</a> and is called the <a href="https://en.bitcoin.it/wiki/Genesis_block">Genesis block</a>. </li>
-<li><b>Relayed By:</b> This block was successfully solved by <a href="https://antpool.com/home.htm">Antpool</a>, which is a <a href="/bitcoin-mining-pools/">Bitcoin mining pool</a>. </li>
-<li><b>Block Reward:</b> This block contained a 25 BTC reward, which is fully rewarded to the miner that relayed the block--in this case Antpool.</li> 
-
+<li> <b> Número de transacciones: </ b> El bloque # 408450 contenía 185 transacciones. </ li>
+<li> <b> Honorarios de transacción: </ b> Había 0,05502059 BTC de honorarios de transacción en el bloque # 408450. El minero o el grupo minero (explicado más adelante) que extrajeron este bloque reciben la totalidad de estos honorarios. </li>
+<li><b>Estatura:</b> Estatura es otro nombre para el número de bloque. El primer bloque minado fue <a href="https://blockchain.info/block/00000000839a8e6886ab5951d76f411475428afc90947ee320161bbf18eb6048">bloque #1</a> y es llamado el <a href="https://en.bitcoin.it/wiki/Genesis_block">bloque Genesis </a>. </li>
+<li><b>Retransmitido Por:</b> Este bloque fue exitosamente resuelto por <a href="https://antpool.com/home.htm">Antpool</a>, que es una <a href="/bitcoin-mining-pools/">mancomunidad minera Bitcoin</a>. </li>
+<li><b>Recompensa del bloque:</b> Este bloque contenía una recompensa de 25 BTC, que es totalmente recompensada al minero que retransmitió el bloque - en este caso Antpool.</li> 
 </ul>
