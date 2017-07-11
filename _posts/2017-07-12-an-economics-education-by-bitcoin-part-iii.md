@@ -7,7 +7,7 @@ authorurl: /melvin-draupnir/
 published: true
 ---
 
-<img src="/images/bitcoin-wallet-economics.jpg" alt="bitcoin wallets economics" />
+<img src="/images/bitcoin-trading-economics.jpg" alt="bitcoin trades economics" />
 
 <p>There are several <a href="/bitcoin-mining-not-a-waste-of-electricity/">internet-based wallets</a> that can be choosen and each differ in costs, reputations and features that is necessary to be reviewed and considered. Are merchant tools needed? How about currency exchanges services? Is there a need for “cold” storage vault? Do you wish to have a multi-factor authentication? There is always someone or something out there can able to provide you of all the things that you need. </p>
 
