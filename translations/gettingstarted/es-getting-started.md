@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Guía de minería de Bitcoin: introducción a la minería de Bitcoin 
-description: Guía de minería de Bitcoin: introducción a la minería de Bitcoin 
+title: Gua de minería de Bitcoin- introducción a la minería de Bitcoin 
+description: Guía de minería de Bitcoin- introducción a la minería de Bitcoin 
 author: Melvin Draupnir
 author-url: /melvin-draupnir/
 published: true
