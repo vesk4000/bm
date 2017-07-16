@@ -11,7 +11,7 @@ Você aprenderá (1) como funciona a mineração de bitcoins, (2) como começar 
 
 É difícil minerar bitcoins de maneira rentável, mas se quiser tentar, esse minerador Bitcoin é uma boa opção.
 
-Como Funciona a Mineração de Bitcoin
+<h2>Como Funciona a Mineração de Bitcoin</h2>
 
 Antes de começar a minerar Bitcoin, vale a pena entender o que significa realmente minerar Bitcoin. Minerar Bitcoin é uma atividade legal que consiste na execução de processos de verificação por meio do algoritmo hash SHA256 usados na validação de transações em Bitcoin e fornecer a segurança necessária ao “registro público” (public ledger) da rede Bitcoin. A velocidade da mineração é medida em hashes por segundo.
 
