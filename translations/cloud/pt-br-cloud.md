@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 最佳比特币云挖矿合约评价与比较
-description: 最佳比特币云挖矿合约评价与比较
+title: Melhores comparativos e análises de contratos de mineração de Bitcoin em nuvem
+description: Melhores comparativos e análises de contratos de mineração de Bitcoin em nuvem
 author: Melvin Draupnir
 author-url: /melvin-draupnir/
 published: true
