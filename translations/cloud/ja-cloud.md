@@ -11,7 +11,7 @@ author-url: /melvin-draupnir/
 
 クラウドマイニングまたはクラウドハッシングなら、ユーザがデータセンター内ハードウェアのマイニング容量を購入できる。
 
-HashflareとGenesis Miningの2つの事業者は、数年間こうした契約を手供してきていた。
+<a href="http://geni.us/hashflare">Hashflare</a>と<a href="http://geni.us/genesismining">Genesis Mining</a>の2つの事業者は、数年間こうした契約を手供してきていた。
 
 Bitcoinクラウドマイニングにより、BitcoinマイニングハードウェアやBitcoinマイニングソフトウェア、電気、接続帯、その他オフラインの問題を抱えずに皆がBitcoinを得られる。
 
@@ -47,7 +47,7 @@ Bitcoinクラウドマイニングは、クラウドハッシングと呼ばれ�
 
 Hashflareレビュー：HashflareはSHA-256マイニング契約を提供しており、自動支払はBTC建てのままでより利益率の高いSHA-256コインが採掘できる。カスタマーは、少なくとも10GH/sを購入せねばならない。
 
-Genesis Miningレビュー：Genesis Miningは、最大のBitcoinおよびscryptクラウドマイニングプロバイダだ。Genesis Miningは、手ごろな価格の3つのBitcoinクラウドマイニングプランを提供している。Zcashマイニング契約も利用できる。
+<a href="/genesis-mining-review/">Genesis Mining</a>レビュー：Genesis Miningは、最大のBitcoinおよびscryptクラウドマイニングプロバイダだ。Genesis Miningは、手ごろな価格の3つのBitcoinクラウドマイニングプランを提供している。Zcashマイニング契約も利用できる。
 
 Hashing 24レビュー：	Hashing24はBitcoinマイニングに2012年から従事している。設備はアイスランドとグルジアにある。同社はBitFuryからのモダンなASIC チップを使い、最大限のパフォーマンスとできる限りの効率性を提供している。
 
@@ -55,7 +55,7 @@ Minexレビュー：Minexは、経済シミュレーション形式に示すよ�
 
 Minergate Review：同社はBitcoin向けに、プールと合併マイニングとクラウドマイニング両方を提供している。
 
-Hashnest Review：HashnestはBitcoinマイナーのAntminerライン製造者であるBitmainが運営している。HashNestは現在、600以上の貸出用Antminer S7sを保有している。HashNestのウェブサイトで最新の価格と利用状況を閲覧できる。執筆時点では、1つのAntminer S7のハッシュレートが1,200米ドルで借りられる。
+<a href="/hashflare-cloud-mining-review/">Hashnest Review</a>：HashnestはBitcoinマイナーのAntminerライン製造者であるBitmainが運営している。HashNestは現在、600以上の貸出用Antminer S7sを保有している。HashNestのウェブサイトで最新の価格と利用状況を閲覧できる。執筆時点では、1つのAntminer S7のハッシュレートが1,200米ドルで借りられる。
 
 Bitcoin Cloud Mining Review：現在全Bitcoinクラウドマイニング契約は売り切れている。
 
@@ -121,7 +121,7 @@ Scrypt.ccレビュー：Scrypt.ccは、数秒でKHSを買えるようにし、�
 
 PB Miningレビュー：ASICハードウェアを用いて Bitcoinマイニングを運営していると主張する。カスタマーがBitcoinマイニング契約を買おうとすると、すぐにBitcoinを稼ぎ始める。Piggyback Miningでは、電気代と全てのBitcoinマイニングプール手数料をカバーしている。Bitcoin	マイニング契約は、カスタマーに成功してほしいため100％保険付きだ。
 
-Bitcoin Cloud Services (BCS)レビュー：500,000米ドルのポンジ詐欺であったようだ。
+<a href="/cloud-mining-profitable/">Bitcoin Cloud Services</a> (BCS)レビュー：500,000米ドルのポンジ詐欺であったようだ。
 
 Zeushashレビュー：支払を停止しているようだ。
 
