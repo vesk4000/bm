@@ -13,7 +13,7 @@ published: true
 
 云挖矿或云哈希计算使用户能够在数据中心购买硬件的挖矿能力。
 
-2 家运营商，Hashflare 和 Genesis Mining，多年来一直提供合约。
+2 家运营商，<a href="http://geni.us/hashflare">Hashflare</a> 和 <a href="http://geni.us/genesismining">Genesis Mining</a>，多年来一直提供合约。
 
 比特币云挖矿使人们能够获得比特币，而不需要使用比特币挖矿硬件、比特币挖矿软件、电、带宽，也没有其他离线问题。
 
@@ -130,9 +130,9 @@ Bitminer.io评价:  根据用户报告，他们似乎已经停止支付。
 
 <h2>数字加密货币云挖矿公司</h2>
 
-Hashflare评价: 爱沙尼亚云矿工，拥有SHA-256、Scrypt和Scrypt-N选项，目前似乎是性价比最好的。
+<a href="/hashflare-cloud-mining-review/">Hashflare</a>评价: 爱沙尼亚云矿工，拥有SHA-256、Scrypt和Scrypt-N选项，目前似乎是性价比最好的。
 
-Genesis Mining评价: Genesis Mining 是最大的比特币和scrypt云挖矿提供商。
+Genesis Mining评价: <a href="/genesis-mining-review/">Genesis Mining</a> 是最大的比特币和scrypt云挖矿提供商。
 
 Hashing 24评价:  Hashing24 自2012年以来一直从事比特币挖矿。他们在冰岛和格鲁吉亚设有工厂。他们使用 BitFury 的现代 ASIC 芯片，提供最高性能和效率。
 
@@ -154,7 +154,7 @@ Scrypt.cc评价:  Scrypt.cc 允许在几秒钟内购买 KHS，并且立即开始
 
 PB Mining评价: 声称运营比特币挖矿 ASIC 硬件。当客户购买比特币挖矿合约后，他们将立即开始赚取比特币。在背驮式挖矿中（Piggyback Mining），他们支付电费和所有的比特币挖矿矿池费用。比特币挖矿合约进行了100％的投保，因为他们希望客户成功。
 
-Bitcoin Cloud Services (BCS) 评价: 似乎已经成为$500,000的庞氏骗局欺诈。
+<a href="/cloud-mining-profitable/">Bitcoin Cloud Services (BCS)</a> 评价: 似乎已经成为$500,000的庞氏骗局欺诈。
 
 Zeushash评价: 似乎已经停止支付。
 
