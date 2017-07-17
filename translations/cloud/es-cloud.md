@@ -11,7 +11,7 @@ published: true
 
 La minería o “hasheo” en la nubepermite a los usuarios adquirircapacidad minera proveniente de los equiposde los centros de datos.
 
-Hay dos operadores, Hashflare y Genesis Mining, que vienen ofreciendo contratos desde hace varios años.
+Hay dos operadores, <a href="/hashflare-cloud-mining-review/">Hashflare</a> y <a href="/genesis-mining-review/">Genesis Mining</a>, que vienen ofreciendo contratos desde hace varios años.
 
 La minería de bitcoins en la nube permite ganar bitcoins a las personas que no cuentan con equipos de minado, programas de minado, electricidad, ancho de banda y otras cuestiones de conexión.
 
@@ -54,7 +54,7 @@ Reseña de Minergate: Ofrece minería de piscinas y minería fusionada,y tambié
 
 Reseña de Hashnest: Hashnestes operado por Bitmain, el productor de la líneaAntminerdemineros de bitcoins. Hashnestactualmente cuenta con más de 600 Antminer S7 para alquilar. Puedes ver los precios más actualizados y la disponibilidad en el sitio web deHashnest. Al momento de redactar esta lista, la tasa de hashde un Antminer S7se podía alquilar por $1200.
 
-Reseña de Bitcoin Cloud Mining: Actualmente todos los contratos de Bitcoin Cloud Miningestán agotados.
+Reseña de Bitcoin Cloud Mining: Actualmente todos los contratos de <a href="/cloud-mining-profitable/">Bitcoin Cloud</a> Miningestán agotados.
 
 Reseña de NiceHash: NiceHashes único en cuanto a que utiliza un libro de pedidos para cotejar compradores con vendedores de contratos de minería. Consulta el sitio web para averiguar los precios actuales.
 
@@ -94,13 +94,13 @@ Reseña de Eobot: Eobotofrececontratos de minería de Litecoinen la nube con pag
 
 Las opciones de los contratos de minería de Dash en la nube son limitados. Si en la siguiente lista no hay nada que se ajuste a tus necesidades, puedes comprar contratos de minería de bitcoins en la nube (mencionados anteriormente) y simplemente convertir los bitcoins que ganes a Dash.
 
-Reseña de Genesis Mining: Genesis Mininges el mayor proveedor de minería de X11 en la nube. Genesis Miningofrece tres planes de minería deDash X11 en la nube a precios razonables.
+Reseña de <a href="http://geni.us/genesismining">Genesis Mining</a>: Genesis Mininges el mayor proveedor de minería de X11 en la nube. Genesis Miningofrece tres planes de minería deDash X11 en la nube a precios razonables.
 
 <h2>Los mejores servicios de minería de Ether en la nube y comparaciones</h2>
 
 Las opciones de los contratos de minería de Ether en la nube son limitados. Si en la siguiente lista no hay nada que se ajuste a tus necesidades, puedes comprar contratos de minería de bitcoins en la nube (mencionados anteriormente) y simplemente convertir los bitcoins que ganes a Ether.
 
-Reseña de Hashflare: Hashflarees un gran proveedor de minería deEther en la nube con contratos a precios razonables.
+Reseña de <a href="http://geni.us/hashflare">Hashflare</a>: Hashflarees un gran proveedor de minería deEther en la nube con contratos a precios razonables.
 
 Reseña de Genesis Mining: Genesis Mininges el mayor proveedor de minería de Ether en la nube. Los contratos de minería de Ethereumen la nube tienen precios razonables.
 
