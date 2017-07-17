@@ -11,7 +11,7 @@ published: true
 
 A mineração em nuvem permite que usuários comprem a capacidade de mineração do hardware nas centrais de dados.
 
-Duas operadoras, a Hashflare e a Genesis Mining, vêm oferecendo contratos há vários anos.
+Duas operadoras, a <a href="http://geni.us/hashflare">Hashflare</a> e a <a href="http://geni.us/genesismining">Genesis Mining</a>, vêm oferecendo contratos há vários anos.
 
 A mineração de Bitcoinem nuvem permite que as pessoas ganhem Bitcoins sem hardware de mineração de bitcoin, software de mineração de bitcoin, eletricidade, largura de banda ou outros problemas off-line.
 
@@ -58,7 +58,7 @@ Análise da Minergate: oferece serviços de mineração mesclada e de pool, e mi
 
 Análise da HashNest: a HashNest é operada pela Bitmain, a produtora da linha AntMiner de mineradores de Bitcoin. A HashNest atualmente tem mais de 600 AntMiner S7s para alugar. Você pode ver o preço e a disponibilidade mais atualizados no site da Hashnest. No momento da elaboração do artigo, a taxa de mineração de um Antminer S7 podia ser alugada por US$ 1.200.
 
-Análise da Bitcoin Cloud Mining: no momento, todos os contratos da Bitcoin Cloud Mining estão esgotados.
+Análise da <a href="/cloud-mining-profitable/">Bitcoin Cloud Mining</a>: no momento, todos os contratos da Bitcoin Cloud Mining estão esgotados.
 
 Análise da NiceHash: a NiceHash é única porque usa um livro de pedidos para combinar compradores e vendedores de contratos de mineração. Confira o seu site para obter preços atualizados.
 
@@ -84,9 +84,9 @@ A dificuldade da rede Bitcoin muda aproximadamente a cada duas semanas ou 2.016 
 
 Existem opções limitadas para os contratos de mineração de Litecoin em nuvem. Se nenhumadas opções listadas abaixo atender às suas necessidades, você pode comprar contratos de mineração de Bitcoin em nuvem (listados acima) e simplesmente converter os bitcoins que você ganharem litecoins.
 
-Análise da Hashflare: a Hashflare oferece contratos de mineração de scrypt com uma compra mínima de 1 MH/s.
+Análise da Hashflare: a <a href="/hashflare-cloud-mining-review/">Hashflare</a> oferece contratos de mineração de scrypt com uma compra mínima de 1 MH/s.
 
-Análise da Genesis Mining: a Genesis Mining oferece contratos de mineração de Litecoin em nuvem.
+Análise da Genesis Mining: a <a href="/genesis-mining-review/">Genesis Mining</a> oferece contratos de mineração de Litecoin em nuvem.
 
 Análise da Minex: a Minex é um agregador inovador de projetos de blockchain apresentado em um formato de jogo de simulação econômica. Os usuários adquirem Cloudpacks, que podem ser usados para criar um índice a partir de conjuntos pré-escolhidos de fazendas de mineração em nuvem, loterias, casinos, mercados do mundo real e muito mais.
 
