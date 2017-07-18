@@ -135,11 +135,11 @@ Ha habido una gran cantidad deestafas de minería de bitcoinsen la nube como el 
 
 <strong>Reseña de Minex</strong>: Minex es un agregador innovador de proyectos de cadena de bloques, presentado en un formato económico de juego de simulación. Los usuarios compran Cloudpacks que luego se pueden usar para construir un índice a partir de grupos preseleccionados de granjas de minado en la nube, loterías, casinos, mercados del mundo real y mucho más.
 
-<strong>Reseña de Minergate<strong>: MinerGatees una piscina de mineroscreada por un grupo deseguidores de las criptomonedas. Es la primera piscina que ofrece el servicio de minería fusionada. Esto significa que, al minar en la piscina, se pueden minar diferentes criptomonedas al mismo tiempo sinque disminuya la tasa de hash (hash rate) de la criptomoneda principal.
+<strong>Reseña de Minergate</strong>: MinerGatees una piscina de mineroscreada por un grupo deseguidores de las criptomonedas. Es la primera piscina que ofrece el servicio de minería fusionada. Esto significa que, al minar en la piscina, se pueden minar diferentes criptomonedas al mismo tiempo sinque disminuya la tasa de hash (hash rate) de la criptomoneda principal.
 
-<strong>Reseña de Hashnest<strong>: Hashnest es operado por Bitmain, el productor de la línea Antminer de mineros de Bitcoin. Hashnest actualmente cuenta con más de 600 Antminer S7 para alquilar. Puedes ver los precios más actualizados y la disponibilidad en el sitio web de Hashnest.
+<strong>Reseña de Hashnest</strong>: Hashnest es operado por Bitmain, el productor de la línea Antminer de mineros de Bitcoin. Hashnest actualmente cuenta con más de 600 Antminer S7 para alquilar. Puedes ver los precios más actualizados y la disponibilidad en el sitio web de Hashnest.
 
-<strong>Reseña de Bitcoin Cloud Mining<strong>: Supuestamente lleva minando bitcoinsdesde mediados de 2013. Todos los mineros de bitcoins se encuentran ubicados en un moderno centro de datos en Australia y tienen acceso directoa equipos de alta calidad y soporte ininterrumpido.
+<strong>Reseña de Bitcoin Cloud Mining</strong>: Supuestamente lleva minando bitcoinsdesde mediados de 2013. Todos los mineros de bitcoins se encuentran ubicados en un moderno centro de datos en Australia y tienen acceso directoa equipos de alta calidad y soporte ininterrumpido.
 
 <strong>Reseña de NiceHash</strong>: NiceHashte ofrece compra y venta depoder de hasheo (hashingpower). Venderpoder de hasheoes tan sencillo como conectar tu minero a nuestras piscinas de minerosstratummientras que los compradores pueden comprarpoder de hasheopor encargo, y se paga mediante un método de reparto. Dice contar con un innovador servicio de minería en la nube y libre de riesgos. Puedes minar casi todas las criptomonedas populares, basándose en SHA-256 (Bitcoin, etc.), Scrypt (Litecoin, Dogecoin, etc.), Scrypt-N (Vertcoin, etc.) y X11 (DarkCoin, etc.).
 
