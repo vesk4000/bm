@@ -88,7 +88,7 @@ También necesitarás poder comprar y vender tus Bitcoins. Para esto recomendamo
 <li><a href="https://www.kraken.com/">Kraken</a>: el mayor intercambio europeo con SEPA de un mismo día</li>
 <li><a href="https://www.weusecoins.com/en/how-buy-bitcoins-online-best-bitcoin-exchange-rate-bitcoin-price/">Guía para comprar Bitcoin</a>: obtén ayuda para encontrar un intercambio de Bitcoin en tu país.</li>
 <li><a href="http://geni.us/localbitcoins">Bitcoins locales</a>: este fantástico servicio te permite buscar personas en tu comunidad dispuestas a venderte bitcoins directamente a ti. ¡Pero ten cuidado!</li>
-<li><a href="http://geni.us/coinbase">Coinbase es un buen lugar para comenzar al comprar bitcoins. Recomendamos encarecidamente que no mantenga ningún bitcoin en su servicio.</li>
+<li><a href="http://geni.us/coinbase">Coinbase</a> es un buen lugar para comenzar al comprar bitcoins. Recomendamos encarecidamente que no mantenga ningún bitcoin en su servicio.</li>
 </ul>
 <h2>Paso 5: mantente al día con las noticias de Bitcoin</h2>
 
