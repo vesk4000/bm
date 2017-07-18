@@ -33,25 +33,25 @@ Eine andere Möglichkeit besteht darin, sich in Verträge über Bitcoin-Cloudmin
 
 Dass ein Dienst in diesem Abschnitt aufgelistet ist, ist KEINE Empfehlung für ihn. Es sind eine überaus hohe Zahl an Betrugsfällen im Zusammenhang mit Bitcoin-Cloudmining aufgetreten.
 
-<a href="/hashflare-cloud-mining-review/">Hashflare Review</a>: <a href="http://geni.us/hashflare">Hashflare</a> bietet SHA-256-Mining-Verträge an und es können profitträchtigere SHA-256-Münzen geschürft werden, während die automatischen Auszahlungen immer noch in BTC erfolgen. Kunden müssen mindestens 10 GH/s erwerben.
+<strong><a href="http://geni.us/hashflare">Hashflare Review</a></strong>: Hashflare bietet SHA-256-Mining-Verträge an und es können profitträchtigere SHA-256-Münzen geschürft werden, während die automatischen Auszahlungen immer noch in BTC erfolgen. Kunden müssen mindestens 10 GH/s erwerben.
 
-<a href="/genesis-mining-review/">Genesis Mining Review</a>: <a href="http://geni.us/genesismining">Genesis Mining</a> ist der größte Anbieter für Bitcoin- und Scrypt-Cloudmining. Genesis Mining macht drei Angebote zum Bitcoin-Cloud-Mining in vernünftiger Preislage. Es werden auch Verträge zum  Zcash-Mining  angeboten.
+<strong><a href="http://geni.us/advendorgm">Genesis Mining Review</a></strong>: <a href="http://geni.us/genesismining">Genesis Mining</a> ist der größte Anbieter für Bitcoin- und Scrypt-Cloudmining. Genesis Mining macht drei Angebote zum Bitcoin-Cloud-Mining in vernünftiger Preislage. Es werden auch Verträge zum  Zcash-Mining  angeboten.
 
-Hashing 24 Review: Hashing24 ist seit 2012 am Bitcoin-Mining beteiligt. Sie unterhalten Anlagen in Island und in Georgien. Sie setzen moderne ASIC-Chips von BitFury ein, die die derzeit höchste Leistung und Effizienz erbringen.
+<strong><a href="http://geni.us/hashing24">Hashing 24 Review</a></strong>: Hashing24 ist seit 2012 am Bitcoin-Mining beteiligt. Sie unterhalten Anlagen in Island und in Georgien. Sie setzen moderne ASIC-Chips von BitFury ein, die die derzeit höchste Leistung und Effizienz erbringen.
 
-Minex Review: Minex ist ein innovativer Sammler von Blockchain-Projekten, die in einem Wirtschaftssimulationsspiel vorgestellt worden sind. Die Nutzer erwerben Cloudpacks, die anschließend eingesetzt werden können, um aus zuvor ausgesuchten Cloudmining-Farms, Lotterien, Casinos, Märkten im realen Leben und vielem mehr einen Index zu erstellen.
+<strong><a href="http://geni.us/minex">Minex Review</a></strong>: Minex ist ein innovativer Sammler von Blockchain-Projekten, die in einem Wirtschaftssimulationsspiel vorgestellt worden sind. Die Nutzer erwerben Cloudpacks, die anschließend eingesetzt werden können, um aus zuvor ausgesuchten Cloudmining-Farms, Lotterien, Casinos, Märkten im realen Leben und vielem mehr einen Index zu erstellen.
 
-Minergate Review: Bietet sowohl Pool-Mining als auch gemischte Mining- und Cloudmining-Dienste für Bitcoin an.
+<strong>Minergate Review</strong>: Bietet sowohl Pool-Mining als auch gemischte Mining- und Cloudmining-Dienste für Bitcoin an.
 
-Hashnest Review: Hashnest wird durch Bitmain, den Hersteller der Antminer-Linie von Bitcoin-Miners, betrieben. Hashnest bietet derzeit mehr als 600 Antminer S7 zur Verpachtung an. Sie können die letztgültige Preisliste und Verfügbarkeit auf der Webseite von Hashnest anschauen. Als dies geschrieben wurde, konnte man die Hash-Leistung eines Antminer S7 für 1200 US-$ (ca. 1100 €) pachten.
+<strong><a href="http://geni.us/advendorgm">Hashnest Review</a></strong>: Hashnest wird durch Bitmain, den Hersteller der Antminer-Linie von Bitcoin-Miners, betrieben. Hashnest bietet derzeit mehr als 600 Antminer S7 zur Verpachtung an. Sie können die letztgültige Preisliste und Verfügbarkeit auf der Webseite von Hashnest anschauen. Als dies geschrieben wurde, konnte man die Hash-Leistung eines Antminer S7 für 1200 US-$ (ca. 1100 €) pachten.
 
-Bitcoin Cloud Mining Review: Derzeit sind alle Verträge über Bitcoin-Cloudmining ausverkauft.
+<strong>Bitcoin Cloud Mining Review</strong>: Derzeit sind alle Verträge über Bitcoin-Cloudmining ausverkauft.
 
-NiceHash Review: NiceHash ist darin einzigartig, dass sie ein Auftragsbuch verwenden, um Anbieter von und Nachfrager nach Mining-Verträgen zusammenzubringen. Schauen Sie deren Webseite an für den letzten Stand der Preise.
+<strong>NiceHash Review</strong>: NiceHash ist darin einzigartig, dass sie ein Auftragsbuch verwenden, um Anbieter von und Nachfrager nach Mining-Verträgen zusammenzubringen. Schauen Sie deren Webseite an für den letzten Stand der Preise.
 
-Eobot Review: Steigen Sie mit nur 10 Dollar (9,23 €) ins Bitcoin-Cloudmining ein. Eobot behauptet, dass Kunden damit innerhalb von 14 Monaten den Break-Even schaffen.
+<strong><a href="http://geni.us/hashflare">Eobot Review</a></strong>: Steigen Sie mit nur 10 Dollar (9,23 €) ins Bitcoin-Cloudmining ein. Eobot behauptet, dass Kunden damit innerhalb von 14 Monaten den Break-Even schaffen.
 
-MineOnCloud Review: MineOnCloud unterhalten derzeit etwa 35 TH/s an Mining-Ausrüstung, die in der Cloud verpachtet werden. Einige zur Verpachtung stehende Miner sind der AntMiner S4s und der S5s.  
+<strong>MineOnCloud Review</strong>: MineOnCloud unterhalten derzeit etwa 35 TH/s an Mining-Ausrüstung, die in der Cloud verpachtet werden. Einige zur Verpachtung stehende Miner sind der AntMiner S4s und der S5s.  
 
 <h2>Schritt 2 - Kostenlose Software für das Bitcoin-Mining herunterladen</h2>
 
@@ -70,10 +70,10 @@ Als völlig dezentralen Pool empfehlen wir ganz klar  p2pool.
 Von den folgenden Pools wird angenommen, dass sie derzeit Blöcke vollständig validieren  mit Bitcoin Core 0.9.5 oder höher (0.10.2 oder höher ist wegen der Verwundbarkeit durch DoS-Angriffe empfehlenswert):
 
 <ul>
-<li>BitMinter</li>
-<li>CK Pool</li>
-<li>Eligius</li>
-<li>Slush Pool</li>
+<li><a href="https://bitminter.com/">BitMinter</a></li>
+<li><a href="http://www.kano.is/">CK Pool</a></li>
+<li><a href="http://eligius.st/~gateway/">Eligius</a></li>
+<li><a href="https://en.bitcoin.it/wiki/Bitcoin_Pooled_Mining">Slush Pool</a></li>
 </ul>
 
 <h2>Schritt 4 - Richten Sie sich ein Bitcoin-Wallet ein</h2>
@@ -86,11 +86,11 @@ Wenn Sie bei der Wahl Ihres Bitcoin-Wallet Hilfe brauchen, können Sie  hiermit 
 
 Sie müssen auch in der Lage sein, Ihre Bitcoins zu kaufen und zu verkaufen. Dafür empfehlen wir:
 <ul>
-<li>SpectroCoin - Europäischer Exchanger, der SEPA-Transfers am selben Tag anbietet und bei dem man mit Kreditkarte kaufen kann</li>
-<li>Kraken - Größter europäischer Exchanger mit SEPA-Transfers am selben Tag</li>
-<li>Buying Bitcoin Guide - Bietet Ihnen Hilfe, einen Bitcoin-Wechsler in Ihrem Land zu finden</li>
-<li>Local Bitcoins - Dieser fantastische Dienst ermöglicht Ihnen, nach Leuten in Ihrer Gemeinde zu suchen, die Ihnen Bitcoins direkt verkaufen wollen. Doch seien Sie auf der Hut!</li>
-<li>Coinbase ist ein guter Ort, um mit dem Kauf von Bitcoins zu beginnen. Wir empfehlen Ihnen dringend, Bitcoins nicht in deren Dienst verbleiben zu lassen.</li>
+<li><a href="http://geni.us/spectrocoin">SpectroCoin</a> - Europäischer Exchanger, der SEPA-Transfers am selben Tag anbietet und bei dem man mit Kreditkarte kaufen kann</li>
+<li><a href="https://www.kraken.com/">Kraken</a> - Größter europäischer Exchanger mit SEPA-Transfers am selben Tag</li>
+<li><a href="https://www.weusecoins.com/en/how-buy-bitcoins-online-best-bitcoin-exchange-rate-bitcoin-price/">Buying Bitcoin Guide</a> - Bietet Ihnen Hilfe, einen Bitcoin-Wechsler in Ihrem Land zu finden</li>
+<li><a href="http://geni.us/localbitcoins">Local Bitcoins</a> - Dieser fantastische Dienst ermöglicht Ihnen, nach Leuten in Ihrer Gemeinde zu suchen, die Ihnen Bitcoins direkt verkaufen wollen. Doch seien Sie auf der Hut!</li>
+<li><a href="http://geni.us/coinbase">Coinbase</a> ist ein guter Ort, um mit dem Kauf von Bitcoins zu beginnen. Wir empfehlen Ihnen dringend, Bitcoins nicht in deren Dienst verbleiben zu lassen.</li>
 </ul>
 <h2>Schritt 5 - Bleiben Sie mit Bitcoin News auf dem neuesten Stand</h2>
 
@@ -100,5 +100,5 @@ Dort gibt es den  Bitcoin-Mining-Nachrichtenbereich , und dies sind die 5 neuest
 
 [WARNUNG] - Am  1. August 2017  findet der BIP 148 UASF statt. Dies könnte große Auswirkungen auf Ihre Verdienste als Bitcoin-Miner haben, und zwar egal ob Sie das Mining für die herkömmliche Blockchain oder die BIP-148-Blockchain betreiben.
 
-Um sich darauf vorzubereiten, raten wir Ihnen, diesen  UASF Guide zu lesen.
+Um sich darauf vorzubereiten, raten wir Ihnen, diesen  <a href="https://www.weusecoins.com/uasf-guide/">UASF Guide</a> zu lesen.
 
