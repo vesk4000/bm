@@ -53,13 +53,13 @@ published: true
 
 <strong>Обзор Minergate</strong>: предлагает как пул, так и сервисы объединённого майнинга и облачного майнинга для Bitcoin.
 
-<strong>< ahref="http://geni.us/advendorgm">Обзор Hashnest</a></strong>: сервисом HashNest управляет Bitmain, производитель линии Antminerмайнеров системы Bitcoin. В настоящее время HashNest сдают в аренду более 600 единиц Antminer S7. Вы можете просмотреть обновленные цены и доступность на веб-сайте Hashnest. На момент подготовки настоящего документа один хешрейт на базе AntminerS7 можно было арендовать за 1200 долларов.
+<strong><a href="http://geni.us/advendorgm">Обзор Hashnest</a></strong>: сервисом HashNest управляет Bitmain, производитель линии Antminerмайнеров системы Bitcoin. В настоящее время HashNest сдают в аренду более 600 единиц Antminer S7. Вы можете просмотреть обновленные цены и доступность на веб-сайте Hashnest. На момент подготовки настоящего документа один хешрейт на базе AntminerS7 можно было арендовать за 1200 долларов.
 
 <strong>Обзор BitcoinCloudMining</strong>: наданныймоментвсеконтрактыBitcoinCloudMiningпроданы. 
 
 <strong>Обзор NiceHash</strong>: сервис NiceHash уникален тем, что он использует книгу заказов, чтобы соответствовать потребностям покупателей и продавцов контрактов майнинга. Просмотрите обновленные цены на сайте сервиса.
 
-<strong>< a href="http://geni.us/hashflare">Обзор Eobot</a></strong>: приступайте к облачному майнингу системы Bitcoin всего за 10 долларов. Eobot заявляет, что для клиентов период самоокупаемости составляет 14 месяцев.
+<strong><a href="http://geni.us/hashflare">Обзор Eobot</a></strong>: приступайте к облачному майнингу системы Bitcoin всего за 10 долларов. Eobot заявляет, что для клиентов период самоокупаемости составляет 14 месяцев.
 
 <strong>ОбзорMineOnCloud</strong>: в настоящее время MineOnCloud сдают в аренду установки майнинга приблизительно на 35 TH/s (килохешв секунду) в облачном хранилище. Возможно арендовать AntMinerS4 и S5.
 
@@ -83,7 +83,7 @@ published: true
 
 <strong><a href="http://geni.us/hashflare">Обзор Hashflare</a></strong>: сервис <a href="/hashflare-cloud-mining-review/">Hashflare</a> предлагает контракты скрипт-майнинга с минимальной закупкой в 1 Мхш/сек.
 
-<strong>< ahref="http://geni.us/advendorgm">Обзор GenesisMining</a></strong>: сервис <a href="/genesis-mining-review/">GenesisMining</a> предлагает контракты облачного майнинга Litecoin.
+<strong><a href="http://geni.us/advendorgm">Обзор GenesisMining</a></strong>: сервис <a href="/genesis-mining-review/">GenesisMining</a> предлагает контракты облачного майнинга Litecoin.
 
 <strong><a href="http://geni.us/minex">Обзор Minex</a></strong>: Minex – это инновационный агрегатор проектов цепочки блоков транзакций или блокчейн, представленный в формате экономического симулятора. Пользователи приобретают Cloudpacks (пакеты облачного хранилища), что далее может быть использовано для создания коэффициента из предварительно выбранных наборов облачного майнинга ферм, лотерей, казино, реальных рынков и многого другого.
 
