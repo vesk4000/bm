@@ -57,7 +57,7 @@ Bitcoinクラウドマイニングは、クラウドハッシングと呼ばれ�
 
 <strong><a href="http://geni.us/advendorgm">Hashnest Review</a></strong>：HashnestはBitcoinマイナーのAntminerライン製造者であるBitmainが運営している。HashNestは現在、600以上の貸出用Antminer S7sを保有している。HashNestのウェブサイトで最新の価格と利用状況を閲覧できる。執筆時点では、1つのAntminer S7のハッシュレートが1,200米ドルで借りられる。
 
-<strong>Bitcoin Cloud Mining Review</strong>：現在全Bitcoinクラウドマイニング契約は売り切れている。
+<strong>Bitcoin Cloud Mining Review</strong></strong>：現在全Bitcoinクラウドマイニング契約は売り切れている。
 
 <strong>NiceHash Review</strong>：NiceHashは、マイニング契約購入者と販売者をマッチングする注文帳を使っている点でユニークだ。最新価格はウェブサイトで確認できる。
 
