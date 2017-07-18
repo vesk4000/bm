@@ -35,7 +35,7 @@ Dass ein Dienst in diesem Abschnitt aufgelistet ist, ist KEINE Empfehlung für i
 
 <strong><a href="http://geni.us/hashflare">Hashflare Review</a></strong>: Hashflare bietet SHA-256-Mining-Verträge an und es können profitträchtigere SHA-256-Münzen geschürft werden, während die automatischen Auszahlungen immer noch in BTC erfolgen. Kunden müssen mindestens 10 GH/s erwerben.
 
-<strong><a href="http://geni.us/advendorgm">Genesis Mining Review</a></strong>: <a href="http://geni.us/genesismining">Genesis Mining</a> ist der größte Anbieter für Bitcoin- und Scrypt-Cloudmining. Genesis Mining macht drei Angebote zum Bitcoin-Cloud-Mining in vernünftiger Preislage. Es werden auch Verträge zum  Zcash-Mining  angeboten.
+<strong><a href="http://geni.us/advendorgm">Genesis Mining Review</a></strong>: Genesis Mining ist der größte Anbieter für Bitcoin- und Scrypt-Cloudmining. Genesis Mining macht drei Angebote zum Bitcoin-Cloud-Mining in vernünftiger Preislage. Es werden auch Verträge zum  Zcash-Mining  angeboten.
 
 <strong><a href="http://geni.us/hashing24">Hashing 24 Review</a></strong>: Hashing24 ist seit 2012 am Bitcoin-Mining beteiligt. Sie unterhalten Anlagen in Island und in Georgien. Sie setzen moderne ASIC-Chips von BitFury ein, die die derzeit höchste Leistung und Effizienz erbringen.
 
