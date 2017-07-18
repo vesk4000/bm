@@ -54,7 +54,7 @@ Estar listado nesta seção NÃO é um endosso a esses serviços e serve apenas 
 
 <strong><a href="http://geni.us/hashing24">Análise da Minex</a></strong>: a Minex é um agregador inovador de projetos de blockchain apresentado em um formato de jogo de simulação econômica. Os usuários adquirem Cloudpacks, que podem ser usados para criar um índice a partir de conjuntos pré-escolhidos de fazendas de mineração em nuvem, loterias, casinos, mercados do mundo real e muito mais.
 
-<strong>Análise da Minergate: oferece serviços de mineração mesclada e de pool, e mineração em nuvem para Bitcoin.
+<strong>Análise da Minergate</strong>: oferece serviços de mineração mesclada e de pool, e mineração em nuvem para Bitcoin.
 
 <strong><a href="http://geni.us/advendorgm">Análise da HashNest</a></strong>: a HashNest é operada pela Bitmain, a produtora da linha AntMiner de mineradores de Bitcoin. A HashNest atualmente tem mais de 600 AntMiner S7s para alugar. Você pode ver o preço e a disponibilidade mais atualizados no site da Hashnest. No momento da elaboração do artigo, a taxa de mineração de um Antminer S7 podia ser alugada por US$ 1.200.
 
