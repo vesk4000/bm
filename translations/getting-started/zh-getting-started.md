@@ -34,25 +34,25 @@ published: true
 
 本节列出的并不是对这些服务的认可。已经发生过许多比特币云挖矿诈骗事件了。
 
-Hashflare 评价：Hashflare提供SHA-256 挖矿合同，也可以挖更有利可图的SHA-256 比特币，同时仍使用比特币自动付款。客户必须至少购买10 GH/s。
+<strong><a href="http://geni.us/hashflare">Hashflare 评价</a></strong>：Hashflare提供SHA-256 挖矿合同，也可以挖更有利可图的SHA-256 比特币，同时仍使用比特币自动付款。客户必须至少购买10 GH/s。
 
-Genesis Mining 评价：Genesis Mining 是最大的比特币云算力挖矿提供商。Genesis Mining提供三种比特币云挖矿计划，价格合理。另外也提供Zcash挖矿合同。
+<strong><a href="http://geni.us/advendorgm">Genesis Mining 评价</a></strong>：Genesis Mining 是最大的比特币云算力挖矿提供商。Genesis Mining提供三种比特币云挖矿计划，价格合理。另外也提供Zcash挖矿合同。
 
-Hashing 24 评价：Hashing24自2012年以来就参与到比特币挖矿行业。他们在冰岛和格鲁吉亚有设施。他们使用BitFury的现代ASIC芯片，可以提供最佳的性能和效率。
+<strong><a href="http://geni.us/hashing24">Hashing 24 评价</a></strong>：Hashing24自2012年以来就参与到比特币挖矿行业。他们在冰岛和格鲁吉亚有设施。他们使用BitFury的现代ASIC芯片，可以提供最佳的性能和效率。
 
-Minex 评价：Minex是以经济模拟游戏格式呈现的区块链项目的创新聚合者。用户购买Cloudpack，然后可以使用它们为预先选定的云挖矿场、彩票、赌场、现实世界市场等建立索引。
+<strong><a href="http://geni.us/minex">Minex 评价</a></strong>：Minex是以经济模拟游戏格式呈现的区块链项目的创新聚合者。用户购买Cloudpack，然后可以使用它们为预先选定的云挖矿场、彩票、赌场、现实世界市场等建立索引。
 
-Minergate 评价：提供比特币矿池以及合并的挖矿和云挖矿服务。
+<strong>Minergate 评价</strong>：提供比特币矿池以及合并的挖矿和云挖矿服务。
 
-Hashnest 评价：Hashnest由比特币蚂蚁矿机的生产商Bitmain 运营。 HashNest目前有超过600台蚂蚁矿机 S7 供出租。你可以在Hashnest的网站上查看最新的价格和可租用的数量。在撰写本文时，一台蚂蚁矿机 S7的哈希率可以租$1200。
+<strong><a href="http://geni.us/advendorgm">Hashnest 评价</a></strong>：Hashnest由比特币蚂蚁矿机的生产商Bitmain 运营。 HashNest目前有超过600台蚂蚁矿机 S7 供出租。你可以在Hashnest的网站上查看最新的价格和可租用的数量。在撰写本文时，一台蚂蚁矿机 S7的哈希率可以租$1200。
 
-Bitcoin Cloud Mining 评价：当前 Bitcoin Cloud Mining 的合同已经售罄。
+<strong>Bitcoin Cloud Mining 评价</strong>：当前 Bitcoin Cloud Mining 的合同已经售罄。
 
-NiceHash 评价：NiceHash独一无二的原因在于，它使用订单来匹配采矿合同买家和卖家。查看其网站以了解最新价格。
+<strong>NiceHash 评价</strong>：NiceHash独一无二的原因在于，它使用订单来匹配采矿合同买家和卖家。查看其网站以了解最新价格。
 
-Eobot 评价：刚开始时比特币云挖矿的价格可以低至$10。Eobot声称客户可以在14个月后实现盈亏平衡。
+<strong><a href="http://geni.us/hashflare">Eobot 评价</a></strong>：刚开始时比特币云挖矿的价格可以低至$10。Eobot声称客户可以在14个月后实现盈亏平衡。
 
-MineOnCloud 评价：MineOnCloud目前在云端有约35 TH/s的挖矿设备可供出租。另外还有一些挖矿机出租，其中包括蚂蚁矿机S4和S5。
+<strong>MineOnCloud 评价</strong>：MineOnCloud目前在云端有约35 TH/s的挖矿设备可供出租。另外还有一些挖矿机出租，其中包括蚂蚁矿机S4和S5。
 
 <h2>步骤 2 - 下载免费的比特币挖矿软件</h2>
 
@@ -70,10 +70,10 @@ MineOnCloud 评价：MineOnCloud目前在云端有约35 TH/s的挖矿设备可�
 
 以下矿池被认为目前正在使用比特币核心钱包 0.9.5或更高版本的有效数据块（由于DoS漏洞而推荐使用0.10.2或更高版本）
 <ul>
-<li>BitMinter</li>
-<li>CK Pool</li>
-<li>Eligius</li>
-<li>Slush Pool</li>
+<li><a href="https://bitminter.com/">BitMinter</a></li>
+<li><a href="http://www.kano.is/">CK Pool</a></li>
+<li><a href="http://eligius.st/~gateway/">Eligius</a></li>
+<li><a href="https://en.bitcoin.it/wiki/Bitcoin_Pooled_Mining">Slush Pool</a></li>
 </ul>
 <h2>步骤 4 - 设置比特币钱包</h2>
 
@@ -85,11 +85,11 @@ MineOnCloud 评价：MineOnCloud目前在云端有约35 TH/s的挖矿设备可�
 
 您还需要能够购买和出售你的比特币。为此，我们建议：
 <ul>
-<li>SpectroCoin - 同日 SEPA 的欧洲交易平台，可以使用信用卡购买</li>
-<li>Kraken - 最大的欧洲交易平台，具有同日SEPA</li>
-<li>Buying Bitcoin Guide - 帮助你寻找你所在国家的比特币交易平台。</li>
-<li>Local Bitcoins - 这个奇妙的服务可让你在你的社区寻找愿意直接出售给你比特币的人。不过要小心！</li>
-<li>购买比特币时，Coinbase 是一个很好的开始之地。我们强烈建议你不要在其服务中保存任何比特币。</li>
+<li><a href="http://geni.us/spectrocoin">SpectroCoin</a> - 同日 SEPA 的欧洲交易平台，可以使用信用卡购买</li>
+<li><a href="https://www.kraken.com/">Kraken</a> - 最大的欧洲交易平台，具有同日SEPA</li>
+<li><a href="https://www.weusecoins.com/en/how-buy-bitcoins-online-best-bitcoin-exchange-rate-bitcoin-price/">Buying Bitcoin Guide</a> - 帮助你寻找你所在国家的比特币交易平台。</li>
+<li><a href="http://geni.us/localbitcoins">Local Bitcoins</a> - 这个奇妙的服务可让你在你的社区寻找愿意直接出售给你比特币的人。不过要小心！</li>
+<li>购买比特币时，<a href="http://geni.us/coinbase">Coinbase</a> 是一个很好的开始之地。我们强烈建议你不要在其服务中保存任何比特币。</li>
 </ul>
 <h2>步骤 5 - 关注最新的比特币新闻</h2>
 
