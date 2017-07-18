@@ -17,7 +17,7 @@ Antes de comenzar a minar Bitcoin, es útil entender lo que realmente significa 
 
 La red de Bitcoin compensa a los mineros de Bitcoin por su esfuerzo liberando bitcoin a aquellos que aportan la potencia computacional necesaria. Esto se presenta en forma de bitcoins recién emitidos y los costes de transacción incluidos en las transacciones validadas al minar bitcoins. Cuanto más poder de computación aportas, mayor será tu parte de recompensa.
 
-Paso 1: obtén el mejor hardware de minería de Bitcoin
+<h2>Paso 1: obtén el mejor hardware de minería de Bitcoin</h2>
 
 Adquirir Bitcoins: en algunos casos, puede que tengas que comprar hardware de minería con bitcoins. Actualmente, puedes comprar la mayor parte del hardware en Amazon. También puede que quieras echar un vistazo a los gráficos de bitcoin. 
 
@@ -33,23 +33,23 @@ Otra opción es comprar contratos de minería en la nube de Bitcoin. Esto simpli
 
 Que esté anunciado en esta sección NO implica una aprobación de estos servicios. Ha habido una tremenda cantidad de estafas de minería en la nube de Bitcoin.
 
-Comentario de Hashflare: Hashflare ofrece contratos de minería SHA-256 y las monedas SHA-256 más rentables pueden ser minadas mientras que los pagos automáticos todavía están en BTC. Los clientes deben comprar al menos 10 GH/s.
+<strong><a href="http://geni.us/hashflare">Comentario de Hashflare</a></strong>: Hashflare ofrece contratos de minería SHA-256 y las monedas SHA-256 más rentables pueden ser minadas mientras que los pagos automáticos todavía están en BTC. Los clientes deben comprar al menos 10 GH/s.
 
-Comentario de Genesis Mining: Genesis Mining es el mayor proveedor de minería en la nube de Bitcoin y scrypt. Genesis Mining ofrece tres planes de minería en la nube de Bitcoin por un precio razonable. Los contratos de minería de Zcash también están disponibles.
+<strong><a href="http://geni.us/advendorgm">Comentario de Genesis Mining</a></strong>: Genesis Mining es el mayor proveedor de minería en la nube de Bitcoin y scrypt. Genesis Mining ofrece tres planes de minería en la nube de Bitcoin por un precio razonable. Los contratos de minería de Zcash también están disponibles.
 
-Comentario de Hashing 24: Hashing24 ha formado parte de la minería de Bitcoin desde 2012. Tienen instalaciones en Islandia y Georgia. Utilizan chips ASIC modernos de BitFury para ofrecer el máximo rendimiento y eficiencia posible.
+<strong><a href="http://geni.us/hashing24">Comentario de Hashing 24</a></strong>: Hashing24 ha formado parte de la minería de Bitcoin desde 2012. Tienen instalaciones en Islandia y Georgia. Utilizan chips ASIC modernos de BitFury para ofrecer el máximo rendimiento y eficiencia posible.
 
-Comentario de Minex: Minex es un innovador agregador de proyectos de cadena de bloques presentados en formato de simulación económica. Los usuarios compran Cloudpacks que luego pueden ser utilizados para crear un índice de conjuntos preseleccionados de explotaciones mineras en la nube, loterías, casinos, mercados del mundo real y mucho más.
+<strong><a href="http://geni.us/minex">Comentario de Minex</a></strong>: Minex es un innovador agregador de proyectos de cadena de bloques presentados en formato de simulación económica. Los usuarios compran Cloudpacks que luego pueden ser utilizados para crear un índice de conjuntos preseleccionados de explotaciones mineras en la nube, loterías, casinos, mercados del mundo real y mucho más.
 
-Comentario de Minergate: Ofrece servicios de grupo, de minería combinada y de minería en la nube para Bitcoin.
+<strong>Comentario de Minergate</strong>: Ofrece servicios de grupo, de minería combinada y de minería en la nube para Bitcoin.
 
-Comentario de Hashnest: Hashnest es operado por Bitmain, el productor de la línea Antminer de los mineros de Bitcoin. HashNest actualmente tiene más de 600 Antminer S7s en alquiler. Puedes ver los precios más actualizados y su disponibilidad en el sitio web de Hashnest. En el momento de escribir una tasa de hash S7 de Antminer se puede alquilar por 1200 $.
+<strong><a href="http://geni.us/advendorgm">Comentario de Hashnest</a></strong>: Hashnest es operado por Bitmain, el productor de la línea Antminer de los mineros de Bitcoin. HashNest actualmente tiene más de 600 Antminer S7s en alquiler. Puedes ver los precios más actualizados y su disponibilidad en el sitio web de Hashnest. En el momento de escribir una tasa de hash S7 de Antminer se puede alquilar por 1200 $.
 
-Comentario de minería en la nube de Bitcoin: actualmente todos los contratos de minería en la nube de Bitcoin están agotados.
+<strong>Comentario de minería en la nube de Bitcoin</strong>: actualmente todos los contratos de minería en la nube de Bitcoin están agotados.
 
-Comentario de NiceHash: NiceHash es único en el sentido de que utiliza una cartera de pedidos para hacer coincidir los compradores y vendedores de contratos de minería. Consulta en su sitio web los precios actualizados.
+<strong>Comentario de NiceHash</strong>: NiceHash es único en el sentido de que utiliza una cartera de pedidos para hacer coincidir los compradores y vendedores de contratos de minería. Consulta en su sitio web los precios actualizados.
 
-Comentario de Eobot: comienza la minería de la nube Bitcoin con tan solo 10 $. Eobot afirma que los clientes pueden romper incluso en 14 meses.
+<strong><a href="http://geni.us/hashflare">Comentario de Eobot</a></strong>: comienza la minería de la nube Bitcoin con tan solo 10 $. Eobot afirma que los clientes pueden romper incluso en 14 meses.
 
 Revisión de MineOnCloud MineOnCloud actualmente tiene alrededor de 35 TH/s de equipos de minería en alquiler en la nube. Algunos mineros disponibles para alquilar incluyen AntMiner S4s y S5s.
 
@@ -69,10 +69,10 @@ Para un grupo totalmente descentralizado, recomendamos encarecidamente p2pool.
 
 Se cree que los siguientes grupos son actualmente bloques que validan completamente con Bitcoin Core 0.9.5 o posterior (0.10.2 o posterior recomendado debido a vulnerabilidades de DoS):
 <ul>
-<li>BitMinter</li>
-<li>CK Pool</li>
-<li>Eligius</li>
-<li>Slush Pool</li>
+<li><a href="https://bitminter.com/">BitMinter</a></li>
+<li><a href="http://www.kano.is/">CK Pool</a></li>
+<li><a href="http://eligius.st/~gateway/">Eligius</a></li>
+<li><a href="https://en.bitcoin.it/wiki/Bitcoin_Pooled_Mining">Slush Pool</a></li>
 </ul>
 <h2>Paso 4: configura una cartera de Bitcoin</h2>
 
@@ -84,11 +84,11 @@ Para obtener ayuda para elegir una cartera de Bitcoin, puedes comenzar aquí.
 
 También necesitarás poder comprar y vender tus Bitcoins. Para esto recomendamos:
 <ul>
-<li>SpectroCoin: intercambio europeo con SEPA de un mismo día y se puede comprar con tarjeta de crédito</li>
-<li>Kraken: el mayor intercambio europeo con SEPA de un mismo día</li>
-<li>Guía para comprar Bitcoin: obtén ayuda para encontrar un intercambio de Bitcoin en tu país.</li>
-<li>Bitcoins locales: este fantástico servicio te permite buscar personas en tu comunidad dispuestas a venderte bitcoins directamente a ti. ¡Pero ten cuidado!</li>
-<li>Coinbase es un buen lugar para comenzar al comprar bitcoins. Recomendamos encarecidamente que no mantenga ningún bitcoin en su servicio.</li>
+<li><a href="http://geni.us/spectrocoin">SpectroCoin</a>: intercambio europeo con SEPA de un mismo día y se puede comprar con tarjeta de crédito</li>
+<li><a href="https://www.kraken.com/">Kraken</a>: el mayor intercambio europeo con SEPA de un mismo día</li>
+<li><a href="https://www.weusecoins.com/en/how-buy-bitcoins-online-best-bitcoin-exchange-rate-bitcoin-price/">Guía para comprar Bitcoin</a>: obtén ayuda para encontrar un intercambio de Bitcoin en tu país.</li>
+<li><a href="http://geni.us/localbitcoins">Bitcoins locales</a>: este fantástico servicio te permite buscar personas en tu comunidad dispuestas a venderte bitcoins directamente a ti. ¡Pero ten cuidado!</li>
+<li><a href="http://geni.us/coinbase">Coinbase</a> es un buen lugar para comenzar al comprar bitcoins. Recomendamos encarecidamente que no mantenga ningún bitcoin en su servicio.</li>
 </ul>
 <h2>Paso 5: mantente al día con las noticias de Bitcoin</h2>
 
@@ -99,4 +99,3 @@ Está la sección de noticias de minería de Bitcoin y estos son los cinco artí
 [ADVERTENCIA]: el 1 de agosto de 2017 se producirá el BIP 148 UASF. Esto podría tener un gran impacto en tus ganancias como minero de Bitcoin al extraer el legado o la cadena BIP 148.
  
 Para prepararte te recomendamos leer esta Guía UASF.
-

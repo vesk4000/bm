@@ -7,8 +7,6 @@ author-url: /melvin-draupnir/
 published: true
 ---
 
-
-
 このガイドでは、(1) ビットコインマイニングのしくみ、(2) ビットコインマイニングのはじめ方、(3) ビットコインマイニングの最良ソフトウェア、(4)ビットコインマイニングの最良ハードウェア、(5)ビットコインの最良マイニングプールの場所、(6)ビットコイン収入を最適化する方法、が習得できます。
 
 ビットコインマイニングで利益を出すのは難しいですが、トライしてみるならこのビットコインマイナーがおそらくナイスショットとなることでしょう。
@@ -37,25 +35,25 @@ published: true
 
 ここにリストとして挙げていることが、これらのサービスを支持することを意味するわけではありません。とてつもない数のビットコインクラウドマイニング詐欺が発生しています。
 
-Hashflareレビュー: HashflareはSHA-256マイニング契約および、自動支払いの通貨はBTCのまま、採掘可能なより収益率の高いSHA-256コイを提供しています。顧客は最低10 GH/s購入しなければなりません。
+<strong><a href="http://geni.us/hashflare">Hashflareレビュー</a></strong>: HashflareはSHA-256マイニング契約および、自動支払いの通貨はBTCのまま、採掘可能なより収益率の高いSHA-256コイを提供しています。顧客は最低10 GH/s購入しなければなりません。
 
-Genesis Miningレビュー: Genesis Miningは、ビットコインおよびスクリプトクラウドマイニングの最大手プロバイダーです。Genesis Miningは、手頃な価格でビットコインクラウドマイニングのプランを3つ提供しています。Zcashマイニング契約もできます。
+<strong><a href="http://geni.us/advendorgm">Genesis Miningレビュー</a></strong>: Genesis Miningは、ビットコインおよびスクリプトクラウドマイニングの最大手プロバイダーです。Genesis Miningは、手頃な価格でビットコインクラウドマイニングのプランを3つ提供しています。Zcashマイニング契約もできます。
 
-Hashing24レビュー:Hashing24は2012年からビットコインマイニングに携わっています。アイスランドとジョージア(グルジア)に設備があります。BitFury社製の最新ASICチップを使って、最大限の性能と効率を実現しています。
+<strong><a href="http://geni.us/hashing24">Hashing24レビュー</a></strong>:Hashing24は2012年からビットコインマイニングに携わっています。アイスランドとジョージア(グルジア)に設備があります。BitFury社製の最新ASICチップを使って、最大限の性能と効率を実現しています。
 
-Minexレビュー:Minexは、経済シミュレーションゲームのフォーマットで発表されたブロックチェーンプロジェクトのアグリゲーターです。ユーザーはあらかじめ選択した、クラウドマイニングファーム、くじ、カジノ、現実世界の市場、その他いろいろなセットからインデックスの構築に使用できるCloudpackを購入します。
+<strong><a href="http://geni.us/minex">Minexレビュー</a></strong>:Minexは、経済シミュレーションゲームのフォーマットで発表されたブロックチェーンプロジェクトのアグリゲーターです。ユーザーはあらかじめ選択した、クラウドマイニングファーム、くじ、カジノ、現実世界の市場、その他いろいろなセットからインデックスの構築に使用できるCloudpackを購入します。
 
-Minergateレビュー:ビットコインのプール、併合マイニングとクラウドマイニングの両方を提供します。
+<strong>Minergateレビュー</strong>:ビットコインのプール、併合マイニングとクラウドマイニングの両方を提供します。
 
-Hashnestレビュー:Hashnestは、ビットコインマイナーのAntminerラインのプロデューサーであるBitmainによって運営されています。Hashnestは、現在、レンタル用のAntminer S7s を600 以上所有しています。本稿執筆時には、Antminer S7s 1つあたりのハッシュレートは $1,200でレンタル可能となっています。
+<strong><a href="http://geni.us/advendorgm">Hashnestレビュー</a></strong>:Hashnestは、ビットコインマイナーのAntminerラインのプロデューサーであるBitmainによって運営されています。Hashnestは、現在、レンタル用のAntminer S7s を600 以上所有しています。本稿執筆時には、Antminer S7s 1つあたりのハッシュレートは $1,200でレンタル可能となっています。
 
-Bitcoin CloudMiningレビュー:現在、すべてのBitcoin Cloud Mining契約は売り切れです。
+<strong>Bitcoin CloudMiningレビュー</strong>:現在、すべてのBitcoin Cloud Mining契約は売り切れです。
 
-Nice Hashレビュー:Nice Hashは、注文控元帳を使ってマイニング契約の買い手と売り手をマッチングするところがユニークです。最新の価格についてはNice Hashのサイトをご覧ください。
+<strong>Nice Hashレビュー</strong>:Nice Hashは、注文控元帳を使ってマイニング契約の買い手と売り手をマッチングするところがユニークです。最新の価格についてはNice Hashのサイトをご覧ください。
 
-Eobotレビュー:ビットコインの採掘を、$10からという低価格でスタートしましょう。Eobotによると、顧客は14ヶ月で元が取れるということです。
+<strong><a href="http://geni.us/hashflare">Eobotレビュー</a></strong>:ビットコインの採掘を、$10からという低価格でスタートしましょう。Eobotによると、顧客は14ヶ月で元が取れるということです。
 
-MineOnCloudレビュー: MineOnCloudは、現在、レンタル用の約35 TH/sのマイニング設備をクラウドに所有しています。レンタル可能なマイナーの中にはAntMiner S4sおよびS5sが含まれています。
+<strong>MineOnCloudレビュー</strong>: MineOnCloudは、現在、レンタル用の約35 TH/sのマイニング設備をクラウドに所有しています。レンタル可能なマイナーの中にはAntMiner S4sおよびS5sが含まれています。
 
 <h2>ステップ2  - ビットコインマイニングのフリーソフトをダウンロードする</h2>
 
@@ -73,11 +71,12 @@ MineOnCloudレビュー: MineOnCloudは、現在、レンタル用の約35 TH/s�
 
 以下にあげるプールは、現在、ビットコイン・コア0.9.5もしくはそれ以降 (DoS脆弱性のため0.10.2 もしくはそれ以降を推奨) を用いたブロックの完全な認証の作業中と見られています。
 <ul>
-<li>BitMinter</li>
-<li>CK Pool</li>
-<li>Eligius</li>
-<li>Slush Pool</li>
+<li><a href="https://bitminter.com/">BitMinter</a></li>
+<li><a href="http://www.kano.is/">CK Pool</a></li>
+<li><a href="http://eligius.st/~gateway/">Eligius</a></li>
+<li><a href="https://en.bitcoin.it/wiki/Bitcoin_Pooled_Mining">Slush Pool</a></li>
 </ul>
+
 <h2>ステップ4 –ビットコインウォレットを設定する</h2>
 
 ビットコインを採掘する次のステップは、ビットコインウォレットを設定する、もしくは、既存のビットコインウォレットを採掘したビットコインの受け取りに使用することです。Copayは優れたビットコインウォレットで多様なオペレーティングシステムで機能します。ビットコインハードウェアウォレットも利用できます。
@@ -88,11 +87,11 @@ MineOnCloudレビュー: MineOnCloudは、現在、レンタル用の約35 TH/s�
 
 また、ビットコインの売買ができるようになる必要があります。そのためには以下をおすすめします。
 <ul>
-<li>SpectroCoin –クレジットカードでの購入ができる同日SEPAを扱うヨーロッパの取引所</li>
-<li>Kraken –同日SEPAを扱うヨーロッパ最大の取引所</li>
-<li>ビットコインガイドの購入 –自国のビットコイン取引所を見つけるヘルプを得る</li>
-<li>Local Bitcoins –このすばらしサービスを利用すれば、あなたのコミュニティーであなたに直接ビットコインを売りたい人を検索できます。ただし、気をつけてください!</li>
-<li>Coinbase –ビットコインを最初に購入するにはいいところです。このサービスにビットコインを保存しておくことは絶対におすすめしません。</li>
+<li><a href="http://geni.us/spectrocoin">SpectroCoin</a> –クレジットカードでの購入ができる同日SEPAを扱うヨーロッパの取引所</li>
+<li><a href="https://www.kraken.com/">Kraken</a> –同日SEPAを扱うヨーロッパ最大の取引所</li>
+<li><a href="https://www.weusecoins.com/en/how-buy-bitcoins-online-best-bitcoin-exchange-rate-bitcoin-price/">ビットコインガイドの購入</a> –自国のビットコイン取引所を見つけるヘルプを得る</li>
+<li><a href="http://geni.us/localbitcoins">Local Bitcoins</a> –このすばらしサービスを利用すれば、あなたのコミュニティーであなたに直接ビットコインを売りたい人を検索できます。ただし、気をつけてください!</li>
+<li><a href="http://geni.us/coinbase">Coinbase</a> –ビットコインを最初に購入するにはいいところです。このサービスにビットコインを保存しておくことは絶対におすすめしません。</li>
 </ul>
 <h2>ステップ5 - ビットコイン関連ニュースを常に最新に保つ</h2>
 

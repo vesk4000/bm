@@ -11,7 +11,7 @@ author-url: /melvin-draupnir/
 
 クラウドマイニングまたはクラウドハッシングなら、ユーザがデータセンター内ハードウェアのマイニング容量を購入できる。
 
-HashflareとGenesis Miningの2つの事業者は、数年間こうした契約を手供してきていた。
+<a href="http://geni.us/hashflare">Hashflare</a>と<a href="http://geni.us/genesismining">Genesis Mining</a>の2つの事業者は、数年間こうした契約を手供してきていた。
 
 Bitcoinクラウドマイニングにより、BitcoinマイニングハードウェアやBitcoinマイニングソフトウェア、電気、接続帯、その他オフラインの問題を抱えずに皆がBitcoinを得られる。
 
@@ -30,7 +30,7 @@ Bitcoinクラウドマイニングは、クラウドハッシングと呼ばれ�
 </ul>
 
 <h2>Bitcoinクラウドマイニングの短所は？</h2>
-
+<center><img src="/images/bitcoin-cloud-mining-scams.jpg" alt="bitcoin disadvantages"/></center>
 <ul>
 <li>詐欺！！！</li>
 <li>認証不可能か、さもなくがいかがわしいBitcoinクラウドマイニングの運営</li>
@@ -45,25 +45,25 @@ Bitcoinクラウドマイニングは、クラウドハッシングと呼ばれ�
 
 このセクションへの掲載はこれらのサービス推奨を意味しておらず、単にBitcoinクラウドマイニングの比較のためのものだ。非常に多数のBitcoinクラウドマイニング詐欺がこれまでに起こっている。
 
-Hashflareレビュー：HashflareはSHA-256マイニング契約を提供しており、自動支払はBTC建てのままでより利益率の高いSHA-256コインが採掘できる。カスタマーは、少なくとも10GH/sを購入せねばならない。
+<strong><a href="http://geni.us/hashflare">Hashflareレビュー</a></strong>：HashflareはSHA-256マイニング契約を提供しており、自動支払はBTC建てのままでより利益率の高いSHA-256コインが採掘できる。カスタマーは、少なくとも10GH/sを購入せねばならない。
 
-Genesis Miningレビュー：Genesis Miningは、最大のBitcoinおよびscryptクラウドマイニングプロバイダだ。Genesis Miningは、手ごろな価格の3つのBitcoinクラウドマイニングプランを提供している。Zcashマイニング契約も利用できる。
+<strong><a href="http://geni.us/advendorgm">Genesis Mining レビュー</a></strong>：Genesis Miningは、最大のBitcoinおよびscryptクラウドマイニングプロバイダだ。Genesis Miningは、手ごろな価格の3つのBitcoinクラウドマイニングプランを提供している。Zcashマイニング契約も利用できる。
 
-Hashing 24レビュー：	Hashing24はBitcoinマイニングに2012年から従事している。設備はアイスランドとグルジアにある。同社はBitFuryからのモダンなASIC チップを使い、最大限のパフォーマンスとできる限りの効率性を提供している。
+<strong><a href="http://geni.us/hashing24">Hashing 24レビュー</a></strong>：	Hashing24はBitcoinマイニングに2012年から従事している。設備はアイスランドとグルジアにある。同社はBitFuryからのモダンなASIC チップを使い、最大限のパフォーマンスとできる限りの効率性を提供している。
 
-Minexレビュー：Minexは、経済シミュレーション形式に示すようにブロックチェーンプロジェクトの革新的総合者である。ユーザはCloudpacksを購入し、予め選んだクラウドマイニングファーム、くじ、カジノ、実世界の市場などからインデックスを構築するのにこれを使える。
+<strong><a href="http://geni.us/minex">Minexレビュー</a></strong>：Minexは、経済シミュレーション形式に示すようにブロックチェーンプロジェクトの革新的総合者である。ユーザはCloudpacksを購入し、予め選んだクラウドマイニングファーム、くじ、カジノ、実世界の市場などからインデックスを構築するのにこれを使える。
 
-Minergate Review：同社はBitcoin向けに、プールと合併マイニングとクラウドマイニング両方を提供している。
+<strong>Minergate Review</strong>：同社はBitcoin向けに、プールと合併マイニングとクラウドマイニング両方を提供している。
 
-Hashnest Review：HashnestはBitcoinマイナーのAntminerライン製造者であるBitmainが運営している。HashNestは現在、600以上の貸出用Antminer S7sを保有している。HashNestのウェブサイトで最新の価格と利用状況を閲覧できる。執筆時点では、1つのAntminer S7のハッシュレートが1,200米ドルで借りられる。
+<strong><a href="http://geni.us/advendorgm">Hashnest Review</a></strong>：HashnestはBitcoinマイナーのAntminerライン製造者であるBitmainが運営している。HashNestは現在、600以上の貸出用Antminer S7sを保有している。HashNestのウェブサイトで最新の価格と利用状況を閲覧できる。執筆時点では、1つのAntminer S7のハッシュレートが1,200米ドルで借りられる。
 
-Bitcoin Cloud Mining Review：現在全Bitcoinクラウドマイニング契約は売り切れている。
+<strong>Bitcoin Cloud Mining Review</strong></strong>：現在全Bitcoinクラウドマイニング契約は売り切れている。
 
-NiceHash Review：NiceHashは、マイニング契約購入者と販売者をマッチングする注文帳を使っている点でユニークだ。最新価格はウェブサイトで確認できる。
+<strong>NiceHash Review</strong>：NiceHashは、マイニング契約購入者と販売者をマッチングする注文帳を使っている点でユニークだ。最新価格はウェブサイトで確認できる。
 
-Eobot Review：Bitcoinのクラウドマイニングをわずか10米ドルで始める。Eobotは、14ヶ月間でカスタマーは元が取れると主張している。
+<strong><a href="http://geni.us/hashflare">Eobot Review</a></strong>：Bitcoinのクラウドマイニングをわずか10米ドルで始める。Eobotは、14ヶ月間でカスタマーは元が取れると主張している。
 
-MineOnCloud Review：MineOnCloudは現在、クラウド上に約35 TH/sの貸出用マイニング機器を保有する。借りられるマイナーには、AntMiner S4sとS5sが含まれる。
+<strong>MineOnCloud Review</strong>：MineOnCloudは現在、クラウド上に約35 TH/sの貸出用マイニング機器を保有する。借りられるマイナーには、AntMiner S4sとS5sが含まれる。
 
 <h2>最高のBitcoinクラウドマイニング契約と比較</h2>
 
@@ -83,33 +83,33 @@ Bitcoinネットワーク難度は、およそ2週間に一度、または2,016�
 
 Litecoinクラウドマイニング契約の選択肢は限られている。以下リストにニーズを満たすものがなければ、Bitcoinクラウドマイニング契約（上掲）を買って単にそのBitcoinをLitecoinに両替すればいい。
 
-Hashflareレビュー：Hashflareは、最小購入量1MH/sでscryptマイニング契約を提供している。
+<strong><a href="http://geni.us/hashflare">Hashflareレビュー</a></strong>：Hashflareは、最小購入量1MH/sでscryptマイニング契約を提供している。
 
-Genesis Miningレビュー：Genesis Miningは、Litecoinクラウドマイニング契約を提供している。
+<strong><a href="http://geni.us/advendorgm">Genesis Miningレビュー</a></strong>：Genesis Miningは、Litecoinクラウドマイニング契約を提供している。
 
-Minexレビュー：Minexは、経済シミュレーション形式に示すようにブロックチェーンプロジェクトの革新的総合者である。ユーザはCloudpacksを購入し、予め選んだクラウドマイニングファーム、くじ、カジノ、実世界の市場などからインデックスを構築するのにこれを使える。
+<strong><a href="http://geni.us/minex">Minexレビュー</a></strong>：Minexは、経済シミュレーション形式に示すようにブロックチェーンプロジェクトの革新的総合者である。ユーザはCloudpacksを購入し、予め選んだクラウドマイニングファーム、くじ、カジノ、実世界の市場などからインデックスを構築するのにこれを使える。
 
-Minergateレビュー：同社はLitecoin向けに、プールと合併マイニングとクラウドマイニング両方を提供している。
+<strong>Minergateレビュー</strong>：同社はLitecoin向けに、プールと合併マイニングとクラウドマイニング両方を提供している。
 
-Eobotレビュー：Eobotは、0.0071 LTC毎月支払のあるLitecoinクラウドマイニング契約を提供している。
+<strong><a href="http://geni.us/hashflare">Eobotレビュー</a></strong>：Eobotは、0.0071 LTC毎月支払のあるLitecoinクラウドマイニング契約を提供している。
 
 <h2>最高のDashクラウドマイニングサービスと比較</h2>
 
 Dashクラウドマイニング契約の選択肢は限られている。以下リストにニーズを満たすものがなければ、Bitcoinクラウドマイニング契約（上掲）を買って単にそのBitcoinをDashに両替すればいい。
 
-Genesis Mining レビュー：Genesis Miningは最大のX11クラウドマイニングプロバイダだ。Genesis Miningは、3つの手ごろな価格のDash X11クラウドマイニングプランを提供している。
+<strong><a href="http://geni.us/advendorgm">Genesis Mining レビュー</a></strong>：Genesis Miningは最大のX11クラウドマイニングプロバイダだ。Genesis Miningは、3つの手ごろな価格のDash X11クラウドマイニングプランを提供している。
 
 <h2>最高のEtherクラウドマイニングサービスと比較</h2>
 
 Etherクラウドマイニング契約の選択肢は限られている。以下リストにニーズを満たすものがなければ、Bitcoinクラウドマイニング契約（上掲）を買って単にそのBitcoinをEtherに両替すればいい。
 
-Hashflareレビュー：Hashflareは、手ごろな価格のEthereumクラウドマイニング契約を提供する大手Etherクラウドマイニングプロバイダだ。
+<strong><a href="http://geni.us/hashflare">Hashflareレビュー</a></strong>：Hashflareは、手ごろな価格のEthereumクラウドマイニング契約を提供する大手Etherクラウドマイニングプロバイダだ。
 
-Genesis Miningレビュー：Genesis Miningは最大のEtherクラウドマイニングプロバイダだ。Ethereumクラウドマイニング契約は手ごろな価格だ。
+<strong><a href="http://geni.us/advendorgm">Genesis Miningレビュー</a></strong>：Genesis Miningは最大のEtherクラウドマイニングプロバイダだ。Ethereumクラウドマイニング契約は手ごろな価格だ。
 
-Minexレビュー：Minexは、経済シミュレーション形式に示すようにブロックチェーンプロジェクトの革新的総合者である。ユーザはCloudpacksを購入し、予め選んだクラウドマイニングファーム、くじ、カジノ、実世界の市場などからインデックスを構築するのにこれを使える。
+<strong><a href="http://geni.us/minex">Minexレビュー</a></strong>：Minexは、経済シミュレーション形式に示すようにブロックチェーンプロジェクトの革新的総合者である。ユーザはCloudpacksを購入し、予め選んだクラウドマイニングファーム、くじ、カジノ、実世界の市場などからインデックスを構築するのにこれを使える。
 
-Eobotレビュー：Eobotは、0.0060 ETH LTC毎月支払のあるEthereumクラウドマイニング契約を提供している。
+<strong><a href="http://geni.us/hashflare">Eobotレビュー</a></strong>：Eobotは、0.0060 ETH LTC毎月支払のあるEthereumクラウドマイニング契約を提供している。
 
 このEthereumクラウドマイニングガイドは、Amazonクラウドサーバを用いたEthereumのマイニング方法を教えてくれる。
 
@@ -117,44 +117,44 @@ Eobotレビュー：Eobotは、0.0060 ETH LTC毎月支払のあるEthereumクラ
 
 明らかになった500,000米ドルのBitcoinクラウドマイニング・ポンジスキームの可能性等、非常に多数のクラウドマイニング詐欺が起こっている。買う可能性のある人は、どんなBitcoinマイニング契約を買う前にも非常に慎重かつ注意深くならねばならない。気を付けるべきサービスは以下だ。
 
-Scrypt.ccレビュー：Scrypt.ccは、数秒でKHSを買えるようにし、すぐにマイニングを開始してリアルタイムでKHSを需給に基づく価格でトレードできるようにもする！全てのKHashesは2つの安全なデータセンターで、安全に保存・維持される。
+<strong>Scrypt.ccレビュー</strong>：Scrypt.ccは、数秒でKHSを買えるようにし、すぐにマイニングを開始してリアルタイムでKHSを需給に基づく価格でトレードできるようにもする！全てのKHashesは2つの安全なデータセンターで、安全に保存・維持される。
 
-PB Miningレビュー：ASICハードウェアを用いて Bitcoinマイニングを運営していると主張する。カスタマーがBitcoinマイニング契約を買おうとすると、すぐにBitcoinを稼ぎ始める。Piggyback Miningでは、電気代と全てのBitcoinマイニングプール手数料をカバーしている。Bitcoin	マイニング契約は、カスタマーに成功してほしいため100％保険付きだ。
+<strong>PB Miningレビュー</strong>：ASICハードウェアを用いて Bitcoinマイニングを運営していると主張する。カスタマーがBitcoinマイニング契約を買おうとすると、すぐにBitcoinを稼ぎ始める。Piggyback Miningでは、電気代と全てのBitcoinマイニングプール手数料をカバーしている。Bitcoin	マイニング契約は、カスタマーに成功してほしいため100％保険付きだ。
 
-Bitcoin Cloud Services (BCS)レビュー：500,000米ドルのポンジ詐欺であったようだ。
+<strong>Bitcoin Cloud Services (BCS)レビュー</strong>：500,000米ドルのポンジ詐欺であったようだ。
 
-Zeushashレビュー：支払を停止しているようだ。
+<strong>Zeushashレビュー</strong>：支払を停止しているようだ。
 
-Bitminer.ioレビュー：ユーザ報告によると、支払を停止しているようだ。
+<strong>Bitminer.ioレビュー</strong>：ユーザ報告によると、支払を停止しているようだ。
 
 <h2>暗号通貨クラウドマイニング企業</h2>
 
-Hashflareレビュー：SHA-256、Scrypt、Scrypt-Nの選択肢があるエストニアのクラウドマイナーで、現在最高の価値を提供しているようだ。
+<strong>Hashflareレビュー</strong>：SHA-256、Scrypt、Scrypt-Nの選択肢があるエストニアのクラウドマイナーで、現在最高の価値を提供しているようだ。
 
-Genesis Miningレビュー：Genesis Mining は最大のBitcoinおよびscryptクラウドマイニングプロバイダだ。
+<strong>Genesis Miningレビュー</strong>：Genesis Mining は最大のBitcoinおよびscryptクラウドマイニングプロバイダだ。
 
-Hashing 24レビュー：Hashing24はBitcoinマイニングに2012年から従事している。設備はアイスランドとグルジアにある。同社はBitFuryからのモダンな ASIC チップを使い、最大限のパフォーマンスとできる限りの効率性を提供している。
+<strong>Hashing 24レビュー</strong>：Hashing24はBitcoinマイニングに2012年から従事している。設備はアイスランドとグルジアにある。同社はBitFuryからのモダンな ASIC チップを使い、最大限のパフォーマンスとできる限りの効率性を提供している。
 
-Minexレビュー：Minexは、経済シミュレーション形式に示すようにブロックチェーンプロジェクトの革新的総合者である。ユーザはCloudpacksを購入し、予め選んだクラウドマイニングファーム、くじ、カジノ、実世界の市場などからインデックスを構築するのにこれを使える。
+<strong>Minexレビュー</strong>：Minexは、経済シミュレーション形式に示すようにブロックチェーンプロジェクトの革新的総合者である。ユーザはCloudpacksを購入し、予め選んだクラウドマイニングファーム、くじ、カジノ、実世界の市場などからインデックスを構築するのにこれを使える。
 
-Minergateレビュー：MinerGateは暗号通貨ファンのグループが創立したマイニングプールだ。合併マイニング向けサービスを提供する最初のプールである。これは、プールでマイニングをしつつ、主要コインへのハッシュレートを下げずに同時に異なるコインをマイニングできるということだ。
+<strong>Minergateレビュー</strong>：MinerGateは暗号通貨ファンのグループが創立したマイニングプールだ。合併マイニング向けサービスを提供する最初のプールである。これは、プールでマイニングをしつつ、主要コインへのハッシュレートを下げずに同時に異なるコインをマイニングできるということだ。
 
-Hashnestレビュー：HashnestはBitcoinマイナーのAntminerライン製造者であるBitmainが運営している。HashNestは現在、600以上の貸出用Antminer S7sを保有している。HashNestのウェブサイトで最新の価格と利用状況を閲覧できる。
+<strong>Hashnestレビュー</strong>：HashnestはBitcoinマイナーのAntminerライン製造者であるBitmainが運営している。HashNestは現在、600以上の貸出用Antminer S7sを保有している。HashNestのウェブサイトで最新の価格と利用状況を閲覧できる。
 
-Bitcoin Cloud Miningレビュー：2013年中ごろからBitcoinのマイニングをしていると思われる。全てのBitcoinマイナーはオーストラリアにある最先端のセンターに置かれ、高品質機器と毎日24時間のサポートへ直接アクセスがある。
+<strong>Bitcoin Cloud Miningレビュー</strong>：2013年中ごろからBitcoinのマイニングをしていると思われる。全てのBitcoinマイナーはオーストラリアにある最先端のセンターに置かれ、高品質機器と毎日24時間のサポートへ直接アクセスがある。
 
-NiceHashレビュー：NiceHashは、ハッシング能力の売買を提供する。ハッシング能力の販売は、自分のマイナーを同社階層マイニングプールに接続するだけとシンプルな一方、購入者はオンデマンド・その都度現金払いでハッシング能力を購入できる。使いやすくリスクのないクラウドマイニングサービスを提供すると主張する。SHA-256（Bitcoin等）、Scrypt（Litecoin、Dogecoin等）、Scrypt-N（Vertcoin等）、X11（DarkCoin等）に基づき、主要コインの大部分をマイニングできる。
+<strong>NiceHashレビュー</strong>：NiceHashは、ハッシング能力の売買を提供する。ハッシング能力の販売は、自分のマイナーを同社階層マイニングプールに接続するだけとシンプルな一方、購入者はオンデマンド・その都度現金払いでハッシング能力を購入できる。使いやすくリスクのないクラウドマイニングサービスを提供すると主張する。SHA-256（Bitcoin等）、Scrypt（Litecoin、Dogecoin等）、Scrypt-N（Vertcoin等）、X11（DarkCoin等）に基づき、主要コインの大部分をマイニングできる。
 
-Eobotレビュー：最も簡単で最も安価な最高のクラウドマイニングソリューションだと主張する。PayPalを使ってわずか10ドルから始め、Bitcoin、Litecoin、Peercoin、Namecoin、Feathercoin、Dogecoin、NautilusCoin、Vertcoin等あらゆる暗号通貨から選べる。
+<strong>Eobotレビュー</strong>：最も簡単で最も安価な最高のクラウドマイニングソリューションだと主張する。PayPalを使ってわずか10ドルから始め、Bitcoin、Litecoin、Peercoin、Namecoin、Feathercoin、Dogecoin、NautilusCoin、Vertcoin等あらゆる暗号通貨から選べる。
 
-MineOnCloudレビュー：MineOnCloudは旧式ソフトウェアを保有しているようだ。2013年11月に開始された。同社は非常に安定したASIC 28nmチップを使ったSHA256向けBitcoinマイニング契約を提供する。2つのBitcoinマイニング契約選択肢がある―一日パスと年間契約だ。カスタマーはBitcoinマイニングプールを選び、年間契約では毎月無料で変更できる。
+<strong>MineOnCloudレビュー</strong>：MineOnCloudは旧式ソフトウェアを保有しているようだ。2013年11月に開始された。同社は非常に安定したASIC 28nmチップを使ったSHA256向けBitcoinマイニング契約を提供する。2つのBitcoinマイニング契約選択肢がある―一日パスと年間契約だ。カスタマーはBitcoinマイニングプールを選び、年間契約では毎月無料で変更できる。
 
-Scrypt.ccレビュー：Scrypt.ccは、数秒でKHSを買えるようにし、すぐにマイニングを開始してリアルタイムでKHSを需給に基づく価格でトレードできるようにもする！全てのKHashesは2つの安全なデータセンターで、安全に保存・維持される。
+<strong>Scrypt.ccレビュー</strong>：Scrypt.ccは、数秒でKHSを買えるようにし、すぐにマイニングを開始してリアルタイムでKHSを需給に基づく価格でトレードできるようにもする！全てのKHashesは2つの安全なデータセンターで、安全に保存・維持される。
 
-PB Miningレビュー：ASICハードウェアを用いて Bitcoinマイニングを運営していると主張する。カスタマーがBitcoinマイニング契約を買おうとすると、すぐにBitcoinを稼ぎ始める。Piggyback Miningでは、電気代と全てのBitcoinマイニングプール手数料をカバーしている。Bitcoin	マイニング契約は、カスタマーに成功してほしいため100％保険付きだ。
+<strong>PB Miningレビュー</strong>：ASICハードウェアを用いて Bitcoinマイニングを運営していると主張する。カスタマーがBitcoinマイニング契約を買おうとすると、すぐにBitcoinを稼ぎ始める。Piggyback Miningでは、電気代と全てのBitcoinマイニングプール手数料をカバーしている。Bitcoin	マイニング契約は、カスタマーに成功してほしいため100％保険付きだ。
 
-Bitcoin Cloud Services (BCS)レビュー：500,000米ドルのポンジ詐欺であったようだ。
+<strong>Bitcoin Cloud Services (BCS)レビュー</strong>：500,000米ドルのポンジ詐欺であったようだ。
 
-Zeushashレビュー：支払を停止しているようだ。
+<strong>Zeushashレビュー</strong>：支払を停止しているようだ。
 
-Bitminer.ioレビュー：ユーザ報告によると、支払を停止しているようだ。
+<strong>Bitminer.ioレビュー</strong>：ユーザ報告によると、支払を停止しているようだ。
