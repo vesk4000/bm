@@ -29,7 +29,7 @@ Dann findet das gesamte Bitcoin-Mining aus der Ferne in der Cloud statt. Dadurch
 <li>Keine vorbestellte Bitcoin-Mining-Hardware, die von Bitcoin-Mining-Ausrüstungslieferanten möglicherweise nicht rechtzeitig geliefert wird</li>
 
 <h2>Was sind die Nachteile des Bitcoin Cloud Mining?</h2>
-<img src=/images/bitcoin-cloud-mining-scams.jpg" alt="bitcoin disadvantages"/>
+<img src="/images/bitcoin-cloud-mining-scams.jpg" alt="bitcoin disadvantages"/>
 <ul>
 <li>BETRUG!!!</li>
 <li>Nicht überprüfbare oder zwielichtige Cloud-Mining-Anbieter</li>
