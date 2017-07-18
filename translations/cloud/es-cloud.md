@@ -11,7 +11,7 @@ published: true
 
 La minería o “hasheo” en la nubepermite a los usuarios adquirircapacidad minera proveniente de los equiposde los centros de datos.
 
-Hay dos operadores, <a href="/hashflare-cloud-mining-review/">Hashflare</a> y <a href="/genesis-mining-review/">Genesis Mining</a>, que vienen ofreciendo contratos desde hace varios años.
+Hay dos operadores, <a href="http://geni.us/hashflare">Hashflare</a> y <a href="http://geni.us/genesismining">Genesis Mining</a>, que vienen ofreciendo contratos desde hace varios años.
 
 La minería de bitcoins en la nube permite ganar bitcoins a las personas que no cuentan con equipos de minado, programas de minado, electricidad, ancho de banda y otras cuestiones de conexión.
 
