@@ -67,3 +67,25 @@ ru:
   native: Pусский
 pt:
   native: Português
+bg:
+  native: Български
+  navigation:
+    getting-started: Започни
+    bitcoin-mining-news: Новини
+    bitcoin-mining-pools: Басейн
+    best-bitcoin-cloud-mining-contract-reviews: Облак
+    bitcoin-mining-software: Софтуер
+    bitcoin-mining-hardware: Хардуер
+  footer:
+    contribute: допринеси
+    links:
+      advertise: Реклами
+      faq: ЧЗВ
+      about-us: За нас
+  contribute-notif:
+    heading: Допринасяне и превеждане
+    text: >
+          <p>Целта ни е да разпространим познанието за Bitcoin навсякъде. Мислиш ли, че ще можеш да ни помогнеш да увеличим съдаржанието на уеб-сайта или да го преведеш, за тези, който не говорят английски?</p>
+          <p>Посети <a href="%github-url%">GitHub</a> и разбери как да помогнеш</p>
+  post:
+    written-by: 'Написано от <a href="%authorurl%">%author%</a> на %date%.'
